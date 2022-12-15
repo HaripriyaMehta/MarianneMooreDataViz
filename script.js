@@ -9,7 +9,22 @@ var poem_dict = {}
 var marker_dict={}
 var country_mapping={}
 var latlng_mapping={}
+$.get('./titles.csv', function(csvString) {
+
+  // Use PapaParse to convert string to array of objects
+  data = Papa.parse(csvString, { header: true, dynamicTyping: true }).data;
+
+  // For each row in data, create a marker and add it to the map
+  // For each row, columns `Latitude`, `Longitude`, and `Title` are required
+let dropdown=$("#mySelect") 
+  
+  for (var i in data) {
+    var name = data[i].PoemName;
+    dropdown.append($('<option></option>').attr('value', name).text(name));
+
+}});
 $.get('./data.csv', function(csvString) {
+  
 
   // Use PapaParse to convert string to array of objects
   data = Papa.parse(csvString, { header: true, dynamicTyping: true }).data;
@@ -72,8 +87,8 @@ $.get('./data.csv', function(csvString) {
     marker_dict[poem] = L.layerGroup(marker_dict[poem]);
   });
   
-  marker_dict["adventure"].addTo(map)
-  others = marker_dict["adventure"]
+  marker_dict["To an Intra-Mural Rat"].addTo(map)
+  others = marker_dict["To an Intra-Mural Rat"]
 });
 
 
@@ -84,4 +99,3 @@ function changePoem(value) {
   marker_dict[value].addTo(map)
   others = marker_dict[value]
 }
-
