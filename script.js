@@ -23,6 +23,24 @@ let dropdown=$("#mySelect")
     dropdown.append($('<option></option>').attr('value', name).text(name));
 
 }});
+
+$.get('./countries.csv', function(csvString) {
+
+  // Use PapaParse to convert string to array of objects
+  data = Papa.parse(csvString, { header: true, dynamicTyping: true }).data;
+
+  // For each row in data, create a marker and add it to the map
+  // For each row, columns `Latitude`, `Longitude`, and `Title` are required
+let dropdown=$("#countrySelect") 
+  
+  for (var i in data) {
+    var name = data[i].Country;
+    dropdown.append($('<option></option>').attr('value', name).text(name));
+
+}});
+
+
+
 $.get('./data.csv', function(csvString) {
   
 
@@ -33,9 +51,6 @@ $.get('./data.csv', function(csvString) {
   // For each row, columns `Latitude`, `Longitude`, and `Title` are required
   for (var i in data) {
     var row = data[i];
-
-
-    //{"adventure":LayerGroup([Marker1, Marker2]), "party":LayerGroup([Marker1, Marker2, Marker3])}
     if (row.poemname in poem_dict) {
       poem_dict[row.poemname].push(row)
     }
@@ -62,6 +77,8 @@ $.get('./data.csv', function(csvString) {
 				country_mapping[row.country]+="Poem: "+row.poemname+"<br>"+"Line #: "+row.linenumber + ", Word: " + row.word+"<br>"
 				
 			}
+
+      console.log(row.Latitude, row.Longitude);
 			
 			latlng_mapping[row.country]=[row.Latitude, row.Longitude]
 
@@ -86,9 +103,9 @@ $.get('./data.csv', function(csvString) {
   markerMapping.forEach((poem) => {
     marker_dict[poem] = L.layerGroup(marker_dict[poem]);
   });
-  
-  marker_dict["To an Intra-Mural Rat"].addTo(map)
-  others = marker_dict["To an Intra-Mural Rat"]
+
+  marker_dict["An Octopus"].addTo(map)
+  others = marker_dict["An Octopus"]
 });
 
 
@@ -98,4 +115,9 @@ function changePoem(value) {
   }
   marker_dict[value].addTo(map)
   others = marker_dict[value]
+}
+
+
+function changeCountry(value) {
+  console.log(value);
 }
