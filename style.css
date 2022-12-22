@@ -4,3 +4,31 @@ html, body {
 }
 
 #map { height: 80%; width:57%; margin: auto;}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+  background-color: #e6e6e6;
+  width: 250px;
+  height: 300px;
+  margin: 1% 1% 1% 1%;
+  float: left;
+  overflow-y: scroll;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.p{
+  padding: 0px 10px 0px 10px;
+  
+  font-family: Helvetica;
+}
+
+.h1{
+  padding: 0px 10px 0px 10px;
+  font-family: Helvetica;
+  font-size: 20px;
+}
