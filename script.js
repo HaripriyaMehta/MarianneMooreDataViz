@@ -9,6 +9,11 @@ var poem_dict = {}
 var marker_dict = {}
 var country_mapping = {}
 var latlng_mapping = {}
+
+//Cards
+var cards_poems = {};
+var countries = {};
+
 $.get('./titles.csv', function(csvString) {
 
   // Use PapaParse to convert string to array of objects
@@ -105,6 +110,67 @@ $.get('./data.csv', function(csvString) {
 
   marker_dict["An Octopus"].addTo(map)
   others = marker_dict["An Octopus"]
+
+
+//Cards
+    // Compile data
+  for (var i in data) {
+    var row = data[i];
+    var line = {
+      "linenumber": row.linenumber,
+      "word": row.word,
+      "country": row.country
+    };
+
+    if (row.poemname in cards_poems) { // create cards_poems: each poem maps to an array of its lines
+      cards_poems[row.poemname].push(line);
+    }
+    else {
+      cards_poems[row.poemname] = [line]
+    }
+
+    if (!(row.country in countries)) { // create countries: each country maps to array of peoms
+      countries[row.country] = [row.poemname];
+    } else if (!countries[row.country].includes(row.poemname)) {
+      countries[row.country].push(row.poemname);
+    }
+  }
+
+  // Create cards with compiled data
+  cardfolder = document.createElement("div");
+  cardfolder.setAttribute("id", "cardfolder");
+  for (var i = 0; i < countries["Africa"].length; i++) { // loop through all the poems Africa maps to
+    poem = countries["Africa"][i];
+
+    card = document.createElement("div");
+
+    // Add poem name to card
+    h1 = document.createElement("h1");
+    h1.appendChild(document.createTextNode(poem));
+    h1.className = "h1";
+    card.appendChild(h1);
+
+    //Add the poem's lines to card
+    var line = cards_poems[poem]; // array of all the geographic words in the poem
+    p = document.createElement("p");
+    for (var j = 0; j < line.length; j++) { // loop through array of all the lines
+      // get line info
+      var line_info = line[j];
+      var linenumber = line_info["linenumber"];
+      var word = line_info["word"];
+      var country = line_info["country"];
+
+      // Add line info to card
+      p.appendChild(document.createTextNode(linenumber + " " + "\"" + word + "\"" + " " + country));
+      p.appendChild(document.createElement("br"));
+    }
+    p.className = "p";
+    card.appendChild(p);
+
+    card.className = "card";
+    cardfolder.appendChild(card);
+  }
+  document.body.appendChild(cardfolder);
 });
 
 
@@ -118,5 +184,45 @@ function changePoem(value) {
 
 
 function changeCountry(value) {
-  console.log(value);
+    cf = document.getElementById("cardfolder");
+  if (cf != null) {
+    document.body.removeChild(cf);
+  }
+
+  cardfolder = document.createElement("div");
+  cardfolder.setAttribute("id", "cardfolder");
+  if (countries[value] != null) {
+    for (var i = 0; i < countries[value].length; i++) {
+      poem = countries[value][i];
+
+      card = document.createElement("div");
+
+      // Add poem name to card
+      h1 = document.createElement("h1");
+      h1.appendChild(document.createTextNode(poem));
+      h1.className = "h1";
+      card.appendChild(h1);
+
+      //Add the poem's lines to card
+      var line = cards_poems[poem]; // array of all the geographic words in the poem
+      p = document.createElement("p");
+      for (var j = 0; j < line.length; j++) { // loop through array of all the lines
+        // get line info
+        var line_info = line[j];
+        var linenumber = line_info["linenumber"];
+        var word = line_info["word"];
+        var country = line_info["country"];
+
+        // Add line info to card
+        p.appendChild(document.createTextNode(linenumber + " " + "\"" + word + "\"" + " " + country));
+        p.appendChild(document.createElement("br"));
+      }
+      p.className = "p";
+      card.appendChild(p);
+
+      card.className = "card";
+      cardfolder.appendChild(card);
+    }
+    document.body.appendChild(cardfolder);
+  }
 }
