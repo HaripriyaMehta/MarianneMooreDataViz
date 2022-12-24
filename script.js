@@ -2,7 +2,7 @@ var map = L.map('map').setView([0, 0], 2);
 map.setMaxBounds([[80, -190], [-80, 190]]);
 map.setMinZoom(2);
 var osmLayer = new L.TileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  noWrap: true
+ noWrap: true
 }).addTo(map);
 var data;
 var poem_dict = {}
@@ -66,7 +66,7 @@ $.get('./data.csv', function(csvString) {
     }
   }
   let poemDictionary = Object.keys(poem_dict);
-  country_mapping[row.country] += " Country:" + row.country + "<br>"
+  country_mapping[row.country] += " Location:" + row.country + "<br>"
   country_mapping[row.country] += "Poem: " + row.poemname
   poemDictionary.forEach((poem) => {
     country_mapping = {}
@@ -80,7 +80,7 @@ $.get('./data.csv', function(csvString) {
 
       }
       else {
-        country_mapping[row.country] = "Country: " + row.country + "<br>"
+        country_mapping[row.country] = "Location: " + row.country + "<br>"
         country_mapping[row.country] += "Poem: " + row.poemname + "<br>" + "Line #: " + row.linenumber + ", Word: " + row.word + "<br>"
 
       }
@@ -146,7 +146,9 @@ $.get('./data.csv', function(csvString) {
 
     // Add poem name to card
     h1 = document.createElement("h1");
-    h1.appendChild(document.createTextNode(poem));
+    h1.appendChild(document.createTextNode("Poem: " + poem));
+    h1.appendChild(document.createElement("br"));
+    h1.appendChild(document.createTextNode("Location:  Africa"));
     h1.className = "h1";
     card.appendChild(h1);
 
@@ -161,8 +163,10 @@ $.get('./data.csv', function(csvString) {
       var country = line_info["country"];
 
       // Add line info to card
-      p.appendChild(document.createTextNode(linenumber + " " + "\"" + word + "\"" + " " + country));
-      p.appendChild(document.createElement("br"));
+      if (country == "Africa"){
+        p.appendChild(document.createTextNode("Line #: " + linenumber + ", "  + "\"" + word + "\""));
+        p.appendChild(document.createElement("br"));
+      }
     }
     p.className = "p";
     card.appendChild(p);
@@ -170,8 +174,14 @@ $.get('./data.csv', function(csvString) {
     card.className = "card";
     cardfolder.appendChild(card);
   }
-  document.body.appendChild(cardfolder);
+  
+  document.body.appendChild(cardfolder);  
+  for (var i = 0; i < Math.ceil(countries["Africa"].length/3)+1; i++) { 
+    $('#cardfolder').append('<br><br><br><br><br><br><br><br><br>');
+  }
 });
+
+
 
 
 function changePoem(value) {
@@ -198,10 +208,13 @@ function changeCountry(value) {
       card = document.createElement("div");
 
       // Add poem name to card
-      h1 = document.createElement("h1");
-      h1.appendChild(document.createTextNode(poem));
-      h1.className = "h1";
-      card.appendChild(h1);
+    h1 = document.createElement("h1");
+    h1.appendChild(document.createTextNode("Poem: " + poem));
+    h1.appendChild(document.createElement("br"));
+    h1.appendChild(document.createTextNode("Location: " + value));
+    h1.className = "h1";
+    card.appendChild(h1);
+
 
       //Add the poem's lines to card
       var line = cards_poems[poem]; // array of all the geographic words in the poem
@@ -213,10 +226,13 @@ function changeCountry(value) {
         var word = line_info["word"];
         var country = line_info["country"];
 
+        if (country == value){
         // Add line info to card
-        p.appendChild(document.createTextNode(linenumber + " " + "\"" + word + "\"" + " " + country));
+        p.appendChild(document.createTextNode("Line #: " + linenumber + ", " + "\"" + word + "\""));
         p.appendChild(document.createElement("br"));
       }
+      }
+    
       p.className = "p";
       card.appendChild(p);
 
@@ -224,5 +240,9 @@ function changeCountry(value) {
       cardfolder.appendChild(card);
     }
     document.body.appendChild(cardfolder);
+  for (var i = 0; i < Math.ceil(countries[value].length/3)+1; i++) { 
+    $('#cardfolder').append('<br><br><br><br><br><br><br><br><br>');
+  }
+
   }
 }
