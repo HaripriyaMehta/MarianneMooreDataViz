@@ -1,1447 +1,1486 @@
 ,poemname,linenumber,word,country,Latitude,Longitude
-0,An Octopus,64,antelope,Africa,11.5024338,17.7578122
-1,The Jerboa,22,antelope,Africa,11.5024338,17.7578122
-2,Fear is Hope,10,caravan,Andorra,42.5407167,1.5732033
-3,An Octopus,96,glacier,Antarctica,-79.4063075,0.3149312
-4,Sea Unicorns and Land Unicorns,18,antarctica,Antarctica,-79.4063075,0.3149312
-5,Quoting An Also Private Thought,13,antipodal,Antarctica,-79.4063075,0.3149312
-6,The Plumet Basilisk,2,driftwood,Arctic,42.1856379,-75.4143448
-7,The Jerboa,58,fig,Argentina,-34.9964963,-64.9672817
-8,The Old Dominion,131,fig,Argentina,-34.9964963,-64.9672817
-9,The Old Dominion,142,fig,Argentina,-34.9964963,-64.9672817
-10,He Made This Screen,5,fig,Argentina,-34.9964963,-64.9672817
-11,Elephants,60,wreath,Armenia,40.7696272,44.6736646
-12,Armor’s Undermining Modesty,30,wreath,Armenia,40.7696272,44.6736646
-13,For February 14th,12,wreath,Armenia,40.7696272,44.6736646
-14,"In “Designing a Cloak to Cloak his Designs,” you Wrested from Oblivion, a Coat of Immortality for your own Use.",5,wreath,Armenia,40.7696272,44.6736646
-15,A Talisman,8,sea,Atlantic,39.5143268,-74.6632883
-16,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",6,sea,Atlantic,39.5143268,-74.6632883
-17,Sojourn in the Whale,3,sea,Atlantic,39.5143268,-74.6632883
-18,My Apish Cousins,22,sea,Atlantic,39.5143268,-74.6632883
-19,The Fish,19,sea,Atlantic,39.5143268,-74.6632883
-20,The Fish,46,sea,Atlantic,39.5143268,-74.6632883
-21,Dock Rats,3,sea,Atlantic,39.5143268,-74.6632883
-22,Dock Rats,20,sea,Atlantic,39.5143268,-74.6632883
-23,A Grave,1,sea,Atlantic,39.5143268,-74.6632883
-24,A Grave,6,sea,Atlantic,39.5143268,-74.6632883
-25,A Grave,10,sea,Atlantic,39.5143268,-74.6632883
-26,A Grave,11,sea,Atlantic,39.5143268,-74.6632883
-27,A Grave,23,sea,Atlantic,39.5143268,-74.6632883
-28,Novices,11,sea,Atlantic,39.5143268,-74.6632883
-29,Novices,43,sea,Atlantic,39.5143268,-74.6632883
-30,An Octopus,3,sea,Atlantic,39.5143268,-74.6632883
-31,Sea Unicorns and Land Unicorns,0,sea,Atlantic,39.5143268,-74.6632883
-32,Sea Unicorns and Land Unicorns,9,sea,Atlantic,39.5143268,-74.6632883
-33,Sea Unicorns and Land Unicorns,11,sea,Atlantic,39.5143268,-74.6632883
-34,Sea Unicorns and Land Unicorns,34,sea,Atlantic,39.5143268,-74.6632883
-35,Sea Unicorns and Land Unicorns,38,sea,Atlantic,39.5143268,-74.6632883
-36,Sea Unicorns and Land Unicorns,41,sea,Atlantic,39.5143268,-74.6632883
-37,"Part of a Novel, Part of a Poem, Part of a Play",5,sea,Atlantic,39.5143268,-74.6632883
-38,"Part of a Novel, Part of a Poem, Part of a Play",15,sea,Atlantic,39.5143268,-74.6632883
-39,"Part of a Novel, Part of a Poem, Part of a Play",51,sea,Atlantic,39.5143268,-74.6632883
-40,"Part of a Novel, Part of a Poem, Part of a Play",120,sea,Atlantic,39.5143268,-74.6632883
-41,No Swan So Fine,10,sea,Atlantic,39.5143268,-74.6632883
-42,The Plumet Basilisk,14,sea,Atlantic,39.5143268,-74.6632883
-43,The Plumet Basilisk,61,sea,Atlantic,39.5143268,-74.6632883
-44,Pigeons,30,sea,Atlantic,39.5143268,-74.6632883
-45,Pigeons,96,sea,Atlantic,39.5143268,-74.6632883
-46,The Old Dominion,128,sea,Atlantic,39.5143268,-74.6632883
-47,The Old Dominion,282,sea,Atlantic,39.5143268,-74.6632883
-48,What are Years?,15,sea,Atlantic,39.5143268,-74.6632883
-49,Light is Speech,26,sea,Atlantic,39.5143268,-74.6632883
-50,He “Digesteth Harde Yron”,42,sea,Atlantic,39.5143268,-74.6632883
-51,The Paper Nautilus,11,sea,Atlantic,39.5143268,-74.6632883
-52,In Distrust of Merits,11,sea,Atlantic,39.5143268,-74.6632883
-53,Propriety,20,sea,Atlantic,39.5143268,-74.6632883
-54,Rosemary,3,sea,Atlantic,39.5143268,-74.6632883
-55,Rosemary,14,sea,Atlantic,39.5143268,-74.6632883
-56,Granite and Steel,1,sea,Atlantic,39.5143268,-74.6632883
-57,Granite and Steel,17,sea,Atlantic,39.5143268,-74.6632883
-58,"The mind, intractable thing",27,sea,Atlantic,39.5143268,-74.6632883
-59,He Made This Screen,3,sea,Atlantic,39.5143268,-74.6632883
-60,Old Tiger,41,sea,Atlantic,39.5143268,-74.6632883
-61,"Part of a Novel, Part of a Poem, Part of a Play",126,swordfish,Atlantic,39.5143268,-74.6632883
-62,The Jerboa,151,seed,Atlantic,39.5143268,-74.6632883
-63,Camellia Sabina,35,seed,Atlantic,39.5143268,-74.6632883
-64,Spenser’s Ireland,16,seed,Atlantic,39.5143268,-74.6632883
-65,Spenser’s Ireland,20,seed,Atlantic,39.5143268,-74.6632883
-66,Nevertheless,5,seed,Atlantic,39.5143268,-74.6632883
-67,Nevertheless,6,seed,Atlantic,39.5143268,-74.6632883
-68,Style,29,seed,Atlantic,39.5143268,-74.6632883
-69,Enough,42,seed,Atlantic,39.5143268,-74.6632883
-70,Rescue with Yul Brynner,43,seed,Atlantic,39.5143268,-74.6632883
-71,The Arctic Ox (or Goat),3,atlantic,Atlantic,39.5143268,-74.6632883
-72,My Apish Cousins,4,parakeet,Australia,-24.7761086,134.755
-73,Dock Rats,17,parakeet,Australia,-24.7761086,134.755
-74,Radical,3,carrot,Australia,-24.7761086,134.755
-75,Nevertheless,16,carrot,Australia,-24.7761086,134.755
-76,The Arctic Ox (or Goat),56,carrot,Australia,-24.7761086,134.755
-77,Baseball and Writing,73,carrot,Australia,-24.7761086,134.755
-78,An Octopus,121,totemic,Australia,-24.7761086,134.755
-79,The Jerboa,152,kangaroo,Australia,-24.7761086,134.755
-80,The Frigate Pelican,37,sheep,Australia,-24.7761086,134.755
-81,Nine Nectarines and Other Porcelain,61,sheep,Australia,-24.7761086,134.755
-82,The Arctic Ox (or Goat),46,sheep,Australia,-24.7761086,134.755
-83,Then the Ermine:,31,darker,Australia,-24.7761086,134.755
-84,Dock Rats,16,mountain,Austria,47.59397,14.12456
-85,An Octopus,74,mountain,Austria,47.59397,14.12456
-86,An Octopus,80,mountain,Austria,47.59397,14.12456
-87,An Octopus,84,mountain,Austria,47.59397,14.12456
-88,An Octopus,111,mountain,Austria,47.59397,14.12456
-89,An Octopus,120,mountain,Austria,47.59397,14.12456
-90,An Octopus,153,mountain,Austria,47.59397,14.12456
-91,An Octopus,154,mountain,Austria,47.59397,14.12456
-92,An Octopus,231,mountain,Austria,47.59397,14.12456
-93,Spenser’s Ireland,70,mountain,Austria,47.59397,14.12456
-94,His Shield,16,mountain,Austria,47.59397,14.12456
-95,The Arctic Ox (or Goat),55,mountain,Austria,47.59397,14.12456
-96,Sea Unicorns and Land Unicorns,33,pomegranate,Azerbaijan,40.3936294,47.7872508
-97,The Jerboa,32,pomegranate,Azerbaijan,40.3936294,47.7872508
-98,The Old Dominion,91,pomegranate,Azerbaijan,40.3936294,47.7872508
-99,The Old Dominion,249,pomegranate,Azerbaijan,40.3936294,47.7872508
-100,The Plumet Basilisk,1,costa,Bahamas,24.7736546,-78.0000547
-101,The Plumet Basilisk,5,costa,Bahamas,24.7736546,-78.0000547
-102,The Plumet Basilisk,78,costa,Bahamas,24.7736546,-78.0000547
-103,The Frigate Pelican,104,caribbean,Bahamas,24.7736546,-78.0000547
-104,A Carriage from Sweden,12,archipelago,Bahamas,24.7736546,-78.0000547
-105,The Monkey Puzzler,21,porcupine,Botswana,-23.1681782,24.5928742
-106,Peter,9,porcupine,Botswana,-23.1681782,24.5928742
-107,An Octopus,46,porcupine,Botswana,-23.1681782,24.5928742
-108,The Plumet Basilisk,135,porcupine,Botswana,-23.1681782,24.5928742
-109,His Shield,3,porcupine,Botswana,-23.1681782,24.5928742
-110,Apparition of Splendor,6,porcupine,Botswana,-23.1681782,24.5928742
-111,Apparition of Splendor,16,porcupine,Botswana,-23.1681782,24.5928742
-112,The Monkey Puzzler,0,monkey,Brazil,-10.3333333,-53.2
-113,The Monkey Puzzler,1,monkey,Brazil,-10.3333333,-53.2
-114,The Monkey Puzzler,2,monkey,Brazil,-10.3333333,-53.2
-115,Dock Rats,18,monkey,Brazil,-10.3333333,-53.2
-116,The Jerboa,55,monkey,Brazil,-10.3333333,-53.2
-117,The Plumet Basilisk,103,monkey,Brazil,-10.3333333,-53.2
-118,Nine Nectarines and Other Porcelain,66,monkey,Brazil,-10.3333333,-53.2
-119,Tom Fool at Jamaica,40,monkey,Brazil,-10.3333333,-53.2
-120,The Plumet Basilisk,152,jaguar,Brazil,-10.3333333,-53.2
-121,The Frigate Pelican,65,jaguar,Brazil,-10.3333333,-53.2
-122,Marriage,78,waterfall,Cambodia,12.5433216,104.8144914
-123,An Octopus,61,waterfall,Cambodia,12.5433216,104.8144914
-124,An Octopus,238,waterfall,Cambodia,12.5433216,104.8144914
-125,In the Public Garden,35,waterfall,Cambodia,12.5433216,104.8144914
-126,In Lieu of the Lyre,20,waterfall,Cambodia,12.5433216,104.8144914
-127,In Lieu of the Lyre,23,waterfall,Cambodia,12.5433216,104.8144914
-128,Poetry,14,bat,Canada,61.0666922,-107.991707
-129,Like a Bulrush,11,bat,Canada,61.0666922,-107.991707
-130,People’s Surroundings,35,bat,Canada,61.0666922,-107.991707
-131,"Part of a Novel, Part of a Poem, Part of a Play",131,bat,Canada,61.0666922,-107.991707
-132,The Plumet Basilisk,56,bat,Canada,61.0666922,-107.991707
-133,The Plumet Basilisk,103,bat,Canada,61.0666922,-107.991707
-134,The Plumet Basilisk,152,bat,Canada,61.0666922,-107.991707
-135,The Frigate Pelican,60,bat,Canada,61.0666922,-107.991707
-136,Nine Nectarines and Other Porcelain,41,bat,Canada,61.0666922,-107.991707
-137,Then the Ermine:,3,bat,Canada,61.0666922,-107.991707
-138,Hometown Piece for Messrs. Alston and Reese,19,bat,Canada,61.0666922,-107.991707
-139,Hometown Piece for Messrs. Alston and Reese,50,bat,Canada,61.0666922,-107.991707
-140,Baseball and Writing,19,bat,Canada,61.0666922,-107.991707
-141,Baseball and Writing,22,bat,Canada,61.0666922,-107.991707
-142,Baseball and Writing,44,bat,Canada,61.0666922,-107.991707
-143,Baseball and Writing,66,bat,Canada,61.0666922,-107.991707
-144,Old Amusement Park,5,bat,Canada,61.0666922,-107.991707
-145,Old Tiger,11,bat,Canada,61.0666922,-107.991707
-146,Dock Rats,14,apple,Canada,61.0666922,-107.991707
-147,Marriage,117,apple,Canada,61.0666922,-107.991707
-148,Marriage,148,apple,Canada,61.0666922,-107.991707
-149,"Part of a Novel, Part of a Poem, Part of a Play",92,apple,Canada,61.0666922,-107.991707
-150,Nevertheless,6,apple,Canada,61.0666922,-107.991707
-151,Quoting An Also Private Thought,3,apple,Canada,61.0666922,-107.991707
-152,A Grave,7,fir,Canada,61.0666922,-107.991707
-153,People’s Surroundings,19,fir,Canada,61.0666922,-107.991707
-154,An Octopus,15,fir,Canada,61.0666922,-107.991707
-155,An Octopus,41,fir,Canada,61.0666922,-107.991707
-156,The Jerboa,5,fir,Canada,61.0666922,-107.991707
-157,Propriety,18,fir,Canada,61.0666922,-107.991707
-158,By Disposition of Angels,9,fir,Canada,61.0666922,-107.991707
-159,A Grave,28,lighthouse,Canada,61.0666922,-107.991707
-160,"Part of a Novel, Part of a Poem, Part of a Play",11,lighthouse,Canada,61.0666922,-107.991707
-161,Light is Speech,8,lighthouse,Canada,61.0666922,-107.991707
-162,Light is Speech,10,lighthouse,Canada,61.0666922,-107.991707
-163,People’s Surroundings,72,fiddler,Canada,61.0666922,-107.991707
-164,An Octopus,87,chipmunk,Canada,61.0666922,-107.991707
-165,The Jerboa,128,chipmunk,Canada,61.0666922,-107.991707
-166,The Wood-Weasel,2,chipmunk,Canada,61.0666922,-107.991707
-167,Tom Fool at Jamaica,6,jockey,Canada,61.0666922,-107.991707
-168,The Jerboa,0,jerboa,China,35.000074,104.999927
-169,The Jerboa,84,jerboa,China,35.000074,104.999927
-170,The Jerboa,141,jerboa,China,35.000074,104.999927
-171,Fear is Hope,9,sun,China,35.000074,104.999927
-172,Fear is Hope,11,sun,China,35.000074,104.999927
-173,Fear is Hope,19,sun,China,35.000074,104.999927
-174,An Egyptian Pulled Glass Bottle in the Shape of a Fish,8,sun,China,35.000074,104.999927
-175,The Fish,13,sun,China,35.000074,104.999927
-176,Black Earth,5,sun,China,35.000074,104.999927
-177,Radical,11,sun,China,35.000074,104.999927
-178,Peter,12,sun,China,35.000074,104.999927
-179,An Octopus,71,sun,China,35.000074,104.999927
-180,Nine Nectarines and Other Porcelain,13,sun,China,35.000074,104.999927
-181,See in the Midst of Fair Leaves,6,sun,China,35.000074,104.999927
-182,Walking-Sticks and Paperweights and Watermarks,5,sun,China,35.000074,104.999927
-183,The Old Dominion,56,sun,China,35.000074,104.999927
-184,The Old Dominion,251,sun,China,35.000074,104.999927
-185,The Pangolin,38,sun,China,35.000074,104.999927
-186,The Pangolin,93,sun,China,35.000074,104.999927
-187,The Pangolin,131,sun,China,35.000074,104.999927
-188,Elephants,13,sun,China,35.000074,104.999927
-189,A Carriage from Sweden,37,sun,China,35.000074,104.999927
-190,The Mind is an Enchanting Thing,4,sun,China,35.000074,104.999927
-191,The Mind is an Enchanting Thing,22,sun,China,35.000074,104.999927
-192,“Keeping Their World Large”,46,sun,China,35.000074,104.999927
-193,Efforts of Affection,17,sun,China,35.000074,104.999927
-194,Enough,32,sun,China,35.000074,104.999927
-195,"Saint Nicholas,",7,sun,China,35.000074,104.999927
-196,Leonardo da Vinci’s,38,sun,China,35.000074,104.999927
-197,"Tell Me, Tell Me",22,sun,China,35.000074,104.999927
-198,Blake,6,sun,China,35.000074,104.999927
-199,Is Your Town Nineveh?,8,east,China,35.000074,104.999927
-200,Critics and Connoisseurs,23,east,China,35.000074,104.999927
-201,Dock Rats,13,east,China,35.000074,104.999927
-202,UK,12,east,China,35.000074,104.999927
-203,The Plumet Basilisk,38,east,China,35.000074,104.999927
-204,The Plumet Basilisk,56,east,China,35.000074,104.999927
-205,A Carriage from Sweden,37,east,China,35.000074,104.999927
-206,To Military Progress,0,military,China,35.000074,104.999927
-207,"Part of a Novel, Part of a Poem, Part of a Play",106,military,China,35.000074,104.999927
-208,The Plumet Basilisk,102,military,China,35.000074,104.999927
-209,The Monkey Puzzler,5,bamboo,China,35.000074,104.999927
-210,Style,14,bamboo,China,35.000074,104.999927
-211,The Labors of Hercules,36,oriental,China,35.000074,104.999927
-212,"Part of a Novel, Part of a Poem, Part of a Play",93,oriental,China,35.000074,104.999927
-213,People’s Surroundings,43,vermilion,China,35.000074,104.999927
-214,An Octopus,20,vermilion,China,35.000074,104.999927
-215,People’s Surroundings,53,orchid,China,35.000074,104.999927
-216,An Octopus,156,orchid,China,35.000074,104.999927
-217,The Plumet Basilisk,38,orchid,China,35.000074,104.999927
-218,The Plumet Basilisk,52,orchid,China,35.000074,104.999927
-219,The Plumet Basilisk,85,orchid,China,35.000074,104.999927
-220,The Frigate Pelican,63,orchid,China,35.000074,104.999927
-221,People’s Surroundings,75,duke,China,35.000074,104.999927
-222,Hometown Piece for Messrs. Alston and Reese,19,duke,China,35.000074,104.999927
-223,Marriage,141,fern,China,35.000074,104.999927
-224,An Octopus,125,fern,China,35.000074,104.999927
-225,"Part of a Novel, Part of a Poem, Part of a Play",36,fern,China,35.000074,104.999927
-226,The Jerboa,151,fern,China,35.000074,104.999927
-227,The Plumet Basilisk,83,fern,China,35.000074,104.999927
-228,Spenser’s Ireland,17,fern,China,35.000074,104.999927
-229,Spenser’s Ireland,19,fern,China,35.000074,104.999927
-230,Efforts of Affection,13,fern,China,35.000074,104.999927
-231,Apparition of Splendor,6,fern,China,35.000074,104.999927
-232,An Octopus,20,manganese,China,35.000074,104.999927
-233,An Octopus,53,gem,China,35.000074,104.999927
-234,An Octopus,71,acetylene,China,35.000074,104.999927
-235,Camellia Sabina,1,plum,China,35.000074,104.999927
-236,Nine Nectarines and Other Porcelain,20,plum,China,35.000074,104.999927
-237,The Old Dominion,110,plum,China,35.000074,104.999927
-238,Camellia Sabina,12,cucumber,China,35.000074,104.999927
-239,In the Public Garden,13,gilded,China,35.000074,104.999927
-240,Nine Nectarines and Other Porcelain,0,porcelain,China,35.000074,104.999927
-241,Nine Nectarines and Other Porcelain,83,porcelain,China,35.000074,104.999927
-242,Nine Nectarines and Other Porcelain,0,nectarine,China,35.000074,104.999927
-243,Nine Nectarines and Other Porcelain,8,nectarine,China,35.000074,104.999927
-244,Nine Nectarines and Other Porcelain,21,nectarine,China,35.000074,104.999927
-245,Nine Nectarines and Other Porcelain,34,nectarine,China,35.000074,104.999927
-246,Nine Nectarines and Other Porcelain,78,nectarine,China,35.000074,104.999927
-247,The Old Dominion,118,republic,China,35.000074,104.999927
-248,The Pangolin,88,manis,China,35.000074,104.999927
-249,Enough,13,communism,China,35.000074,104.999927
-250,For February 14th,11,armillary,China,35.000074,104.999927
-251,An Octopus,129,cavalcade,Colombia,4.099917,-72.9088133
-252,An Octopus,131,cavalcade,Colombia,4.099917,-72.9088133
-253,The Old Dominion,75,cavalcade,Colombia,4.099917,-72.9088133
-254,People’s Surroundings,20,velvet,Congo,-2.9814344,23.8222636
-255,The Old Dominion,70,velvet,Congo,-2.9814344,23.8222636
-256,Pretiolae,3,velvet,Congo,-2.9814344,23.8222636
-257,"Saint Nicholas,",31,velvet,Congo,-2.9814344,23.8222636
-258,Tippoo’s Tiger,9,velvet,Congo,-2.9814344,23.8222636
-259,The Old Dominion,101,pigmy,Congo,-2.9814344,23.8222636
-260,Rescue with Yul Brynner,10,pigmy,Congo,-2.9814344,23.8222636
-261,Appellate Jurisdiction,5,castaway,Cook Islands,-19.919672900000002,-157.9753368892878
-262,"A Fool, a Foul Thing, a Distressful Lunatic",6,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-263,People’s Surroundings,21,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-264,Bowls,2,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-265,Marriage,69,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-266,Marriage,248,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-267,The Jerboa,94,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-268,The Buffalo,44,ivory,Côte d'Ivoire,7.9897371,-5.5679458
-269,The Labors of Hercules,30,goose,Denmark,55.670249,10.3333283
-270,The Jerboa,29,goose,Denmark,55.670249,10.3333283
-271,The Jerboa,45,goose,Denmark,55.670249,10.3333283
-272,Critics and Connoisseurs,10,willow,Ecuador,-1.3397668,-79.3666965
-273,"Part of a Novel, Part of a Poem, Part of a Play",195,willow,Ecuador,-1.3397668,-79.3666965
-274,Nine Nectarines and Other Porcelain,38,willow,Ecuador,-1.3397668,-79.3666965
-275,The Old Dominion,175,willow,Ecuador,-1.3397668,-79.3666965
-276,The Old Dominion,194,willow,Ecuador,-1.3397668,-79.3666965
-277,The Arctic Ox (or Goat),60,willow,Ecuador,-1.3397668,-79.3666965
-278,A Grave,26,tortoise,Ecuador ,-1.3397668,-79.3666965
-279,"Snakes, Mongooses, Snake-Charmers, and the Like",12,tortoise,Ecuador ,-1.3397668,-79.3666965
-280,A Talisman,8,scarab,Egypt,26.2540493,29.2675469
-281,"A Fool, a Foul Thing, a Distressful Lunatic",5,egyptian,Egypt,26.2540493,29.2675469
-282,An Egyptian Pulled Glass Bottle in the Shape of a Fish,0,egyptian,Egypt,26.2540493,29.2675469
-283,To Statecraft Embalmed,5,egyptian,Egypt,26.2540493,29.2675469
-284,UK,38,egyptian,Egypt,26.2540493,29.2675469
-285,The Old Dominion,131,egyptian,Egypt,26.2540493,29.2675469
-286,The Icosasphere,19,egyptian,Egypt,26.2540493,29.2675469
-287,To Military Progress,11,god,Egypt,26.2540493,29.2675469
-288,"In this Age of Hard Trying, Nonchalance is Good and",2,god,Egypt,26.2540493,29.2675469
-289,The Plumet Basilisk,54,god,Egypt,26.2540493,29.2675469
-290,The Pangolin,91,god,Egypt,26.2540493,29.2675469
-291,Four Quartz Crystal Clocks,42,god,Egypt,26.2540493,29.2675469
-292,Melchior Vulpius,7,god,Egypt,26.2540493,29.2675469
-293,W. S. Landor,8,god,Egypt,26.2540493,29.2675469
-294,Tippoo’s Tiger,16,god,Egypt,26.2540493,29.2675469
-295,To the Soul of “Progress”,11,god,Egypt,26.2540493,29.2675469
-296,Appellate Jurisdiction,5,god,Egypt,26.2540493,29.2675469
-297,"Feed Me, Also, River God",0,god,Egypt,26.2540493,29.2675469
-298,"Feed Me, Also, River God",13,god,Egypt,26.2540493,29.2675469
-299,To Statecraft Embalmed,11,sarcophagus,Egypt,26.2540493,29.2675469
-300,When I Buy Pictures,15,hieroglyphic,Egypt,26.2540493,29.2675469
-301,People’s Surroundings,50,onyx,Egypt,26.2540493,29.2675469
-302,An Octopus,20,onyx,Egypt,26.2540493,29.2675469
-303,An Octopus,135,onyx,Egypt,26.2540493,29.2675469
-304,Marriage,57,snakeskin,Egypt,26.2540493,29.2675469
-305,Marriage,96,heaven,Egypt,26.2540493,29.2675469
-306,O to Be a Dragon,4,heaven,Egypt,26.2540493,29.2675469
-307,An Octopus,10,python,Egypt,26.2540493,29.2675469
-308,The Frigate Pelican,89,python,Egypt,26.2540493,29.2675469
-309,An Octopus,35,pea,Egypt,26.2540493,29.2675469
-310,An Octopus,136,pea,Egypt,26.2540493,29.2675469
-311,"Part of a Novel, Part of a Poem, Part of a Play",37,pea,Egypt,26.2540493,29.2675469
-312,The Jerboa,17,crocodile,Egypt,26.2540493,29.2675469
-313,The Frigate Pelican,66,crocodile,Egypt,26.2540493,29.2675469
-314,"Feed Me, Also, River God",2,crocodile,Egypt,26.2540493,29.2675469
-315,The Jerboa,22,ibex,Egypt,26.2540493,29.2675469
-316,Spenser’s Ireland,35,fury,Egypt,26.2540493,29.2675469
-317,The Camperdown Elm,21,crowning,Egypt,26.2540493,29.2675469
-318,Critics and Connoisseurs,9,meat,Estonia,58.7523778,25.3319078
-319,New York,21,meat,Estonia,58.7523778,25.3319078
-320,"Part of a Novel, Part of a Poem, Part of a Play",198,meat,Estonia,58.7523778,25.3319078
-321,The Old Dominion,108,meat,Estonia,58.7523778,25.3319078
-322,Old Tiger,17,meat,Estonia,58.7523778,25.3319078
-323,An Octopus,47,swamp,Finland,63.2467777,25.9209164
-324,The Plumet Basilisk,134,swamp,Finland,63.2467777,25.9209164
-325,The Frigate Pelican,85,swamp,Finland,63.2467777,25.9209164
-326,The Old Dominion,130,swamp,Finland,63.2467777,25.9209164
-327,Picking And Choosing,20,alp,France,46.603354,1.8883335
-328,"Snakes, Mongooses, Snake-Charmers, and the Like",19,alp,France,46.603354,1.8883335
-329,A Talisman,0,talisman,France,46.603354,1.8883335
-330,A Talisman,1,mast,France,46.603354,1.8883335
-331,Bulwarked against Fate,10,mast,France,46.603354,1.8883335
-332,"A Fool, a Foul Thing, a Distressful Lunatic",7,nature,France,46.603354,1.8883335
-333,Peter,27,nature,France,46.603354,1.8883335
-334,A Grave,4,nature,France,46.603354,1.8883335
-335,An Octopus,218,nature,France,46.603354,1.8883335
-336,Sea Unicorns and Land Unicorns,23,nature,France,46.603354,1.8883335
-337,Camellia Sabina,32,nature,France,46.603354,1.8883335
-338,An Expedient—Leonardo da Vinci’s—and a Query,21,nature,France,46.603354,1.8883335
-339,George Moore,4,french,France,46.603354,1.8883335
-340,Picking And Choosing,15,french,France,46.603354,1.8883335
-341,Those Various Scalpels,11,french,France,46.603354,1.8883335
-342,Marriage,27,french,France,46.603354,1.8883335
-343,"Part of a Novel, Part of a Poem, Part of a Play",82,french,France,46.603354,1.8883335
-344,"Part of a Novel, Part of a Poem, Part of a Play",83,french,France,46.603354,1.8883335
-345,Camellia Sabina,11,french,France,46.603354,1.8883335
-346,The Old Dominion,109,french,France,46.603354,1.8883335
-347,Light is Speech,4,french,France,46.603354,1.8883335
-348,Enough,35,french,France,46.603354,1.8883335
-349,No better than “a withered daffodil”,4,french,France,46.603354,1.8883335
-350,Granite and Steel,28,french,France,46.603354,1.8883335
-351,In Lieu of the Lyre,10,french,France,46.603354,1.8883335
-352,Charity Overcoming Envy,1,french,France,46.603354,1.8883335
-353,To the Peacock of France,9,molière,France,46.603354,1.8883335
-354,Black Earth,30,spear,France,46.603354,1.8883335
-355,Marriage,85,spear,France,46.603354,1.8883335
-356,He “Digesteth Harde Yron”,64,spear,France,46.603354,1.8883335
-357,Apparition of Splendor,19,spear,France,46.603354,1.8883335
-358,New York,10,queen,France,46.603354,1.8883335
-359,People’s Surroundings,74,queen,France,46.603354,1.8883335
-360,Sea Unicorns and Land Unicorns,12,queen,France,46.603354,1.8883335
-361,The Jerboa,71,queen,France,46.603354,1.8883335
-362,The Jerboa,73,queen,France,46.603354,1.8883335
-363,Rigorists,14,queen,France,46.603354,1.8883335
-364,New York,12,perfume,France,46.603354,1.8883335
-365,Efforts of Affection,14,perfume,France,46.603354,1.8883335
-366,People’s Surroundings,6,fashionable,France,46.603354,1.8883335
-367,We Call Them the Brave,5,fashionable,France,46.603354,1.8883335
-368,Marriage,142,lotus,France,46.603354,1.8883335
-369,Camellia Sabina,62,depuis,France,46.603354,1.8883335
-370,Camellia Sabina,63,abbé,France,46.603354,1.8883335
-371,The Plumet Basilisk,74,bourse,France,46.603354,1.8883335
-372,Nine Nectarines and Other Porcelain,60,bosquet,France,46.603354,1.8883335
-373,The Old Dominion,110,longue,France,46.603354,1.8883335
-374,The Old Dominion,110,chaise,France,46.603354,1.8883335
-375,Light is Speech,20,ardent,France,46.603354,1.8883335
-376,Enough,52,ardent,France,46.603354,1.8883335
-377,He “Digesteth Harde Yron”,80,gargantuan,France,46.603354,1.8883335
-378,The Wood-Weasel,3,regalia,France,46.603354,1.8883335
-379,Efforts of Affection,6,fontaine,France,46.603354,1.8883335
-380,Tom Fool at Jamaica,9,avec,France,46.603354,1.8883335
-381,In Lieu of the Lyre,4,avec,France,46.603354,1.8883335
-382,Blessed is the Man,11,citadel,France,46.603354,1.8883335
-383,Camellia Sabina,61,bibliothèque,France,46.603354,1.8883335
-384,Reticence and Volubility,16,merlin,Germany,51.1638175,10.4478313
-385,The Past is the Present,8,hebrew,Germany,51.1638175,10.4478313
-386,UK,40,hebrew,Germany,51.1638175,10.4478313
-387,Novices,44,hebrew,Germany,51.1638175,10.4478313
-388,Novices,52,hebrew,Germany,51.1638175,10.4478313
-389,The Labors of Hercules,37,german,Germany,51.1638175,10.4478313
-390,Marriage,27,german,Germany,51.1638175,10.4478313
-391,The Frigate Pelican,43,german,Germany,51.1638175,10.4478313
-392,Granite and Steel,7,german,Germany,51.1638175,10.4478313
-393,Granite and Steel,30,german,Germany,51.1638175,10.4478313
-394,People’s Surroundings,38,tower,Germany,51.1638175,10.4478313
-395,The Plumet Basilisk,136,tower,Germany,51.1638175,10.4478313
-396,The Old Dominion,14,tower,Germany,51.1638175,10.4478313
-397,Blessed is the Man,33,tower,Germany,51.1638175,10.4478313
-398,Enough,50,tower,Germany,51.1638175,10.4478313
-399,Granite and Steel,8,tower,Germany,51.1638175,10.4478313
-400,In Lieu of the Lyre,2,tower,Germany,51.1638175,10.4478313
-401,People’s Surroundings,70,captain,Germany,51.1638175,10.4478313
-402,The Old Dominion,29,captain,Germany,51.1638175,10.4478313
-403,Enough,16,captain,Germany,51.1638175,10.4478313
-404,Enough,20,captain,Germany,51.1638175,10.4478313
-405,People’s Surroundings,74,countess,Germany,51.1638175,10.4478313
-406,"Part of a Novel, Part of a Poem, Part of a Play",3,dürer,Germany,51.1638175,10.4478313
-407,"Part of a Novel, Part of a Poem, Part of a Play",16,dürer,Germany,51.1638175,10.4478313
-408,Apparition of Splendor,3,dürer,Germany,51.1638175,10.4478313
-409,Then the Ermine:,30,dürer,Germany,51.1638175,10.4478313
-410,"Part of a Novel, Part of a Poem, Part of a Play",102,einstein,Germany,51.1638175,10.4478313
-411,"Part of a Novel, Part of a Poem, Part of a Play",103,einstein,Germany,51.1638175,10.4478313
-412,Walking-Sticks and Paperweights and Watermarks,116,javelin,Germany,51.1638175,10.4478313
-413,His Shield,25,javelin,Germany,51.1638175,10.4478313
-414,The Old Dominion,130,tablet,Germany,51.1638175,10.4478313
-415,The Old Dominion,201,accordion,Germany,51.1638175,10.4478313
-416,The Old Dominion,244,elm,Germany,51.1638175,10.4478313
-417,The Camperdown Elm,0,elm,Germany,51.1638175,10.4478313
-418,The Camperdown Elm,3,elm,Germany,51.1638175,10.4478313
-419,The Camperdown Elm,9,elm,Germany,51.1638175,10.4478313
-420,The Camperdown Elm,13,elm,Germany,51.1638175,10.4478313
-421,Armor’s Undermining Modesty,27,grail,Germany,51.1638175,10.4478313
-422,Dream,16,cantata,Germany,51.1638175,10.4478313
-423,Fear is Hope,14,moorish,Greece,38.9953683,21.9877132
-424,Reinforcements,5,greek,Greece,38.9953683,21.9877132
-425,UK,23,greek,Greece,38.9953683,21.9877132
-426,"Snakes, Mongooses, Snake-Charmers, and the Like",17,greek,Greece,38.9953683,21.9877132
-427,An Octopus,164,greek,Greece,38.9953683,21.9877132
-428,An Octopus,183,greek,Greece,38.9953683,21.9877132
-429,Pigeons,1,greek,Greece,38.9953683,21.9877132
-430,He “Digesteth Harde Yron”,55,greek,Greece,38.9953683,21.9877132
-431,Four Quartz Crystal Clocks,22,greek,Greece,38.9953683,21.9877132
-432,I’ve been Thinking . . .,43,greek,Greece,38.9953683,21.9877132
-433,Marriage,105,nightingale,Greece,38.9953683,21.9877132
-434,Marriage,116,nightingale,Greece,38.9953683,21.9877132
-435,The Plumet Basilisk,134,nightingale,Greece,38.9953683,21.9877132
-436,The Old Dominion,321,nightingale,Greece,38.9953683,21.9877132
-437,An Octopus,135,verdure,Greece,38.9953683,21.9877132
-438,The Plumet Basilisk,22,verdure,Greece,38.9953683,21.9877132
-439,An Expedient—Leonardo da Vinci’s—and a Query,15,verdure,Greece,38.9953683,21.9877132
-440,An Octopus,136,larkspur,Greece,38.9953683,21.9877132
-441,An Octopus,148,aster,Greece,38.9953683,21.9877132
-442,"Part of a Novel, Part of a Poem, Part of a Play",33,aster,Greece,38.9953683,21.9877132
-443,Camellia Sabina,13,gloria,Greece,38.9953683,21.9877132
-444,The Plumet Basilisk,0,basilisk,Greece,38.9953683,21.9877132
-445,The Plumet Basilisk,23,basilisk,Greece,38.9953683,21.9877132
-446,The Plumet Basilisk,82,basilisk,Greece,38.9953683,21.9877132
-447,The Plumet Basilisk,99,basilisk,Greece,38.9953683,21.9877132
-448,The Plumet Basilisk,156,basilisk,Greece,38.9953683,21.9877132
-449,Walking-Sticks and Paperweights and Watermarks,84,titan,Greece,38.9953683,21.9877132
-450,The Old Dominion,266,nymph,Greece,38.9953683,21.9877132
-451,The Paper Nautilus,26,chiton,Greece,38.9953683,21.9877132
-452,The Paper Nautilus,28,parthenon,Greece,38.9953683,21.9877132
-453,Armor’s Undermining Modesty,20,diatribe,Greece,38.9953683,21.9877132
-454,Armor’s Undermining Modesty,22,ale,Greece,38.9953683,21.9877132
-455,Tom Fool at Jamaica,28,centaur,Greece,38.9953683,21.9877132
-456,Hometown Piece for Messrs. Alston and Reese,44,homer,Greece,38.9953683,21.9877132
-457,To a Giraffe,17,homer,Greece,38.9953683,21.9877132
-458,That Harp You Play So Well,5,homer,Greece,38.9953683,21.9877132
-459,"The mind, intractable thing",20,zeus,Greece,38.9953683,21.9877132
-460,Dream,8,northwestern,Greece,38.9953683,21.9877132
-461,I’ve been Thinking . . .,21,atlas,Greece,38.9953683,21.9877132
-462,Enough,8,mason,Greece,38.9953683,21.9877132
-463,An Octopus,92,ptarmigan,Greenland,77.6192349,-42.8125967
-464,An Octopus,117,pony,Greenland,77.6192349,-42.8125967
-465,Nine Nectarines and Other Porcelain,79,pony,Greenland,77.6192349,-42.8125967
-466,Pigeons,86,pony,Greenland,77.6192349,-42.8125967
-467,Blue Bug,1,pony,Greenland,77.6192349,-42.8125967
-468,Blue Bug,6,pony,Greenland,77.6192349,-42.8125967
-469,Old Amusement Park,15,pony,Greenland,77.6192349,-42.8125967
-470,Old Amusement Park,20,pony,Greenland,77.6192349,-42.8125967
-471,Old Amusement Park,21,pony,Greenland,77.6192349,-42.8125967
-472,Baseball and Writing,86,orion,Greenland,77.6192349,-42.8125967
-473,Nine Nectarines and Other Porcelain,82,antelope,India,22.3511148,78.6677428
-474,Tippoo’s Tiger,10,antelope,India,22.3511148,78.6677428
-475,Diligence is to Magic as Progress is to Flight,1,elephant,India,22.3511148,78.6677428
-476,Diligence is to Magic as Progress is to Flight,5,elephant,India,22.3511148,78.6677428
-477,Poetry,16,elephant,India,22.3511148,78.6677428
-478,My Apish Cousins,2,elephant,India,22.3511148,78.6677428
-479,Black Earth,18,elephant,India,22.3511148,78.6677428
-480,Black Earth,54,elephant,India,22.3511148,78.6677428
-481,"Part of a Novel, Part of a Poem, Part of a Play",131,elephant,India,22.3511148,78.6677428
-482,The Buffalo,24,elephant,India,22.3511148,78.6677428
-483,The Old Dominion,334,elephant,India,22.3511148,78.6677428
-484,The Pangolin,60,elephant,India,22.3511148,78.6677428
-485,Elephants,0,elephant,India,22.3511148,78.6677428
-486,Elephants,18,elephant,India,22.3511148,78.6677428
-487,Elephants,26,elephant,India,22.3511148,78.6677428
-488,Elephants,34,elephant,India,22.3511148,78.6677428
-489,Elephants,42,elephant,India,22.3511148,78.6677428
-490,Elephants,47,elephant,India,22.3511148,78.6677428
-491,Elephants,70,elephant,India,22.3511148,78.6677428
-492,Voracities and Verities Sometimes are Interacting,7,elephant,India,22.3511148,78.6677428
-493,Efforts of Affection,15,elephant,India,22.3511148,78.6677428
-494,Rescue with Yul Brynner,31,elephant,India,22.3511148,78.6677428
-495,Old Amusement Park,11,elephant,India,22.3511148,78.6677428
-496,Charity Overcoming Envy,6,elephant,India,22.3511148,78.6677428
-497,Charity Overcoming Envy,17,elephant,India,22.3511148,78.6677428
-498,Charity Overcoming Envy,26,elephant,India,22.3511148,78.6677428
-499,To the Peacock of France,0,peacock,India,22.3511148,78.6677428
-500,To the Peacock of France,12,peacock,India,22.3511148,78.6677428
-501,People’s Surroundings,20,peacock,India,22.3511148,78.6677428
-502,"Part of a Novel, Part of a Poem, Part of a Play",15,peacock,India,22.3511148,78.6677428
-503,"Part of a Novel, Part of a Poem, Part of a Play",17,peacock,India,22.3511148,78.6677428
-504,The Jerboa,10,peacock,India,22.3511148,78.6677428
-505,The Frigate Pelican,67,peacock,India,22.3511148,78.6677428
-506,Nine Nectarines and Other Porcelain,61,peacock,India,22.3511148,78.6677428
-507,Spenser’s Ireland,48,peacock,India,22.3511148,78.6677428
-508,Arthur Mitchell,9,peacock,India,22.3511148,78.6677428
-509,The Monkey Puzzler,1,lemur,India,22.3511148,78.6677428
-510,Four Quartz Crystal Clocks,27,lemur,India,22.3511148,78.6677428
-511,The Monkey Puzzler,5,tiger,India,22.3511148,78.6677428
-512,The Monkey Puzzler,10,tiger,India,22.3511148,78.6677428
-513,"Part of a Novel, Part of a Poem, Part of a Play",37,tiger,India,22.3511148,78.6677428
-514,"Part of a Novel, Part of a Poem, Part of a Play",122,tiger,India,22.3511148,78.6677428
-515,The Buffalo,45,tiger,India,22.3511148,78.6677428
-516,The Old Dominion,236,tiger,India,22.3511148,78.6677428
-517,The Old Dominion,296,tiger,India,22.3511148,78.6677428
-518,Elephants,69,tiger,India,22.3511148,78.6677428
-519,Voracities and Verities Sometimes are Interacting,8,tiger,India,22.3511148,78.6677428
-520,Tom Fool at Jamaica,38,tiger,India,22.3511148,78.6677428
-521,"Saint Nicholas,",5,tiger,India,22.3511148,78.6677428
-522,Baseball and Writing,73,tiger,India,22.3511148,78.6677428
-523,Tippoo’s Tiger,0,tiger,India,22.3511148,78.6677428
-524,Tippoo’s Tiger,1,tiger,India,22.3511148,78.6677428
-525,Tippoo’s Tiger,2,tiger,India,22.3511148,78.6677428
-526,Tippoo’s Tiger,15,tiger,India,22.3511148,78.6677428
-527,Tippoo’s Tiger,19,tiger,India,22.3511148,78.6677428
-528,Tippoo’s Tiger,21,tiger,India,22.3511148,78.6677428
-529,Tippoo’s Tiger,22,tiger,India,22.3511148,78.6677428
-530,Old Tiger,0,tiger,India,22.3511148,78.6677428
-531,People’s Surroundings,48,hibiscus,India,22.3511148,78.6677428
-532,The Old Dominion,89,hibiscus,India,22.3511148,78.6677428
-533,People’s Surroundings,83,hall,India,22.3511148,78.6677428
-534,In the Public Garden,11,hall,India,22.3511148,78.6677428
-535,Carnegie Hall: Rescued,0,hall,India,22.3511148,78.6677428
-536,Carnegie Hall: Rescued,8,hall,India,22.3511148,78.6677428
-537,Carnegie Hall: Rescued,25,hall,India,22.3511148,78.6677428
-538,Marriage,56,serpent,India,22.3511148,78.6677428
-539,"Part of a Novel, Part of a Poem, Part of a Play",40,serpent,India,22.3511148,78.6677428
-540,The Jerboa,19,serpent,India,22.3511148,78.6677428
-541,The Jerboa,28,serpent,India,22.3511148,78.6677428
-542,The Jerboa,77,serpent,India,22.3511148,78.6677428
-543,Camellia Sabina,55,serpent,India,22.3511148,78.6677428
-544,The Plumet Basilisk,55,serpent,India,22.3511148,78.6677428
-545,The Plumet Basilisk,132,serpent,India,22.3511148,78.6677428
-546,Nine Nectarines and Other Porcelain,70,serpent,India,22.3511148,78.6677428
-547,An Octopus,37,lake,India,22.3511148,78.6677428
-548,The Plumet Basilisk,12,lake,India,22.3511148,78.6677428
-549,The Plumet Basilisk,14,lake,India,22.3511148,78.6677428
-550,The Buffalo,33,lake,India,22.3511148,78.6677428
-551,See in the Midst of Fair Leaves,4,lake,India,22.3511148,78.6677428
-552,He “Digesteth Harde Yron”,42,lake,India,22.3511148,78.6677428
-553,Style,15,lake,India,22.3511148,78.6677428
-554,An Octopus,127,indian,India,22.3511148,78.6677428
-555,The Buffalo,32,indian,India,22.3511148,78.6677428
-556,The Buffalo,49,indian,India,22.3511148,78.6677428
-557,Pigeons,86,indian,India,22.3511148,78.6677428
-558,The Old Dominion,34,indian,India,22.3511148,78.6677428
-559,The Old Dominion,44,indian,India,22.3511148,78.6677428
-560,The Old Dominion,107,indian,India,22.3511148,78.6677428
-561,An Octopus,206,date,India,22.3511148,78.6677428
-562,The Jerboa,31,date,India,22.3511148,78.6677428
-563,Sea Unicorns and Land Unicorns,30,garland,India,22.3511148,78.6677428
-564,Rosemary,5,garland,India,22.3511148,78.6677428
-565,"Part of a Novel, Part of a Poem, Part of a Play",39,banyan,India,22.3511148,78.6677428
-566,Pigeons,4,banyan,India,22.3511148,78.6677428
-567,The Jerboa,57,jasmine,India,22.3511148,78.6677428
-568,The Plumet Basilisk,26,fairy,India,22.3511148,78.6677428
-569,The Frigate Pelican,24,fairy,India,22.3511148,78.6677428
-570,Spenser’s Ireland,35,fairy,India,22.3511148,78.6677428
-571,Apparition of Splendor,17,fairy,India,22.3511148,78.6677428
-572,Apparition of Splendor,25,fairy,India,22.3511148,78.6677428
-573,In the Public Garden,20,fairy,India,22.3511148,78.6677428
-574,Rescue with Yul Brynner,48,fairy,India,22.3511148,78.6677428
-575,The Plumet Basilisk,53,myristica,India,22.3511148,78.6677428
-576,The Buffalo,7,curry,India,22.3511148,78.6677428
-577,The Buffalo,35,buddha,India,22.3511148,78.6677428
-578,Elephants,32,buddha,India,22.3511148,78.6677428
-579,Elephants,60,buddha,India,22.3511148,78.6677428
-580,The Old Dominion,65,settee,India,22.3511148,78.6677428
-581,Then the Ermine:,20,settee,India,22.3511148,78.6677428
-582,The Old Dominion,89,mimosa,India,22.3511148,78.6677428
-583,The Old Dominion,248,mimosa,India,22.3511148,78.6677428
-584,For February 14th,10,mimosa,India,22.3511148,78.6677428
-585,The Old Dominion,300,india,India,22.3511148,78.6677428
-586,The Old Dominion,319,sanskrit,India,22.3511148,78.6677428
-587,Elephants,17,mahout,India,22.3511148,78.6677428
-588,The Arctic Ox (or Goat),28,cashmere,India,22.3511148,78.6677428
-589,Baseball and Writing,39,yogi,India,22.3511148,78.6677428
-590,Nevertheless,10,kok,Indonesia,-2.4833826,117.8902853
-591,People’s Surroundings,20,persian,Iran,32.6475314,54.5643516
-592,Marriage,68,persian,Iran,32.6475314,54.5643516
-593,An Octopus,141,persian,Iran,32.6475314,54.5643516
-594,Camellia Sabina,46,persian,Iran,32.6475314,54.5643516
-595,Nine Nectarines and Other Porcelain,20,persian,Iran,32.6475314,54.5643516
-596,The Old Dominion,124,persian,Iran,32.6475314,54.5643516
-597,Armor’s Undermining Modesty,8,persian,Iran,32.6475314,54.5643516
-598,The Sycamore,18,persian,Iran,32.6475314,54.5643516
-599,Diogenes,9,persian,Iran,32.6475314,54.5643516
-600,Diogenes,10,persian,Iran,32.6475314,54.5643516
-601,The Pangolin,107,griffon,Iran,32.6475314,54.5643516
-602,Armor’s Undermining Modesty,5,backgammon,Iran,32.6475314,54.5643516
-603,Leonardo da Vinci’s,35,astronomy,Iran,32.6475314,54.5643516
-604,Blessed is the Man,33,sultan,Iran,32.6475314,54.5643516
-605,UK,7,goat,Iraq,33.0955793,44.1749775
-606,People’s Surroundings,50,goat,Iraq,33.0955793,44.1749775
-607,An Octopus,31,goat,Iraq,33.0955793,44.1749775
-608,An Octopus,44,goat,Iraq,33.0955793,44.1749775
-609,An Octopus,60,goat,Iraq,33.0955793,44.1749775
-610,An Octopus,155,goat,Iraq,33.0955793,44.1749775
-611,The Wood-Weasel,5,goat,Iraq,33.0955793,44.1749775
-612,Hometown Piece for Messrs. Alston and Reese,53,goat,Iraq,33.0955793,44.1749775
-613,The Arctic Ox (or Goat),0,goat,Iraq,33.0955793,44.1749775
-614,The Arctic Ox (or Goat),15,goat,Iraq,33.0955793,44.1749775
-615,Those Various Scalpels,6,scimitar,Iraq,33.0955793,44.1749775
-616,The Plumet Basilisk,119,harp,Iraq,33.0955793,44.1749775
-617,Spenser’s Ireland,15,harp,Iraq,33.0955793,44.1749775
-618,Efforts of Affection,2,harp,Iraq,33.0955793,44.1749775
-619,Armor’s Undermining Modesty,18,harp,Iraq,33.0955793,44.1749775
-620,Logic and “The Magic Flute”,9,harp,Iraq,33.0955793,44.1749775
-621,Combat Cultural,10,harp,Iraq,33.0955793,44.1749775
-622,That Harp You Play So Well,0,harp,Iraq,33.0955793,44.1749775
-623,That Harp You Play So Well,16,harp,Iraq,33.0955793,44.1749775
-624,The Staff of Aesculapius,26,sumerian,Iraq,33.0955793,44.1749775
-625,Melchior Vulpius,19,crescendo,Iraq,33.0955793,44.1749775
-626,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",10,famine,Ireland,52.865196,-7.9794599
-627,Leonardo da Vinci’s,31,famine,Ireland,52.865196,-7.9794599
-628,To Statecraft Embalmed,9,sovereignty,Ireland,52.865196,-7.9794599
-629,Leonardo da Vinci’s,40,sovereignty,Ireland,52.865196,-7.9794599
-630,To be Liked by You Would be a Calamity,7,steel,Ireland,52.865196,-7.9794599
-631,People’s Surroundings,13,steel,Ireland,52.865196,-7.9794599
-632,Marriage,11,steel,Ireland,52.865196,-7.9794599
-633,Sea Unicorns and Land Unicorns,6,steel,Ireland,52.865196,-7.9794599
-634,The Jerboa,139,steel,Ireland,52.865196,-7.9794599
-635,The Plumet Basilisk,127,steel,Ireland,52.865196,-7.9794599
-636,What are Years?,21,steel,Ireland,52.865196,-7.9794599
-637,His Shield,25,steel,Ireland,52.865196,-7.9794599
-638,The Icosasphere,13,steel,Ireland,52.865196,-7.9794599
-639,Armor’s Undermining Modesty,42,steel,Ireland,52.865196,-7.9794599
-640,Granite and Steel,0,steel,Ireland,52.865196,-7.9794599
-641,Granite and Steel,6,steel,Ireland,52.865196,-7.9794599
-642,Granite and Steel,26,steel,Ireland,52.865196,-7.9794599
-643,Charity Overcoming Envy,24,steel,Ireland,52.865196,-7.9794599
-644,Sojourn in the Whale,4,ireland,Ireland,52.865196,-7.9794599
-645,Spenser’s Ireland,0,ireland,Ireland,52.865196,-7.9794599
-646,Spenser’s Ireland,14,ireland,Ireland,52.865196,-7.9794599
-647,People’s Surroundings,23,waterford,Ireland,52.865196,-7.9794599
-648,Walking-Sticks and Paperweights and Watermarks,54,waterford,Ireland,52.865196,-7.9794599
-649,Camellia Sabina,27,cork,Ireland,52.865196,-7.9794599
-650,Armor’s Undermining Modesty,21,cork,Ireland,52.865196,-7.9794599
-651,Spenser’s Ireland,24,irish,Ireland,52.865196,-7.9794599
-652,Spenser’s Ireland,26,irish,Ireland,52.865196,-7.9794599
-653,Spenser’s Ireland,34,irish,Ireland,52.865196,-7.9794599
-654,Spenser’s Ireland,54,irish,Ireland,52.865196,-7.9794599
-655,Spenser’s Ireland,72,irish,Ireland,52.865196,-7.9794599
-656,Spenser’s Ireland,76,irish,Ireland,52.865196,-7.9794599
-657,Then the Ermine:,21,ebony,Ireland,52.865196,-7.9794599
-658,To a Strategist,1,jew,Israel,30.8124247,34.8594762
-659,The Labors of Hercules,35,jew,Israel,30.8124247,34.8594762
-660,A Carriage from Sweden,30,jew,Israel,30.8124247,34.8594762
-661,In Distrust of Merits,41,jew,Israel,30.8124247,34.8594762
-662,"In the Days of Prismatic Color,",1,adam,Israel,30.8124247,34.8594762
-663,When I Buy Pictures,17,adam,Israel,30.8124247,34.8594762
-664,Marriage,9,adam,Israel,30.8124247,34.8594762
-665,Marriage,60,adam,Israel,30.8124247,34.8594762
-666,Marriage,64,adam,Israel,30.8124247,34.8594762
-667,Marriage,137,adam,Israel,30.8124247,34.8594762
-668,An Octopus,194,adam,Israel,30.8124247,34.8594762
-669,Marriage,49,paradise,Israel,30.8124247,34.8594762
-670,Enough,4,paradise,Israel,30.8124247,34.8594762
-671,For February 14th,14,paradise,Israel,30.8124247,34.8594762
-672,The Buffalo,7,john,Israel,30.8124247,34.8594762
-673,His Shield,7,john,Israel,30.8124247,34.8594762
-674,Enough,20,john,Israel,30.8124247,34.8594762
-675,Enough,24,john,Israel,30.8124247,34.8594762
-676,The Arctic Ox (or Goat),1,john,Israel,30.8124247,34.8594762
-677,Granite and Steel,29,john,Israel,30.8124247,34.8594762
-678,In Lieu of the Lyre,29,john,Israel,30.8124247,34.8594762
-679,Sea Unicorns and Land Unicorns,33,malachite,Israel,30.8124247,34.8594762
-680,See in the Midst of Fair Leaves,5,angel,Israel,30.8124247,34.8594762
-681,“Keeping Their World Large”,12,angel,Israel,30.8124247,34.8594762
-682,By Disposition of Angels,0,angel,Israel,30.8124247,34.8594762
-683,The Frigate Pelican,59,knight,Israel,30.8124247,34.8594762
-684,Armor’s Undermining Modesty,25,knight,Israel,30.8124247,34.8594762
-685,Armor’s Undermining Modesty,27,knight,Israel,30.8124247,34.8594762
-686,Nevertheless,16,mandrake,Israel,30.8124247,34.8594762
-687,“Keeping Their World Large”,19,apostle,Israel,30.8124247,34.8594762
-688,“Keeping Their World Large”,19,christ,Israel,30.8124247,34.8594762
-689,Rosemary,15,christ,Israel,30.8124247,34.8594762
-690,Then the Ermine:,27,prophet,Israel,30.8124247,34.8594762
-691,Melchior Vulpius,15,hallelujah,Israel,30.8124247,34.8594762
-692,In the Public Garden,7,scriptural,Israel,30.8124247,34.8594762
-693,For February 14th,19,noah,Israel,30.8124247,34.8594762
-694,To Victor Hugo of My Crow Pluto,64,seraph,Israel,30.8124247,34.8594762
-695,Fear is Hope,13,day,Italy,42.6384261,12.674297
-696,Poetry,25,poet,Italy,42.6384261,12.674297
-697,Poetry,27,poet,Italy,42.6384261,12.674297
-698,Picking And Choosing,10,poet,Italy,42.6384261,12.674297
-699,Bowls,22,poet,Italy,42.6384261,12.674297
-700,"Part of a Novel, Part of a Poem, Part of a Play",141,poet,Italy,42.6384261,12.674297
-701,Voracities and Verities Sometimes are Interacting,6,poet,Italy,42.6384261,12.674297
-702,In the Public Garden,53,poet,Italy,42.6384261,12.674297
-703,"The mind, intractable thing",4,poet,Italy,42.6384261,12.674297
-704,"Mercifully,",2,poet,Italy,42.6384261,12.674297
-705,UK,1,abbey,Italy,42.6384261,12.674297
-706,The Pangolin,28,abbey,Italy,42.6384261,12.674297
-707,The Labors of Hercules,26,saint,Italy,42.6384261,12.674297
-708,Sea Unicorns and Land Unicorns,49,saint,Italy,42.6384261,12.674297
-709,Efforts of Affection,12,saint,Italy,42.6384261,12.674297
-710,"Saint Nicholas,",0,saint,Italy,42.6384261,12.674297
-711,"Saint Nicholas,",35,saint,Italy,42.6384261,12.674297
-712,"Saint Nicholas,",38,saint,Italy,42.6384261,12.674297
-713,For February 14th,1,saint,Italy,42.6384261,12.674297
-714,Leonardo da Vinci’s,1,saint,Italy,42.6384261,12.674297
-715,Leonardo da Vinci’s,21,saint,Italy,42.6384261,12.674297
-716,Leonardo da Vinci’s,22,saint,Italy,42.6384261,12.674297
-717,Leonardo da Vinci’s,39,saint,Italy,42.6384261,12.674297
-718,Carnegie Hall: Rescued,3,saint,Italy,42.6384261,12.674297
-719,Carnegie Hall: Rescued,50,saint,Italy,42.6384261,12.674297
-720,"Saint Valentine,",0,saint,Italy,42.6384261,12.674297
-721,"Snakes, Mongooses, Snake-Charmers, and the Like",13,twig,Italy,42.6384261,12.674297
-722,An Octopus,28,twig,Italy,42.6384261,12.674297
-723,An Octopus,224,twig,Italy,42.6384261,12.674297
-724,Marriage,291,roman,Italy,42.6384261,12.674297
-725,The Jerboa,2,roman,Italy,42.6384261,12.674297
-726,The Old Dominion,133,roman,Italy,42.6384261,12.674297
-727,Armor’s Undermining Modesty,28,roman,Italy,42.6384261,12.674297
-728,An Octopus,93,buckwheat,Italy,42.6384261,12.674297
-729,An Octopus,147,paw,Italy,42.6384261,12.674297
-730,Camellia Sabina,0,camellia,Italy,42.6384261,12.674297
-731,Camellia Sabina,10,camellia,Italy,42.6384261,12.674297
-732,Camellia Sabina,15,camellia,Italy,42.6384261,12.674297
-733,Camellia Sabina,21,camellia,Italy,42.6384261,12.674297
-734,The Old Dominion,93,camellia,Italy,42.6384261,12.674297
-735,Walking-Sticks and Paperweights and Watermarks,86,umbrian,Italy,42.6384261,12.674297
-736,The Old Dominion,141,mandolin,Italy,42.6384261,12.674297
-737,The Pangolin,126,serge,Italy,42.6384261,12.674297
-738,Rigorists,4,reino,Italy,42.6384261,12.674297
-739,Spenser’s Ireland,58,lunula,Italy,42.6384261,12.674297
-740,The Wood-Weasel,2,sylvan,Italy,42.6384261,12.674297
-741,Armor’s Undermining Modesty,18,tribute,Italy,42.6384261,12.674297
-742,Tom Fool at Jamaica,18,signor,Italy,42.6384261,12.674297
-743,Tom Fool at Jamaica,18,cupola,Italy,42.6384261,12.674297
-744,In the Public Garden,3,cupola,Italy,42.6384261,12.674297
-745,Rosemary,11,robe,Italy,42.6384261,12.674297
-746,Style,20,bull,Italy,42.6384261,12.674297
-747,Hometown Piece for Messrs. Alston and Reese,35,roe,Italy,42.6384261,12.674297
-748,The Monkey Puzzler,1,pine,Japan,36.5748441,139.2394179
-749,The Monkey Puzzler,10,pine,Japan,36.5748441,139.2394179
-750,"Part of a Novel, Part of a Poem, Part of a Play",17,pine,Japan,36.5748441,139.2394179
-751,The Jerboa,4,pine,Japan,36.5748441,139.2394179
-752,The Old Dominion,159,pine,Japan,36.5748441,139.2394179
-753,A Carriage from Sweden,23,pine,Japan,36.5748441,139.2394179
-754,A Carriage from Sweden,24,pine,Japan,36.5748441,139.2394179
-755,A Carriage from Sweden,47,pine,Japan,36.5748441,139.2394179
-756,The Monkey Puzzler,19,chrysanthemum,Japan,36.5748441,139.2394179
-757,The Labors of Hercules,5,piano,Japan,36.5748441,139.2394179
-758,The Plumet Basilisk,96,piano,Japan,36.5748441,139.2394179
-759,The Old Dominion,294,piano,Japan,36.5748441,139.2394179
-760,“Keeping Their World Large”,14,piano,Japan,36.5748441,139.2394179
-761,Nine Nectarines and Other Porcelain,1,peach,Japan,36.5748441,139.2394179
-762,Nine Nectarines and Other Porcelain,8,peach,Japan,36.5748441,139.2394179
-763,Nine Nectarines and Other Porcelain,18,peach,Japan,36.5748441,139.2394179
-764,Nine Nectarines and Other Porcelain,48,peach,Japan,36.5748441,139.2394179
-765,The Web One Weaves of Italy,6,peach,Japan,36.5748441,139.2394179
-766,The Old Dominion,104,crape,Japan,36.5748441,139.2394179
-767,The Old Dominion,303,crape,Japan,36.5748441,139.2394179
-768,The Old Dominion,347,japanese,Japan,36.5748441,139.2394179
-769,When I Buy Pictures,15,artichoke,Kyrgyzstan,41.5089324,74.724091
-770,The Pangolin,4,artichoke,Kyrgyzstan,41.5089324,74.724091
-771,The Pangolin,46,artichoke,Kyrgyzstan,41.5089324,74.724091
-772,The Pangolin,63,artichoke,Kyrgyzstan,41.5089324,74.724091
-773,Novices,15,cypress,Lebanon,33.8750629,35.843409
-774,An Octopus,29,cypress,Lebanon,33.8750629,35.843409
-775,The Old Dominion,161,cypress,Lebanon,33.8750629,35.843409
-776,To a Chameleon,7,emerald,Madagascar,-18.9249604,46.4416422
-777,A Grave,7,emerald,Madagascar,-18.9249604,46.4416422
-778,Those Various Scalpels,15,emerald,Madagascar,-18.9249604,46.4416422
-779,Marriage,68,emerald,Madagascar,-18.9249604,46.4416422
-780,The Plumet Basilisk,129,emerald,Madagascar,-18.9249604,46.4416422
-781,The Plumet Basilisk,130,emerald,Madagascar,-18.9249604,46.4416422
-782,The Old Dominion,4,emerald,Madagascar,-18.9249604,46.4416422
-783,Voracities and Verities Sometimes are Interacting,2,emerald,Madagascar,-18.9249604,46.4416422
-784,Tippoo’s Tiger,7,emerald,Madagascar,-18.9249604,46.4416422
-785,"Snakes, Mongooses, Snake-Charmers, and the Like",0,mongoose,Madagascar,-18.9249604,46.4416422
-786,"Snakes, Mongooses, Snake-Charmers, and the Like",3,mongoose,Madagascar,-18.9249604,46.4416422
-787,The Jerboa,29,mongoose,Madagascar,-18.9249604,46.4416422
-788,The Jerboa,80,mongoose,Madagascar,-18.9249604,46.4416422
-789,An Octopus,54,topaz,Madagascar,-18.9249604,46.4416422
-790,An Octopus,54,tourmaline,Madagascar,-18.9249604,46.4416422
-791,The Jerboa,18,baboon,Madagascar,-18.9249604,46.4416422
-792,Old Tiger,2,baboon,Madagascar,-18.9249604,46.4416422
-793,The Old Dominion,290,tropical,Madagascar,-18.9249604,46.4416422
-794,He “Digesteth Harde Yron”,2,madagascar,Madagascar,-18.9249604,46.4416422
-795,The Plumet Basilisk,41,malay,Malaysia,4.5693754,102.2656823
-796,The Plumet Basilisk,52,malay,Malaysia,4.5693754,102.2656823
-797,New York,21,berry,Mali,16.3700359,-2.2900239
-798,An Octopus,52,berry,Mali,16.3700359,-2.2900239
-799,The Plumet Basilisk,82,berry,Mali,16.3700359,-2.2900239
-800,Counseil to a Bacheler,1,library,Mali,16.3700359,-2.2900239
-801,The Sycamore,21,maltese,Malta,35.8885993,14.4476911
-802,When I Buy Pictures,17,silver,Mexico,23.6585116,-102.0077097
-803,Those Various Scalpels,20,silver,Mexico,23.6585116,-102.0077097
-804,People’s Surroundings,51,silver,Mexico,23.6585116,-102.0077097
-805,An Octopus,31,silver,Mexico,23.6585116,-102.0077097
-806,Sea Unicorns and Land Unicorns,81,silver,Mexico,23.6585116,-102.0077097
-807,The Jerboa,90,silver,Mexico,23.6585116,-102.0077097
-808,The Plumet Basilisk,152,silver,Mexico,23.6585116,-102.0077097
-809,Armor’s Undermining Modesty,30,silver,Mexico,23.6585116,-102.0077097
-810,Rosemary,8,silver,Mexico,23.6585116,-102.0077097
-811,Rescue with Yul Brynner,31,silver,Mexico,23.6585116,-102.0077097
-812,Tippoo’s Tiger,3,silver,Mexico,23.6585116,-102.0077097
-813,He Made This Screen,1,silver,Mexico,23.6585116,-102.0077097
-814,People’s Surroundings,13,oak,Mexico,23.6585116,-102.0077097
-815,The Old Dominion,157,oak,Mexico,23.6585116,-102.0077097
-816,Armor’s Undermining Modesty,21,oak,Mexico,23.6585116,-102.0077097
-817,The Camperdown Elm,11,oak,Mexico,23.6585116,-102.0077097
-818,To a Friend in the Making,9,oak,Mexico,23.6585116,-102.0077097
-819,UK,14,crystal,Namibia,-23.2335499,17.3231107
-820,Novices,38,crystal,Namibia,-23.2335499,17.3231107
-821,Marriage,45,crystal,Namibia,-23.2335499,17.3231107
-822,An Octopus,54,crystal,Namibia,-23.2335499,17.3231107
-823,An Octopus,70,crystal,Namibia,-23.2335499,17.3231107
-824,"Part of a Novel, Part of a Poem, Part of a Play",201,crystal,Namibia,-23.2335499,17.3231107
-825,The Plumet Basilisk,38,crystal,Namibia,-23.2335499,17.3231107
-826,Four Quartz Crystal Clocks,0,crystal,Namibia,-23.2335499,17.3231107
-827,Four Quartz Crystal Clocks,22,crystal,Namibia,-23.2335499,17.3231107
-828,Hometown Piece for Messrs. Alston and Reese,2,mocking,Netherlands,52.2434979,5.6343227
-829,"Snakes, Mongooses, Snake-Charmers, and the Like",20,amber,Netherlands,52.2434979,5.6343227
-830,A Jellyfish,3,amber,Netherlands,52.2434979,5.6343227
-831,Pigeons,26,dutch,Netherlands,52.2434979,5.6343227
-832,The Old Dominion,132,dutch,Netherlands,52.2434979,5.6343227
-833,The Old Dominion,331,hyacinth,Netherlands,52.2434979,5.6343227
-834,His Shield,3,echidna,Netherlands,52.2434979,5.6343227
-835,Pigeons,59,papuan,New Guinea,-5.522593049999999,142.08709052245882
-836,To a Snail,0,snail,New Zealand,-41.5000831,172.8344077
-837,UK,12,snail,New Zealand,-41.5000831,172.8344077
-838,An Octopus,107,snail,New Zealand,-41.5000831,172.8344077
-839,Tom Fool at Jamaica,7,snail,New Zealand,-41.5000831,172.8344077
-840,Poetry,16,wild,Niger,17.7356214,9.3238432
-841,UK,21,wild,Niger,17.7356214,9.3238432
-842,The Labors of Hercules,30,wild,Niger,17.7356214,9.3238432
-843,"Snakes, Mongooses, Snake-Charmers, and the Like",7,wild,Niger,17.7356214,9.3238432
-844,Bowls,3,wild,Niger,17.7356214,9.3238432
-845,An Octopus,111,wild,Niger,17.7356214,9.3238432
-846,Sea Unicorns and Land Unicorns,71,wild,Niger,17.7356214,9.3238432
-847,Sea Unicorns and Land Unicorns,87,wild,Niger,17.7356214,9.3238432
-848,The Jerboa,25,wild,Niger,17.7356214,9.3238432
-849,Camellia Sabina,33,wild,Niger,17.7356214,9.3238432
-850,Camellia Sabina,34,wild,Niger,17.7356214,9.3238432
-851,The Buffalo,16,wild,Niger,17.7356214,9.3238432
-852,Nine Nectarines and Other Porcelain,22,wild,Niger,17.7356214,9.3238432
-853,Nine Nectarines and Other Porcelain,23,wild,Niger,17.7356214,9.3238432
-854,The Old Dominion,9,wild,Niger,17.7356214,9.3238432
-855,He “Digesteth Harde Yron”,51,wild,Niger,17.7356214,9.3238432
-856,He “Digesteth Harde Yron”,55,wild,Niger,17.7356214,9.3238432
-857,Old Amusement Park,29,wild,Niger,17.7356214,9.3238432
-858,To a Friend in the Making,1,wild,Niger,17.7356214,9.3238432
-859,The Buffalo,2,niger,Niger,17.7356214,9.3238432
-860,"Part of a Novel, Part of a Poem, Part of a Play",123,horned,Norway,60.5000209,9.0999715
-861,The Plumet Basilisk,70,horned,Norway,60.5000209,9.0999715
-862,His Shield,4,horned,Norway,60.5000209,9.0999715
-863,A Talisman,10,coral,Pacific,46.5334929,-123.768029
-864,Black Earth,49,coral,Pacific,46.5334929,-123.768029
-865,People’s Surroundings,38,coral,Pacific,46.5334929,-123.768029
-866,Spenser’s Ireland,60,coral,Pacific,46.5334929,-123.768029
-867,Quoting An Also Private Thought,3,coral,Pacific,46.5334929,-123.768029
-868,Charity Overcoming Envy,15,coral,Pacific,46.5334929,-123.768029
-869,He Made This Screen,1,coral,Pacific,46.5334929,-123.768029
-870,An Octopus,0,octopus,Pacific,46.5334929,-123.768029
-871,An Octopus,218,octopus,Pacific,46.5334929,-123.768029
-872,An Octopus,235,octopus,Pacific,46.5334929,-123.768029
-873,Sea Unicorns and Land Unicorns,36,pacific,Pacific,46.5334929,-123.768029
-874,Leonardo da Vinci’s,25,pacific,Pacific,46.5334929,-123.768029
-875,Nine Nectarines and Other Porcelain,66,dolphin,Pacific,46.5334929,-123.768029
-876,Walking-Sticks and Paperweights and Watermarks,88,dolphin,Pacific,46.5334929,-123.768029
-877,A Carriage from Sweden,44,dolphin,Pacific,46.5334929,-123.768029
-878,Rosemary,5,braid,Pakistan,30.3308401,71.247499
-879,An Octopus,31,ore,Peru,-6.8699697,-75.0458515
-880,Walking-Sticks and Paperweights and Watermarks,57,ore,Peru,-6.8699697,-75.0458515
-881,Peter,23,mouse,Philippines,12.7503486,122.7312101
-882,Silence,7,mouse,Philippines,12.7503486,122.7312101
-883,"Part of a Novel, Part of a Poem, Part of a Play",129,mouse,Philippines,12.7503486,122.7312101
-884,The Jerboa,89,mouse,Philippines,12.7503486,122.7312101
-885,Camellia Sabina,34,mouse,Philippines,12.7503486,122.7312101
-886,Camellia Sabina,38,mouse,Philippines,12.7503486,122.7312101
-887,Camellia Sabina,52,mouse,Philippines,12.7503486,122.7312101
-888,Elephants,3,mouse,Philippines,12.7503486,122.7312101
-889,The Sycamore,24,mouse,Philippines,12.7503486,122.7312101
-890,Melchior Vulpius,13,mouse,Philippines,12.7503486,122.7312101
-891,"Tell Me, Tell Me",19,mouse,Philippines,12.7503486,122.7312101
-892,"Tell Me, Tell Me",38,mouse,Philippines,12.7503486,122.7312101
-893,Apropos of Mice,0,mouse,Philippines,12.7503486,122.7312101
-894,To Victor Hugo of My Crow Pluto,26,esperanto,Philippines,12.7503486,122.7312101
-895,To Victor Hugo of My Crow Pluto,53,esperanto,Philippines,12.7503486,122.7312101
-896,The Paper Nautilus,0,nautilus,Poland,52.215933,19.134422
-897,The Paper Nautilus,6,nautilus,Poland,52.215933,19.134422
-898,Pedantic Literalist,18,palm,Qatar,25.3336984,51.2295295
-899,The Jerboa,94,palm,Qatar,25.3336984,51.2295295
-900,The Plumet Basilisk,83,palm,Qatar,25.3336984,51.2295295
-901,The Plumet Basilisk,135,palm,Qatar,25.3336984,51.2295295
-902,The Old Dominion,258,palm,Qatar,25.3336984,51.2295295
-903,A Talisman,7,lapis,Rome,41.8933203,12.4829321
-904,Sea Unicorns and Land Unicorns,33,lapis,Rome,41.8933203,12.4829321
-905,Radical,17,slavery,Russia,64.6863136,97.7453061
-906,Enough,40,slavery,Russia,64.6863136,97.7453061
-907,Those Various Scalpels,15,lance,Russia,64.6863136,97.7453061
-908,Novices,61,lance,Russia,64.6863136,97.7453061
-909,The Frigate Pelican,64,lance,Russia,64.6863136,97.7453061
-910,Marriage,69,silk,Russia,64.6863136,97.7453061
-911,The Plumet Basilisk,93,silk,Russia,64.6863136,97.7453061
-912,The Old Dominion,103,silk,Russia,64.6863136,97.7453061
-913,The Old Dominion,236,silk,Russia,64.6863136,97.7453061
-914,He “Digesteth Harde Yron”,58,silk,Russia,64.6863136,97.7453061
-915,Tom Fool at Jamaica,24,silk,Russia,64.6863136,97.7453061
-916,Blue Bug,28,silk,Russia,64.6863136,97.7453061
-917,Marriage,208,monopolist,Russia,64.6863136,97.7453061
-918,An Octopus,31,mirror,Russia,64.6863136,97.7453061
-919,The Old Dominion,288,mirror,Russia,64.6863136,97.7453061
-920,Armor’s Undermining Modesty,42,mirror,Russia,64.6863136,97.7453061
-921,Blake,2,mirror,Russia,64.6863136,97.7453061
-922,Camellia Sabina,34,parsnip,Russia,64.6863136,97.7453061
-923,Fear is Hope,6,arab,Saudi Arabia,25.6242618,42.3528328
-924,Four Quartz Crystal Clocks,15,arab,Saudi Arabia,25.6242618,42.3528328
-925,"Part of a Novel, Part of a Poem, Part of a Play",178,pilgrim,Saudi Arabia,25.6242618,42.3528328
-926,Elephants,28,pilgrim,Saudi Arabia,25.6242618,42.3528328
-927,In Lieu of the Lyre,18,pilgrim,Saudi Arabia,25.6242618,42.3528328
-928,In Lieu of the Lyre,23,pilgrim,Saudi Arabia,25.6242618,42.3528328
-929,The Jerboa,91,sand,Saudi Arabia,25.6242618,42.3528328
-930,The Jerboa,92,sand,Saudi Arabia,25.6242618,42.3528328
-931,The Jerboa,93,sand,Saudi Arabia,25.6242618,42.3528328
-932,The Jerboa,102,sand,Saudi Arabia,25.6242618,42.3528328
-933,The Jerboa,144,sand,Saudi Arabia,25.6242618,42.3528328
-934,The Old Dominion,2,sand,Saudi Arabia,25.6242618,42.3528328
-935,He “Digesteth Harde Yron”,48,sand,Saudi Arabia,25.6242618,42.3528328
-936,"The mind, intractable thing",10,sand,Saudi Arabia,25.6242618,42.3528328
-937,The Jerboa,108,angel,Saudi Arabia,25.6242618,42.3528328
-938,Pedantic Literalist,1,ghost,Scotland,56.7861112,-4.1140518
-939,Walking-Sticks and Paperweights and Watermarks,15,ghost,Scotland,56.7861112,-4.1140518
-940,Walking-Sticks and Paperweights and Watermarks,34,ghost,Scotland,56.7861112,-4.1140518
-941,We Call Them the Brave,16,ghost,Scotland,56.7861112,-4.1140518
-942,Logic and “The Magic Flute”,3,ghost,Scotland,56.7861112,-4.1140518
-943,Spenser’s Ireland,61,guillemot,Scotland,56.7861112,-4.1140518
-944,Rigorists,1,reindeer,Siberia,60.0,100.0
-945,Rigorists,15,reindeer,Siberia,60.0,100.0
-946,Rigorists,26,reindeer,Siberia,60.0,100.0
-947,The Arctic Ox (or Goat),49,reindeer,Siberia,60.0,100.0
-948,Logic and “The Magic Flute”,16,mammoth,Siberia,60.0,100.0
-949,Poetry,16,wolf,Slovakia,48.7411522,19.4528646
-950,An Octopus,44,wolf,Slovakia,48.7411522,19.4528646
-951,The Old Dominion,125,wolf,Slovakia,48.7411522,19.4528646
-952,In Distrust of Merits,27,wolf,Slovakia,48.7411522,19.4528646
-953,An Octopus,143,diamond,South Africa,-28.8166236,24.991639
-954,Voracities and Verities Sometimes are Interacting,1,diamond,South Africa,-28.8166236,24.991639
-955,"Tell Me, Tell Me",8,diamond,South Africa,-28.8166236,24.991639
-956,The Jerboa,25,ostrich,South Africa,-28.8166236,24.991639
-957,The Old Dominion,23,ostrich,South Africa,-28.8166236,24.991639
-958,He “Digesteth Harde Yron”,20,ostrich,South Africa,-28.8166236,24.991639
-959,He “Digesteth Harde Yron”,24,ostrich,South Africa,-28.8166236,24.991639
-960,He “Digesteth Harde Yron”,35,ostrich,South Africa,-28.8166236,24.991639
-961,He “Digesteth Harde Yron”,56,ostrich,South Africa,-28.8166236,24.991639
-962,He “Digesteth Harde Yron”,62,ostrich,South Africa,-28.8166236,24.991639
-963,He “Digesteth Harde Yron”,63,ostrich,South Africa,-28.8166236,24.991639
-964,He “Digesteth Harde Yron”,65,ostrich,South Africa,-28.8166236,24.991639
-965,The Jerboa,49,rhinoceros,South Africa,-28.8166236,24.991639
-966,Apparition of Splendor,3,rhinoceros,South Africa,-28.8166236,24.991639
-967,The Jerboa,99,africanus,South Africa,-28.8166236,24.991639
-968,“Nothing will Cure the Sick Lion but to Eat an Ape”,0,lion,South Africa,-28.8166236,24.991639
-969,The Monkey Puzzler,19,lion,South Africa,-28.8166236,24.991639
-970,Marriage,216,lion,South Africa,-28.8166236,24.991639
-971,Sea Unicorns and Land Unicorns,1,lion,South Africa,-28.8166236,24.991639
-972,Sea Unicorns and Land Unicorns,15,lion,South Africa,-28.8166236,24.991639
-973,Sea Unicorns and Land Unicorns,20,lion,South Africa,-28.8166236,24.991639
-974,Sea Unicorns and Land Unicorns,36,lion,South Africa,-28.8166236,24.991639
-975,Sea Unicorns and Land Unicorns,37,lion,South Africa,-28.8166236,24.991639
-976,Sea Unicorns and Land Unicorns,38,lion,South Africa,-28.8166236,24.991639
-977,Sea Unicorns and Land Unicorns,42,lion,South Africa,-28.8166236,24.991639
-978,Sea Unicorns and Land Unicorns,44,lion,South Africa,-28.8166236,24.991639
-979,Sea Unicorns and Land Unicorns,49,lion,South Africa,-28.8166236,24.991639
-980,"Part of a Novel, Part of a Poem, Part of a Play",120,lion,South Africa,-28.8166236,24.991639
-981,"Part of a Novel, Part of a Poem, Part of a Play",122,lion,South Africa,-28.8166236,24.991639
-982,Walking-Sticks and Paperweights and Watermarks,86,lion,South Africa,-28.8166236,24.991639
-983,Rigorists,17,lion,South Africa,-28.8166236,24.991639
-984,In Distrust of Merits,13,lion,South Africa,-28.8166236,24.991639
-985,His Shield,20,lion,South Africa,-28.8166236,24.991639
-986,Leonardo da Vinci’s,1,lion,South Africa,-28.8166236,24.991639
-987,Leonardo da Vinci’s,7,lion,South Africa,-28.8166236,24.991639
-988,Leonardo da Vinci’s,32,lion,South Africa,-28.8166236,24.991639
-989,Leonardo da Vinci’s,39,lion,South Africa,-28.8166236,24.991639
-990,Leonardo da Vinci’s,40,lion,South Africa,-28.8166236,24.991639
-991,Baseball and Writing,87,lion,South Africa,-28.8166236,24.991639
-992,My Apish Cousins,1,zebra,South Africa,-28.8166236,24.991639
-993,The Old Dominion,241,zebra,South Africa,-28.8166236,24.991639
-994,The Old Dominion,274,zebra,South Africa,-28.8166236,24.991639
-995,The Old Dominion,277,zebra,South Africa,-28.8166236,24.991639
-996,The Fish,37,dynamite,South Africa,-28.8166236,24.991639
-997,"Part of a Novel, Part of a Poem, Part of a Play",117,dynamite,South Africa,-28.8166236,24.991639
-998,"Part of a Novel, Part of a Poem, Part of a Play",122,zebu,South Africa,-28.8166236,24.991639
-999,The Buffalo,18,zebu,South Africa,-28.8166236,24.991639
-1000,The Old Dominion,51,lark,South Africa,-28.8166236,24.991639
-1001,The Old Dominion,156,lark,South Africa,-28.8166236,24.991639
-1002,The Old Dominion,92,african,South Africa,-28.8166236,24.991639
-1003,Walking-Sticks and Paperweights and Watermarks,84,esparto,Spain,39.3260685,-4.8379791
-1004,Marriage,214,mummy,Spain,39.3260685,-4.8379791
-1005,Camellia Sabina,47,gem,Spain,39.3260685,-4.8379791
-1006,The Web One Weaves of Italy,11,gem,Spain,39.3260685,-4.8379791
-1007,Arthur Mitchell,4,gem,Spain,39.3260685,-4.8379791
-1008,"Tell Me, Tell Me",9,gem,Spain,39.3260685,-4.8379791
-1009,To William Butler Yeats on Tagore,4,gem,Spain,39.3260685,-4.8379791
-1010,"Part of a Novel, Part of a Poem, Part of a Play",170,basso,Spain,39.3260685,-4.8379791
-1011,Propriety,16,basso,Spain,39.3260685,-4.8379791
-1012,The Plumet Basilisk,137,spaniard,Spain,39.3260685,-4.8379791
-1013,The Old Dominion,71,andalusian,Spain,39.3260685,-4.8379791
-1014,He “Digesteth Harde Yron”,31,leaden,Spain,39.3260685,-4.8379791
-1015,Style,25,guitar,Spain,39.3260685,-4.8379791
-1016,Rescue with Yul Brynner,17,guitar,Spain,39.3260685,-4.8379791
-1017,Rescue with Yul Brynner,34,guitar,Spain,39.3260685,-4.8379791
-1018,Rescue with Yul Brynner,38,guitar,Spain,39.3260685,-4.8379791
-1019,Leonardo da Vinci’s,30,leo,Spain,39.3260685,-4.8379791
-1020,To Victor Hugo of My Crow Pluto,61,gypsy,Spain,39.3260685,-4.8379791
-1021,The Jerboa,52,drought,Sudan,14.5844444,29.4917691
-1022,The Fish,28,lily,Suriname,4.1413025,-56.0771187
-1023,People’s Surroundings,48,lily,Suriname,4.1413025,-56.0771187
-1024,An Octopus,125,lily,Suriname,4.1413025,-56.0771187
-1025,An Octopus,127,lily,Suriname,4.1413025,-56.0771187
-1026,"Part of a Novel, Part of a Poem, Part of a Play",36,lily,Suriname,4.1413025,-56.0771187
-1027,To Military Progress,23,evening,Sweden,59.6749712,14.5208584
-1028,To the Soul of “Progress”,23,evening,Sweden,59.6749712,14.5208584
-1029,An Octopus,116,moraine,Sweden,59.6749712,14.5208584
-1030,The Icosasphere,17,icosahedron,Sweden,59.6749712,14.5208584
-1031,An Octopus,127,avalanche,Switzerland,46.7985624,8.2319736
-1032,An Octopus,236,avalanche,Switzerland,46.7985624,8.2319736
-1033,The Buffalo,18,swiss,Switzerland,46.7985624,8.2319736
-1034,Peter,22,eel,Syria,34.6401861,39.0494106
-1035,Peter,44,eel,Syria,34.6401861,39.0494106
-1036,Camellia Sabina,55,eel,Syria,34.6401861,39.0494106
-1037,The Jerboa,24,onager,Syria,34.6401861,39.0494106
-1038,To Military Progress,8,crow,Tonga,-19.9160819,-175.202642
-1039,The Fish,3,crow,Tonga,-19.9160819,-175.202642
-1040,People’s Surroundings,32,crow,Tonga,-19.9160819,-175.202642
-1041,Then the Ermine:,24,crow,Tonga,-19.9160819,-175.202642
-1042,To Victor Hugo of My Crow Pluto,0,crow,Tonga,-19.9160819,-175.202642
-1043,To Victor Hugo of My Crow Pluto,5,crow,Tonga,-19.9160819,-175.202642
-1044,To Victor Hugo of My Crow Pluto,15,crow,Tonga,-19.9160819,-175.202642
-1045,To Victor Hugo of My Crow Pluto,38,crow,Tonga,-19.9160819,-175.202642
-1046,To the Soul of “Progress”,8,crow,Tonga,-19.9160819,-175.202642
-1047,Pigeons,63,samoan,Tonga,-19.9160819,-175.202642
-1048,Camellia Sabina,16,amanita,Turkey,38.9597594,34.9249653
-1049,Hometown Piece for Messrs. Alston and Reese,51,inning,Turkey,38.9597594,34.9249653
-1050,The Jerboa,29,stork,UK,54.7023545,-3.2765753
-1051,Nine Nectarines and Other Porcelain,51,stork,UK,54.7023545,-3.2765753
-1052,The Jerboa,72,calla,UK,54.7023545,-3.2765753
-1053,To a Prize Bird,2,chaff,UK,54.7023545,-3.2765753
-1054,To Military Progress,3,chaff,UK,54.7023545,-3.2765753
-1055,“He Wrote The History Book”,5,chaff,UK,54.7023545,-3.2765753
-1056,To the Soul of “Progress”,3,chaff,UK,54.7023545,-3.2765753
-1057,To Statecraft Embalmed,12,snow,UK,54.7023545,-3.2765753
-1058,Those Various Scalpels,8,snow,UK,54.7023545,-3.2765753
-1059,New York,9,snow,UK,54.7023545,-3.2765753
-1060,Marriage,69,snow,UK,54.7023545,-3.2765753
-1061,An Octopus,3,snow,UK,54.7023545,-3.2765753
-1062,An Octopus,80,snow,UK,54.7023545,-3.2765753
-1063,An Octopus,108,snow,UK,54.7023545,-3.2765753
-1064,An Octopus,156,snow,UK,54.7023545,-3.2765753
-1065,An Octopus,222,snow,UK,54.7023545,-3.2765753
-1066,An Octopus,234,snow,UK,54.7023545,-3.2765753
-1067,An Octopus,238,snow,UK,54.7023545,-3.2765753
-1068,The Buffalo,30,snow,UK,54.7023545,-3.2765753
-1069,Pigeons,100,snow,UK,54.7023545,-3.2765753
-1070,Rigorists,7,snow,UK,54.7023545,-3.2765753
-1071,Rigorists,8,snow,UK,54.7023545,-3.2765753
-1072,In Distrust of Merits,50,snow,UK,54.7023545,-3.2765753
-1073,We Call Them the Brave,3,snow,UK,54.7023545,-3.2765753
-1074,No better than “a withered daffodil”,2,snow,UK,54.7023545,-3.2765753
-1075,In the Public Garden,23,snow,UK,54.7023545,-3.2765753
-1076,"Saint Valentine,",12,snow,UK,54.7023545,-3.2765753
-1077,Poetry,16,horse,UK,54.7023545,-3.2765753
-1078,Poetry,18,horse,UK,54.7023545,-3.2765753
-1079,My Apish Cousins,23,horse,UK,54.7023545,-3.2765753
-1080,Dock Rats,21,horse,UK,54.7023545,-3.2765753
-1081,New York,18,horse,UK,54.7023545,-3.2765753
-1082,An Octopus,124,horse,UK,54.7023545,-3.2765753
-1083,Nine Nectarines and Other Porcelain,32,horse,UK,54.7023545,-3.2765753
-1084,Pigeons,95,horse,UK,54.7023545,-3.2765753
-1085,The Old Dominion,24,horse,UK,54.7023545,-3.2765753
-1086,The Old Dominion,260,horse,UK,54.7023545,-3.2765753
-1087,The Old Dominion,296,horse,UK,54.7023545,-3.2765753
-1088,He “Digesteth Harde Yron”,14,horse,UK,54.7023545,-3.2765753
-1089,The Paper Nautilus,28,horse,UK,54.7023545,-3.2765753
-1090,Tom Fool at Jamaica,25,horse,UK,54.7023545,-3.2765753
-1091,"Saint Nicholas,",32,horse,UK,54.7023545,-3.2765753
-1092,The Camperdown Elm,12,horse,UK,54.7023545,-3.2765753
-1093,Critics and Connoisseurs,10,oxford,UK,54.7023545,-3.2765753
-1094,Dock Rats,3,home,UK,54.7023545,-3.2765753
-1095,The Labors of Hercules,3,home,UK,54.7023545,-3.2765753
-1096,An Octopus,78,home,UK,54.7023545,-3.2765753
-1097,An Octopus,80,home,UK,54.7023545,-3.2765753
-1098,"Part of a Novel, Part of a Poem, Part of a Play",74,home,UK,54.7023545,-3.2765753
-1099,The Jerboa,88,home,UK,54.7023545,-3.2765753
-1100,The Frigate Pelican,36,home,UK,54.7023545,-3.2765753
-1101,Pigeons,33,home,UK,54.7023545,-3.2765753
-1102,Pigeons,37,home,UK,54.7023545,-3.2765753
-1103,The Old Dominion,272,home,UK,54.7023545,-3.2765753
-1104,A Carriage from Sweden,5,home,UK,54.7023545,-3.2765753
-1105,In Distrust of Merits,60,home,UK,54.7023545,-3.2765753
-1106,Hometown Piece for Messrs. Alston and Reese,20,home,UK,54.7023545,-3.2765753
-1107,Hometown Piece for Messrs. Alston and Reese,45,home,UK,54.7023545,-3.2765753
-1108,In the Public Garden,29,home,UK,54.7023545,-3.2765753
-1109,In the Public Garden,58,home,UK,54.7023545,-3.2765753
-1110,Rescue with Yul Brynner,35,home,UK,54.7023545,-3.2765753
-1111,Rescue with Yul Brynner,40,home,UK,54.7023545,-3.2765753
-1112,Carnegie Hall: Rescued,42,home,UK,54.7023545,-3.2765753
-1113,Dream,9,home,UK,54.7023545,-3.2765753
-1114,To a Friend in the Making,2,home,UK,54.7023545,-3.2765753
-1115,Holes Bored in a Workbag by the Scissors,7,home,UK,54.7023545,-3.2765753
-1116,Dock Rats,14,hay,UK,54.7023545,-3.2765753
-1117,The Frigate Pelican,36,hay,UK,54.7023545,-3.2765753
-1118,The Buffalo,50,hay,UK,54.7023545,-3.2765753
-1119,Efforts of Affection,4,hay,UK,54.7023545,-3.2765753
-1120,The Arctic Ox (or Goat),59,hay,UK,54.7023545,-3.2765753
-1121,"Tell Me, Tell Me",29,hay,UK,54.7023545,-3.2765753
-1122,Picking And Choosing,6,cloud,UK,54.7023545,-3.2765753
-1123,An Octopus,68,cloud,UK,54.7023545,-3.2765753
-1124,Sea Unicorns and Land Unicorns,79,cloud,UK,54.7023545,-3.2765753
-1125,The Plumet Basilisk,15,cloud,UK,54.7023545,-3.2765753
-1126,The Plumet Basilisk,38,cloud,UK,54.7023545,-3.2765753
-1127,The Old Dominion,165,cloud,UK,54.7023545,-3.2765753
-1128,Hometown Piece for Messrs. Alston and Reese,21,cloud,UK,54.7023545,-3.2765753
-1129,In the Public Garden,18,cloud,UK,54.7023545,-3.2765753
-1130,UK,2,cathedral,UK,54.7023545,-3.2765753
-1131,Those Various Scalpels,22,cathedral,UK,54.7023545,-3.2765753
-1132,UK,24,american,UK,54.7023545,-3.2765753
-1133,UK,28,continent,UK,54.7023545,-3.2765753
-1134,When I Buy Pictures,9,hound,UK,54.7023545,-3.2765753
-1135,The Old Dominion,125,hound,UK,54.7023545,-3.2765753
-1136,People’s Surroundings,31,sir,UK,54.7023545,-3.2765753
-1137,Sea Unicorns and Land Unicorns,19,sir,UK,54.7023545,-3.2765753
-1138,The Old Dominion,10,sir,UK,54.7023545,-3.2765753
-1139,Hometown Piece for Messrs. Alston and Reese,18,sir,UK,54.7023545,-3.2765753
-1140,“Like a Wave at the Curl”,9,sir,UK,54.7023545,-3.2765753
-1141,Bowls,2,vitae,UK,54.7023545,-3.2765753
-1142,"Part of a Novel, Part of a Poem, Part of a Play",93,vitae,UK,54.7023545,-3.2765753
-1143,The Old Dominion,291,vitae,UK,54.7023545,-3.2765753
-1144,Bowls,15,english,UK,54.7023545,-3.2765753
-1145,Marriage,27,english,UK,54.7023545,-3.2765753
-1146,Sea Unicorns and Land Unicorns,35,english,UK,54.7023545,-3.2765753
-1147,The Old Dominion,38,english,UK,54.7023545,-3.2765753
-1148,The Old Dominion,107,english,UK,54.7023545,-3.2765753
-1149,The Old Dominion,114,english,UK,54.7023545,-3.2765753
-1150,Novices,6,artist,UK,54.7023545,-3.2765753
-1151,Marriage,237,artist,UK,54.7023545,-3.2765753
-1152,Marriage,239,artist,UK,54.7023545,-3.2765753
-1153,The Jerboa,3,artist,UK,54.7023545,-3.2765753
-1154,Rigorists,9,artist,UK,54.7023545,-3.2765753
-1155,Dream,2,artist,UK,54.7023545,-3.2765753
-1156,Dream,6,artist,UK,54.7023545,-3.2765753
-1157,Novices,10,cockatrice,UK,54.7023545,-3.2765753
-1158,Marriage,71,leopard,UK,54.7023545,-3.2765753
-1159,The Frigate Pelican,75,leopard,UK,54.7023545,-3.2765753
-1160,He “Digesteth Harde Yron”,16,leopard,UK,54.7023545,-3.2765753
-1161,"Saint Valentine,",12,leopard,UK,54.7023545,-3.2765753
-1162,Old Tiger,7,leopard,UK,54.7023545,-3.2765753
-1163,Marriage,173,doth,UK,54.7023545,-3.2765753
-1164,Sea Unicorns and Land Unicorns,87,doth,UK,54.7023545,-3.2765753
-1165,Voracities and Verities Sometimes are Interacting,7,doth,UK,54.7023545,-3.2765753
-1166,Granite and Steel,20,doth,UK,54.7023545,-3.2765753
-1167,Marriage,235,shakespeare,UK,54.7023545,-3.2765753
-1168,Efforts of Affection,3,shakespeare,UK,54.7023545,-3.2765753
-1169,An Octopus,53,alabaster,UK,54.7023545,-3.2765753
-1170,Walking-Sticks and Paperweights and Watermarks,82,alabaster,UK,54.7023545,-3.2765753
-1171,An Octopus,148,thistle,UK,54.7023545,-3.2765753
-1172,Apparition of Splendor,10,thistle,UK,54.7023545,-3.2765753
-1173,For February 14th,7,thistle,UK,54.7023545,-3.2765753
-1174,Sea Unicorns and Land Unicorns,0,unicorn,UK,54.7023545,-3.2765753
-1175,Sea Unicorns and Land Unicorns,11,unicorn,UK,54.7023545,-3.2765753
-1176,Sea Unicorns and Land Unicorns,20,unicorn,UK,54.7023545,-3.2765753
-1177,Sea Unicorns and Land Unicorns,34,unicorn,UK,54.7023545,-3.2765753
-1178,Sea Unicorns and Land Unicorns,41,unicorn,UK,54.7023545,-3.2765753
-1179,Sea Unicorns and Land Unicorns,46,unicorn,UK,54.7023545,-3.2765753
-1180,Sea Unicorns and Land Unicorns,58,unicorn,UK,54.7023545,-3.2765753
-1181,Sea Unicorns and Land Unicorns,84,unicorn,UK,54.7023545,-3.2765753
-1182,Nine Nectarines and Other Porcelain,81,unicorn,UK,54.7023545,-3.2765753
-1183,Sea Unicorns and Land Unicorns,34,britannia,UK,54.7023545,-3.2765753
-1184,The Old Dominion,1,britannia,UK,54.7023545,-3.2765753
-1185,Sea Unicorns and Land Unicorns,47,beast,UK,54.7023545,-3.2765753
-1186,Sea Unicorns and Land Unicorns,73,beast,UK,54.7023545,-3.2765753
-1187,The Buffalo,16,beast,UK,54.7023545,-3.2765753
-1188,Nine Nectarines and Other Porcelain,53,beast,UK,54.7023545,-3.2765753
-1189,The Pangolin,38,beast,UK,54.7023545,-3.2765753
-1190,Elephants,32,beast,UK,54.7023545,-3.2765753
-1191,Efforts of Affection,19,beast,UK,54.7023545,-3.2765753
-1192,Leonardo da Vinci’s,9,beast,UK,54.7023545,-3.2765753
-1193,Leonardo da Vinci’s,21,beast,UK,54.7023545,-3.2765753
-1194,Leonardo da Vinci’s,39,beast,UK,54.7023545,-3.2765753
-1195,To a Giraffe,6,beast,UK,54.7023545,-3.2765753
-1196,Sea Unicorns and Land Unicorns,78,equine,UK,54.7023545,-3.2765753
-1197,A Carriage from Sweden,15,equine,UK,54.7023545,-3.2765753
-1198,"Part of a Novel, Part of a Poem, Part of a Play",55,slat,UK,54.7023545,-3.2765753
-1199,The Old Dominion,111,slat,UK,54.7023545,-3.2765753
-1200,"Part of a Novel, Part of a Poem, Part of a Play",71,schooner,UK,54.7023545,-3.2765753
-1201,The Jerboa,38,yachtsman,UK,54.7023545,-3.2765753
-1202,The Jerboa,45,lord,UK,54.7023545,-3.2765753
-1203,The Old Dominion,114,lord,UK,54.7023545,-3.2765753
-1204,In Distrust of Merits,14,lord,UK,54.7023545,-3.2765753
-1205,"Tell Me, Tell Me",8,lord,UK,54.7023545,-3.2765753
-1206,"Tell Me, Tell Me",40,lord,UK,54.7023545,-3.2765753
-1207,Camellia Sabina,27,wine,UK,54.7023545,-3.2765753
-1208,Camellia Sabina,57,wine,UK,54.7023545,-3.2765753
-1209,The Old Dominion,307,wine,UK,54.7023545,-3.2765753
-1210,For February 14th,19,wine,UK,54.7023545,-3.2765753
-1211,That Harp You Play So Well,6,wine,UK,54.7023545,-3.2765753
-1212,Camellia Sabina,46,gilded,UK,54.7023545,-3.2765753
-1213,Camellia Sabina,51,cavalry,UK,54.7023545,-3.2765753
-1214,Camellia Sabina,51,cadet,UK,54.7023545,-3.2765753
-1215,Camellia Sabina,60,du,UK,54.7023545,-3.2765753
-1216,The Plumet Basilisk,136,london,UK,54.7023545,-3.2765753
-1217,The Old Dominion,327,london,UK,54.7023545,-3.2765753
-1218,The Buffalo,36,serf,UK,54.7023545,-3.2765753
-1219,We Call Them the Brave,8,serf,UK,54.7023545,-3.2765753
-1220,The Buffalo,41,sage,UK,54.7023545,-3.2765753
-1221,The Old Dominion,168,sage,UK,54.7023545,-3.2765753
-1222,Leonardo da Vinci’s,4,sage,UK,54.7023545,-3.2765753
-1223,Nine Nectarines and Other Porcelain,61,pheasant,UK,54.7023545,-3.2765753
-1224,Pigeons,50,UK,UK,54.7023545,-3.2765753
-1225,The Old Dominion,7,cavalier,UK,54.7023545,-3.2765753
-1226,The Old Dominion,8,parson,UK,54.7023545,-3.2765753
-1227,The Old Dominion,63,pansy,UK,54.7023545,-3.2765753
-1228,The Old Dominion,67,pansy,UK,54.7023545,-3.2765753
-1229,Propriety,36,pansy,UK,54.7023545,-3.2765753
-1230,The Old Dominion,114,county,UK,54.7023545,-3.2765753
-1231,The Pangolin,9,armor,UK,54.7023545,-3.2765753
-1232,In Distrust of Merits,59,armor,UK,54.7023545,-3.2765753
-1233,Armor’s Undermining Modesty,0,armor,UK,54.7023545,-3.2765753
-1234,Armor’s Undermining Modesty,30,armor,UK,54.7023545,-3.2765753
-1235,Armor’s Undermining Modesty,40,armor,UK,54.7023545,-3.2765753
-1236,Blessed is the Man,12,armor,UK,54.7023545,-3.2765753
-1237,Charity Overcoming Envy,24,armor,UK,54.7023545,-3.2765753
-1238,The Pangolin,59,broom,UK,54.7023545,-3.2765753
-1239,Appellate Jurisdiction,2,broom,UK,54.7023545,-3.2765753
-1240,The Pangolin,63,simpleton,UK,54.7023545,-3.2765753
-1241,The Pangolin,78,monk,UK,54.7023545,-3.2765753
-1242,Leonardo da Vinci’s,10,monk,UK,54.7023545,-3.2765753
-1243,The Pangolin,86,mullion,UK,54.7023545,-3.2765753
-1244,The Pangolin,126,shod,UK,54.7023545,-3.2765753
-1245,He “Digesteth Harde Yron”,61,sail,UK,54.7023545,-3.2765753
-1246,Dream,21,sail,UK,54.7023545,-3.2765753
-1247,Four Quartz Crystal Clocks,29,potto,UK,54.7023545,-3.2765753
-1248,Propriety,30,millet,UK,54.7023545,-3.2765753
-1249,The Icosasphere,1,hedgerow,UK,54.7023545,-3.2765753
-1250,Quoting An Also Private Thought,11,escutcheon,UK,54.7023545,-3.2765753
-1251,Tom Fool at Jamaica,35,ennoble,UK,54.7023545,-3.2765753
-1252,Tom Fool at Jamaica,41,greyhound,UK,54.7023545,-3.2765753
-1253,Old Tiger,11,greyhound,UK,54.7023545,-3.2765753
-1254,Hometown Piece for Messrs. Alston and Reese,11,inning,UK,54.7023545,-3.2765753
-1255,Leonardo da Vinci’s,2,hermitage,UK,54.7023545,-3.2765753
-1256,Counseil to a Bacheler,1,trencher,UK,54.7023545,-3.2765753
-1257,Combat Cultural,7,cossack,Ukraine,49.4871968,31.2718321
-1258,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",0,cedar,US,39.7837304,-100.445882
-1259,People’s Surroundings,22,cedar,US,39.7837304,-100.445882
-1260,The Old Dominion,4,cedar,US,39.7837304,-100.445882
-1261,The Old Dominion,160,cedar,US,39.7837304,-100.445882
-1262,"Feed Me, Also, River God",9,cedar,US,39.7837304,-100.445882
-1263,The Old Dominion,175,pussy,US,39.7837304,-100.445882
-1264,The Old Dominion,194,pussy,US,39.7837304,-100.445882
-1265,The Jerboa,28,crane,US,39.7837304,-100.445882
-1266,Nine Nectarines and Other Porcelain,51,crane,US,39.7837304,-100.445882
-1267,Walking-Sticks and Paperweights and Watermarks,88,crane,US,39.7837304,-100.445882
-1268,An Octopus,100,pumice,US,39.7837304,-100.445882
-1269,An Octopus,206,hardtack,US,39.7837304,-100.445882
-1270,Sea Unicorns and Land Unicorns,8,weed,US,39.7837304,-100.445882
-1271,"Part of a Novel, Part of a Poem, Part of a Play",153,weed,US,39.7837304,-100.445882
-1272,The Plumet Basilisk,108,weed,US,39.7837304,-100.445882
-1273,Walking-Sticks and Paperweights and Watermarks,2,weed,US,39.7837304,-100.445882
-1274,Enough,43,weed,US,39.7837304,-100.445882
-1275,Charity Overcoming Envy,12,weed,US,39.7837304,-100.445882
-1276,Injudicious Gardening,3,bear,US,39.7837304,-100.445882
-1277,Marriage,80,bear,US,39.7837304,-100.445882
-1278,Marriage,173,bear,US,39.7837304,-100.445882
-1279,An Octopus,44,bear,US,39.7837304,-100.445882
-1280,An Octopus,51,bear,US,39.7837304,-100.445882
-1281,An Octopus,128,bear,US,39.7837304,-100.445882
-1282,Sea Unicorns and Land Unicorns,17,bear,US,39.7837304,-100.445882
-1283,Sea Unicorns and Land Unicorns,43,bear,US,39.7837304,-100.445882
-1284,The Frigate Pelican,14,bear,US,39.7837304,-100.445882
-1285,The Old Dominion,106,bear,US,39.7837304,-100.445882
-1286,The Pangolin,22,bear,US,39.7837304,-100.445882
-1287,Baseball and Writing,78,bear,US,39.7837304,-100.445882
-1288,W. S. Landor,2,bear,US,39.7837304,-100.445882
-1289,The Monkey Puzzler,5,cat,US,39.7837304,-100.445882
-1290,My Apish Cousins,4,cat,US,39.7837304,-100.445882
-1291,My Apish Cousins,12,cat,US,39.7837304,-100.445882
-1292,Peter,2,cat,US,39.7837304,-100.445882
-1293,Peter,27,cat,US,39.7837304,-100.445882
-1294,Dock Rats,23,cat,US,39.7837304,-100.445882
-1295,UK,24,cat,US,39.7837304,-100.445882
-1296,Silence,5,cat,US,39.7837304,-100.445882
-1297,An Octopus,147,cat,US,39.7837304,-100.445882
-1298,"Part of a Novel, Part of a Poem, Part of a Play",32,cat,US,39.7837304,-100.445882
-1299,"Part of a Novel, Part of a Poem, Part of a Play",42,cat,US,39.7837304,-100.445882
-1300,"Part of a Novel, Part of a Poem, Part of a Play",157,cat,US,39.7837304,-100.445882
-1301,"Part of a Novel, Part of a Poem, Part of a Play",185,cat,US,39.7837304,-100.445882
-1302,The Frigate Pelican,68,cat,US,39.7837304,-100.445882
-1303,Pigeons,63,cat,US,39.7837304,-100.445882
-1304,The Old Dominion,211,cat,US,39.7837304,-100.445882
-1305,The Old Dominion,270,cat,US,39.7837304,-100.445882
-1306,Spenser’s Ireland,69,cat,US,39.7837304,-100.445882
-1307,The Wood-Weasel,11,cat,US,39.7837304,-100.445882
-1308,Tom Fool at Jamaica,39,cat,US,39.7837304,-100.445882
-1309,"Tell Me, Tell Me",38,cat,US,39.7837304,-100.445882
-1310,Tippoo’s Tiger,10,cat,US,39.7837304,-100.445882
-1311,“Like a Wave at the Curl”,3,cat,US,39.7837304,-100.445882
-1312,The Magician’s Retreat,7,cat,US,39.7837304,-100.445882
-1313,Critics and Connoisseurs,11,flamingo,US,39.7837304,-100.445882
-1314,Critics and Connoisseurs,23,north,US,39.7837304,-100.445882
-1315,UK,19,north,US,39.7837304,-100.445882
-1316,A Carriage from Sweden,11,north,US,39.7837304,-100.445882
-1317,Combat Cultural,29,north,US,39.7837304,-100.445882
-1318,The Fish,39,hatchet,US,39.7837304,-100.445882
-1319,The Old Dominion,310,hatchet,US,39.7837304,-100.445882
-1320,Black Earth,3,alligator,US,39.7837304,-100.445882
-1321,Peter,20,alligator,US,39.7837304,-100.445882
-1322,"Part of a Novel, Part of a Poem, Part of a Play",117,alligator,US,39.7837304,-100.445882
-1323,The Plumet Basilisk,63,alligator,US,39.7837304,-100.445882
-1324,The Plumet Basilisk,145,alligator,US,39.7837304,-100.445882
-1325,Radical,5,corn,US,39.7837304,-100.445882
-1326,Radical,12,hat,US,39.7837304,-100.445882
-1327,When I Buy Pictures,8,hat,US,39.7837304,-100.445882
-1328,"Part of a Novel, Part of a Poem, Part of a Play",49,hat,US,39.7837304,-100.445882
-1329,The Frigate Pelican,78,hat,US,39.7837304,-100.445882
-1330,The Pangolin,51,hat,US,39.7837304,-100.445882
-1331,Style,4,hat,US,39.7837304,-100.445882
-1332,Rescue with Yul Brynner,41,hat,US,39.7837304,-100.445882
-1333,In Lieu of the Lyre,19,hat,US,39.7837304,-100.445882
-1334,In Lieu of the Lyre,23,hat,US,39.7837304,-100.445882
-1335,Picking And Choosing,23,linen,US,39.7837304,-100.445882
-1336,The Jerboa,37,linen,US,39.7837304,-100.445882
-1337,His Shield,20,linen,US,39.7837304,-100.445882
-1338,UK,7,gourd,US,39.7837304,-100.445882
-1339,"Part of a Novel, Part of a Poem, Part of a Play",29,gourd,US,39.7837304,-100.445882
-1340,The Plumet Basilisk,105,gourd,US,39.7837304,-100.445882
-1341,An Expedient—Leonardo da Vinci’s—and a Query,8,gourd,US,39.7837304,-100.445882
-1342,People’s Surroundings,37,american,US,39.7837304,-100.445882
-1343,An Octopus,17,american,US,39.7837304,-100.445882
-1344,An Octopus,132,american,US,39.7837304,-100.445882
-1345,Nine Nectarines and Other Porcelain,14,american,US,39.7837304,-100.445882
-1346,The Old Dominion,131,american,US,39.7837304,-100.445882
-1347,Style,8,american,US,39.7837304,-100.445882
-1348,Old Tiger,9,american,US,39.7837304,-100.445882
-1349,New York,0,york,US,39.7837304,-100.445882
-1350,The Old Dominion,326,york,US,39.7837304,-100.445882
-1351,“Keeping Their World Large”,3,york,US,39.7837304,-100.445882
-1352,New York,4,ermine,US,39.7837304,-100.445882
-1353,An Octopus,70,ermine,US,39.7837304,-100.445882
-1354,Then the Ermine:,0,ermine,US,39.7837304,-100.445882
-1355,New York,4,tepee,US,39.7837304,-100.445882
-1356,New York,6,spot,US,39.7837304,-100.445882
-1357,An Octopus,43,spot,US,39.7837304,-100.445882
-1358,An Octopus,145,spot,US,39.7837304,-100.445882
-1359,"Part of a Novel, Part of a Poem, Part of a Play",29,spot,US,39.7837304,-100.445882
-1360,The Old Dominion,121,spot,US,39.7837304,-100.445882
-1361,The Arctic Ox (or Goat),30,spot,US,39.7837304,-100.445882
-1362,Old Amusement Park,7,spot,US,39.7837304,-100.445882
-1363,Old Tiger,44,spot,US,39.7837304,-100.445882
-1364,People’s Surroundings,6,palace,US,39.7837304,-100.445882
-1365,People’s Surroundings,83,palace,US,39.7837304,-100.445882
-1366,Rescue with Yul Brynner,43,palace,US,39.7837304,-100.445882
-1367,Tippoo’s Tiger,5,palace,US,39.7837304,-100.445882
-1368,People’s Surroundings,35,mosquito,US,39.7837304,-100.445882
-1369,People’s Surroundings,40,surf,US,39.7837304,-100.445882
-1370,Novices,39,surf,US,39.7837304,-100.445882
-1371,People’s Surroundings,79,desert,US,39.7837304,-100.445882
-1372,The Jerboa,85,desert,US,39.7837304,-100.445882
-1373,The Jerboa,110,desert,US,39.7837304,-100.445882
-1374,The Jerboa,140,desert,US,39.7837304,-100.445882
-1375,He “Digesteth Harde Yron”,64,desert,US,39.7837304,-100.445882
-1376,In Distrust of Merits,22,desert,US,39.7837304,-100.445882
-1377,Leonardo da Vinci’s,12,desert,US,39.7837304,-100.445882
-1378,Bowls,6,lacquer,US,39.7837304,-100.445882
-1379,Marriage,50,stately,US,39.7837304,-100.445882
-1380,Marriage,70,oyster,US,39.7837304,-100.445882
-1381,An Octopus,58,stag,US,39.7837304,-100.445882
-1382,Spenser’s Ireland,68,stag,US,39.7837304,-100.445882
-1383,"Saint Nicholas,",36,stag,US,39.7837304,-100.445882
-1384,An Octopus,147,sunflower,US,39.7837304,-100.445882
-1385,"Part of a Novel, Part of a Poem, Part of a Play",33,sunflower,US,39.7837304,-100.445882
-1386,Camellia Sabina,34,sunflower,US,39.7837304,-100.445882
-1387,The Old Dominion,88,sunflower,US,39.7837304,-100.445882
-1388,Charity Overcoming Envy,14,sunflower,US,39.7837304,-100.445882
-1389,Sea Unicorns and Land Unicorns,19,florida,US,39.7837304,-100.445882
-1390,"Part of a Novel, Part of a Poem, Part of a Play",2,steeple,US,39.7837304,-100.445882
-1391,"Part of a Novel, Part of a Poem, Part of a Play",23,steeple,US,39.7837304,-100.445882
-1392,"Part of a Novel, Part of a Poem, Part of a Play",60,steeple,US,39.7837304,-100.445882
-1393,"Part of a Novel, Part of a Poem, Part of a Play",73,steeple,US,39.7837304,-100.445882
-1394,"Part of a Novel, Part of a Poem, Part of a Play",77,steeple,US,39.7837304,-100.445882
-1395,"Part of a Novel, Part of a Poem, Part of a Play",78,steeple,US,39.7837304,-100.445882
-1396,"Part of a Novel, Part of a Poem, Part of a Play",93,arbor,US,39.7837304,-100.445882
-1397,The Old Dominion,63,arbor,US,39.7837304,-100.445882
-1398,The Plumet Basilisk,11,chieftain,US,39.7837304,-100.445882
-1399,The Wood-Weasel,8,chieftain,US,39.7837304,-100.445882
-1400,The Plumet Basilisk,55,dove,US,39.7837304,-100.445882
-1401,Nine Nectarines and Other Porcelain,51,dove,US,39.7837304,-100.445882
-1402,Pigeons,46,dove,US,39.7837304,-100.445882
-1403,Pigeons,58,dove,US,39.7837304,-100.445882
-1404,The Mind is an Enchanting Thing,29,dove,US,39.7837304,-100.445882
-1405,The Frigate Pelican,61,armadillo,US,39.7837304,-100.445882
-1406,The Frigate Pelican,84,mangrove,US,39.7837304,-100.445882
-1407,The Buffalo,0,buffalo,US,39.7837304,-100.445882
-1408,The Buffalo,22,buffalo,US,39.7837304,-100.445882
-1409,The Buffalo,32,buffalo,US,39.7837304,-100.445882
-1410,The Buffalo,37,buffalo,US,39.7837304,-100.445882
-1411,The Buffalo,49,buffalo,US,39.7837304,-100.445882
-1412,The Arctic Ox (or Goat),47,buffalo,US,39.7837304,-100.445882
-1413,Walking-Sticks and Paperweights and Watermarks,98,juniper,US,39.7837304,-100.445882
-1414,Walking-Sticks and Paperweights and Watermarks,107,juniper,US,39.7837304,-100.445882
-1415,Walking-Sticks and Paperweights and Watermarks,115,juniper,US,39.7837304,-100.445882
-1416,The Old Dominion,154,juniper,US,39.7837304,-100.445882
-1417,The Old Dominion,12,hackberry,US,39.7837304,-100.445882
-1418,The Old Dominion,159,hackberry,US,39.7837304,-100.445882
-1419,The Old Dominion,13,ivy,US,39.7837304,-100.445882
-1420,The Old Dominion,63,ivy,US,39.7837304,-100.445882
-1421,The Old Dominion,47,virginian,US,39.7837304,-100.445882
-1422,The Old Dominion,113,virginian,US,39.7837304,-100.445882
-1423,The Old Dominion,66,tidewater,US,39.7837304,-100.445882
-1424,The Old Dominion,76,buckeye,US,39.7837304,-100.445882
-1425,The Old Dominion,95,magnolia,US,39.7837304,-100.445882
-1426,The Old Dominion,234,elf,US,39.7837304,-100.445882
-1427,Spenser’s Ireland,2,kindest,US,39.7837304,-100.445882
-1428,Elephants,65,soldier,US,39.7837304,-100.445882
-1429,In Distrust of Merits,58,soldier,US,39.7837304,-100.445882
-1430,W. S. Landor,4,soldier,US,39.7837304,-100.445882
-1431,The Mind is an Enchanting Thing,9,kiwi,US,39.7837304,-100.445882
-1432,His Shield,9,asbestos,US,39.7837304,-100.445882
-1433,Armor’s Undermining Modesty,23,beer,US,39.7837304,-100.445882
-1434,For February 14th,6,beer,US,39.7837304,-100.445882
-1435,We Call Them the Brave,16,congressionally,US,39.7837304,-100.445882
-1436,Tom Fool at Jamaica,2,statesman,US,39.7837304,-100.445882
-1437,Tom Fool at Jamaica,38,ted,US,39.7837304,-100.445882
-1438,Hometown Piece for Messrs. Alston and Reese,9,yankee,US,39.7837304,-100.445882
-1439,Baseball and Writing,59,yankee,US,39.7837304,-100.445882
-1440,Hometown Piece for Messrs. Alston and Reese,48,jake,US,39.7837304,-100.445882
-1441,Hometown Piece for Messrs. Alston and Reese,49,jake,US,39.7837304,-100.445882
-1442,To Victor Hugo of My Crow Pluto,36,peso,US,39.7837304,-100.445882
-1443,To Victor Hugo of My Crow Pluto,70,peso,US,39.7837304,-100.445882
-1444,The Past is the Present,4,morrow,US,39.7837304,-100.445882
-1445,The Arctic Ox (or Goat),25,chinchilla,Venezuela,8.0018709,-66.1109318
+0,An Octopus,64,antelope,South Africa,15.454166,18.732207
+1,An Octopus,64,antelope,South Africa,-28.8166236,24.991639
+2,The Jerboa,22,antelope,South Africa,15.454166,18.732207
+3,The Jerboa,22,antelope,South Africa,-28.8166236,24.991639
+4,An Octopus,143,diamond,South Africa,15.454166,18.732207
+5,An Octopus,143,diamond,South Africa,-28.8166236,24.991639
+6,Voracities and Verities Sometimes are Interacting,1,diamond,South Africa,15.454166,18.732207
+7,Voracities and Verities Sometimes are Interacting,1,diamond,South Africa,-28.8166236,24.991639
+8,"Tell Me, Tell Me",8,diamond,South Africa,15.454166,18.732207
+9,"Tell Me, Tell Me",8,diamond,South Africa,-28.8166236,24.991639
+10,The Jerboa,25,ostrich,South Africa,15.454166,18.732207
+11,The Jerboa,25,ostrich,South Africa,-28.8166236,24.991639
+12,The Old Dominion,23,ostrich,South Africa,15.454166,18.732207
+13,The Old Dominion,23,ostrich,South Africa,-28.8166236,24.991639
+14,He “Digesteth Harde Yron”,20,ostrich,South Africa,15.454166,18.732207
+15,He “Digesteth Harde Yron”,20,ostrich,South Africa,-28.8166236,24.991639
+16,He “Digesteth Harde Yron”,24,ostrich,South Africa,15.454166,18.732207
+17,He “Digesteth Harde Yron”,24,ostrich,South Africa,-28.8166236,24.991639
+18,He “Digesteth Harde Yron”,35,ostrich,South Africa,15.454166,18.732207
+19,He “Digesteth Harde Yron”,35,ostrich,South Africa,-28.8166236,24.991639
+20,He “Digesteth Harde Yron”,56,ostrich,South Africa,15.454166,18.732207
+21,He “Digesteth Harde Yron”,56,ostrich,South Africa,-28.8166236,24.991639
+22,He “Digesteth Harde Yron”,62,ostrich,South Africa,15.454166,18.732207
+23,He “Digesteth Harde Yron”,62,ostrich,South Africa,-28.8166236,24.991639
+24,He “Digesteth Harde Yron”,63,ostrich,South Africa,15.454166,18.732207
+25,He “Digesteth Harde Yron”,63,ostrich,South Africa,-28.8166236,24.991639
+26,He “Digesteth Harde Yron”,65,ostrich,South Africa,15.454166,18.732207
+27,He “Digesteth Harde Yron”,65,ostrich,South Africa,-28.8166236,24.991639
+28,The Jerboa,49,rhinoceros,South Africa,15.454166,18.732207
+29,The Jerboa,49,rhinoceros,South Africa,-28.8166236,24.991639
+30,Apparition of Splendor,3,rhinoceros,South Africa,15.454166,18.732207
+31,Apparition of Splendor,3,rhinoceros,South Africa,-28.8166236,24.991639
+32,The Jerboa,99,africanus,South Africa,15.454166,18.732207
+33,The Jerboa,99,africanus,South Africa,-28.8166236,24.991639
+34,“Nothing will Cure the Sick Lion but to Eat an Ape”,0,lion,South Africa,15.454166,18.732207
+35,“Nothing will Cure the Sick Lion but to Eat an Ape”,0,lion,South Africa,-28.8166236,24.991639
+36,The Monkey Puzzler,19,lion,South Africa,15.454166,18.732207
+37,The Monkey Puzzler,19,lion,South Africa,-28.8166236,24.991639
+38,Marriage,216,lion,South Africa,15.454166,18.732207
+39,Marriage,216,lion,South Africa,-28.8166236,24.991639
+40,Sea Unicorns and Land Unicorns,1,lion,South Africa,15.454166,18.732207
+41,Sea Unicorns and Land Unicorns,1,lion,South Africa,-28.8166236,24.991639
+42,Sea Unicorns and Land Unicorns,15,lion,South Africa,15.454166,18.732207
+43,Sea Unicorns and Land Unicorns,15,lion,South Africa,-28.8166236,24.991639
+44,Sea Unicorns and Land Unicorns,20,lion,South Africa,15.454166,18.732207
+45,Sea Unicorns and Land Unicorns,20,lion,South Africa,-28.8166236,24.991639
+46,Sea Unicorns and Land Unicorns,36,lion,South Africa,15.454166,18.732207
+47,Sea Unicorns and Land Unicorns,36,lion,South Africa,-28.8166236,24.991639
+48,Sea Unicorns and Land Unicorns,37,lion,South Africa,15.454166,18.732207
+49,Sea Unicorns and Land Unicorns,37,lion,South Africa,-28.8166236,24.991639
+50,Sea Unicorns and Land Unicorns,38,lion,South Africa,15.454166,18.732207
+51,Sea Unicorns and Land Unicorns,38,lion,South Africa,-28.8166236,24.991639
+52,Sea Unicorns and Land Unicorns,42,lion,South Africa,15.454166,18.732207
+53,Sea Unicorns and Land Unicorns,42,lion,South Africa,-28.8166236,24.991639
+54,Sea Unicorns and Land Unicorns,44,lion,South Africa,15.454166,18.732207
+55,Sea Unicorns and Land Unicorns,44,lion,South Africa,-28.8166236,24.991639
+56,Sea Unicorns and Land Unicorns,49,lion,South Africa,15.454166,18.732207
+57,Sea Unicorns and Land Unicorns,49,lion,South Africa,-28.8166236,24.991639
+58,"Part of a Novel, Part of a Poem, Part of a Play",120,lion,South Africa,15.454166,18.732207
+59,"Part of a Novel, Part of a Poem, Part of a Play",120,lion,South Africa,-28.8166236,24.991639
+60,"Part of a Novel, Part of a Poem, Part of a Play",122,lion,South Africa,15.454166,18.732207
+61,"Part of a Novel, Part of a Poem, Part of a Play",122,lion,South Africa,-28.8166236,24.991639
+62,Walking-Sticks and Paperweights and Watermarks,86,lion,South Africa,15.454166,18.732207
+63,Walking-Sticks and Paperweights and Watermarks,86,lion,South Africa,-28.8166236,24.991639
+64,Rigorists,17,lion,South Africa,15.454166,18.732207
+65,Rigorists,17,lion,South Africa,-28.8166236,24.991639
+66,In Distrust of Merits,13,lion,South Africa,15.454166,18.732207
+67,In Distrust of Merits,13,lion,South Africa,-28.8166236,24.991639
+68,His Shield,20,lion,South Africa,15.454166,18.732207
+69,His Shield,20,lion,South Africa,-28.8166236,24.991639
+70,Leonardo da Vinci’s,1,lion,South Africa,15.454166,18.732207
+71,Leonardo da Vinci’s,1,lion,South Africa,-28.8166236,24.991639
+72,Leonardo da Vinci’s,7,lion,South Africa,15.454166,18.732207
+73,Leonardo da Vinci’s,7,lion,South Africa,-28.8166236,24.991639
+74,Leonardo da Vinci’s,32,lion,South Africa,15.454166,18.732207
+75,Leonardo da Vinci’s,32,lion,South Africa,-28.8166236,24.991639
+76,Leonardo da Vinci’s,39,lion,South Africa,15.454166,18.732207
+77,Leonardo da Vinci’s,39,lion,South Africa,-28.8166236,24.991639
+78,Leonardo da Vinci’s,40,lion,South Africa,15.454166,18.732207
+79,Leonardo da Vinci’s,40,lion,South Africa,-28.8166236,24.991639
+80,Baseball and Writing,87,lion,South Africa,15.454166,18.732207
+81,Baseball and Writing,87,lion,South Africa,-28.8166236,24.991639
+82,My Apish Cousins,1,zebra,South Africa,15.454166,18.732207
+83,My Apish Cousins,1,zebra,South Africa,-28.8166236,24.991639
+84,The Old Dominion,241,zebra,South Africa,15.454166,18.732207
+85,The Old Dominion,241,zebra,South Africa,-28.8166236,24.991639
+86,The Old Dominion,274,zebra,South Africa,15.454166,18.732207
+87,The Old Dominion,274,zebra,South Africa,-28.8166236,24.991639
+88,The Old Dominion,277,zebra,South Africa,15.454166,18.732207
+89,The Old Dominion,277,zebra,South Africa,-28.8166236,24.991639
+90,The Fish,37,dynamite,South Africa,15.454166,18.732207
+91,The Fish,37,dynamite,South Africa,-28.8166236,24.991639
+92,"Part of a Novel, Part of a Poem, Part of a Play",117,dynamite,South Africa,15.454166,18.732207
+93,"Part of a Novel, Part of a Poem, Part of a Play",117,dynamite,South Africa,-28.8166236,24.991639
+94,"Part of a Novel, Part of a Poem, Part of a Play",122,zebu,South Africa,15.454166,18.732207
+95,"Part of a Novel, Part of a Poem, Part of a Play",122,zebu,South Africa,-28.8166236,24.991639
+96,The Buffalo,18,zebu,South Africa,15.454166,18.732207
+97,The Buffalo,18,zebu,South Africa,-28.8166236,24.991639
+98,The Old Dominion,51,lark,South Africa,15.454166,18.732207
+99,The Old Dominion,51,lark,South Africa,-28.8166236,24.991639
+100,The Old Dominion,156,lark,South Africa,15.454166,18.732207
+101,The Old Dominion,156,lark,South Africa,-28.8166236,24.991639
+102,The Old Dominion,92,african,South Africa,15.454166,18.732207
+103,The Old Dominion,92,african,South Africa,-28.8166236,24.991639
+104,Fear is Hope,10,caravan,Andorra,42.5407167,1.5732033
+105,An Octopus,96,glacier,Antarctica,-79.4063075,0.3149312
+106,Sea Unicorns and Land Unicorns,18,antarctica,Antarctica,-79.4063075,0.3149312
+107,Quoting An Also Private Thought,13,antipodal,Antarctica,-79.4063075,0.3149312
+108,The Plumet Basilisk,2,driftwood,Arctic,79.2506,-110.114
+109,The Jerboa,58,fig,Argentina,-34.9964963,-64.9672817
+110,The Old Dominion,131,fig,Argentina,-34.9964963,-64.9672817
+111,The Old Dominion,142,fig,Argentina,-34.9964963,-64.9672817
+112,He Made This Screen,5,fig,Argentina,-34.9964963,-64.9672817
+113,Elephants,60,wreath,Armenia,40.7696272,44.6736646
+114,Armor’s Undermining Modesty,30,wreath,Armenia,40.7696272,44.6736646
+115,For February 14th,12,wreath,Armenia,40.7696272,44.6736646
+116,"In “Designing a Cloak to Cloak his Designs,” you Wrested from Oblivion, a Coat of Immortality for your own Use.",5,wreath,Armenia,40.7696272,44.6736646
+117,A Talisman,8,sea,Atlantic,6.5994,-35.6731
+118,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",6,sea,Atlantic,6.5994,-35.6731
+119,Sojourn in the Whale,3,sea,Atlantic,6.5994,-35.6731
+120,My Apish Cousins,22,sea,Atlantic,6.5994,-35.6731
+121,The Fish,19,sea,Atlantic,6.5994,-35.6731
+122,The Fish,46,sea,Atlantic,6.5994,-35.6731
+123,Dock Rats,3,sea,Atlantic,6.5994,-35.6731
+124,Dock Rats,20,sea,Atlantic,6.5994,-35.6731
+125,A Grave,1,sea,Atlantic,6.5994,-35.6731
+126,A Grave,6,sea,Atlantic,6.5994,-35.6731
+127,A Grave,10,sea,Atlantic,6.5994,-35.6731
+128,A Grave,11,sea,Atlantic,6.5994,-35.6731
+129,A Grave,23,sea,Atlantic,6.5994,-35.6731
+130,Novices,11,sea,Atlantic,6.5994,-35.6731
+131,Novices,43,sea,Atlantic,6.5994,-35.6731
+132,An Octopus,3,sea,Atlantic,6.5994,-35.6731
+133,Sea Unicorns and Land Unicorns,0,sea,Atlantic,6.5994,-35.6731
+134,Sea Unicorns and Land Unicorns,9,sea,Atlantic,6.5994,-35.6731
+135,Sea Unicorns and Land Unicorns,11,sea,Atlantic,6.5994,-35.6731
+136,Sea Unicorns and Land Unicorns,34,sea,Atlantic,6.5994,-35.6731
+137,Sea Unicorns and Land Unicorns,38,sea,Atlantic,6.5994,-35.6731
+138,Sea Unicorns and Land Unicorns,41,sea,Atlantic,6.5994,-35.6731
+139,"Part of a Novel, Part of a Poem, Part of a Play",5,sea,Atlantic,6.5994,-35.6731
+140,"Part of a Novel, Part of a Poem, Part of a Play",15,sea,Atlantic,6.5994,-35.6731
+141,"Part of a Novel, Part of a Poem, Part of a Play",51,sea,Atlantic,6.5994,-35.6731
+142,"Part of a Novel, Part of a Poem, Part of a Play",120,sea,Atlantic,6.5994,-35.6731
+143,No Swan So Fine,10,sea,Atlantic,6.5994,-35.6731
+144,The Plumet Basilisk,14,sea,Atlantic,6.5994,-35.6731
+145,The Plumet Basilisk,61,sea,Atlantic,6.5994,-35.6731
+146,Pigeons,30,sea,Atlantic,6.5994,-35.6731
+147,Pigeons,96,sea,Atlantic,6.5994,-35.6731
+148,The Old Dominion,128,sea,Atlantic,6.5994,-35.6731
+149,The Old Dominion,282,sea,Atlantic,6.5994,-35.6731
+150,What are Years?,15,sea,Atlantic,6.5994,-35.6731
+151,Light is Speech,26,sea,Atlantic,6.5994,-35.6731
+152,He “Digesteth Harde Yron”,42,sea,Atlantic,6.5994,-35.6731
+153,The Paper Nautilus,11,sea,Atlantic,6.5994,-35.6731
+154,In Distrust of Merits,11,sea,Atlantic,6.5994,-35.6731
+155,Propriety,20,sea,Atlantic,6.5994,-35.6731
+156,Rosemary,3,sea,Atlantic,6.5994,-35.6731
+157,Rosemary,14,sea,Atlantic,6.5994,-35.6731
+158,Granite and Steel,1,sea,Atlantic,6.5994,-35.6731
+159,Granite and Steel,17,sea,Atlantic,6.5994,-35.6731
+160,"The mind, intractable thing",27,sea,Atlantic,6.5994,-35.6731
+161,He Made This Screen,3,sea,Atlantic,6.5994,-35.6731
+162,Old Tiger,41,sea,Atlantic,6.5994,-35.6731
+163,"Part of a Novel, Part of a Poem, Part of a Play",126,swordfish,Atlantic,6.5994,-35.6731
+164,The Jerboa,151,seed,Atlantic,6.5994,-35.6731
+165,Camellia Sabina,35,seed,Atlantic,6.5994,-35.6731
+166,Spenser’s Ireland,16,seed,Atlantic,6.5994,-35.6731
+167,Spenser’s Ireland,20,seed,Atlantic,6.5994,-35.6731
+168,Nevertheless,5,seed,Atlantic,6.5994,-35.6731
+169,Nevertheless,6,seed,Atlantic,6.5994,-35.6731
+170,Style,29,seed,Atlantic,6.5994,-35.6731
+171,Enough,42,seed,Atlantic,6.5994,-35.6731
+172,Rescue with Yul Brynner,43,seed,Atlantic,6.5994,-35.6731
+173,The Arctic Ox (or Goat),3,atlantic,Atlantic,6.5994,-35.6731
+174,My Apish Cousins,4,parakeet,Australia,-24.7761086,134.755
+175,Dock Rats,17,parakeet,Australia,-24.7761086,134.755
+176,Radical,3,carrot,Australia,-24.7761086,134.755
+177,Nevertheless,16,carrot,Australia,-24.7761086,134.755
+178,The Arctic Ox (or Goat),56,carrot,Australia,-24.7761086,134.755
+179,Baseball and Writing,73,carrot,Australia,-24.7761086,134.755
+180,An Octopus,121,totemic,Australia,-24.7761086,134.755
+181,The Jerboa,152,kangaroo,Australia,-24.7761086,134.755
+182,The Frigate Pelican,37,sheep,Australia,-24.7761086,134.755
+183,Nine Nectarines and Other Porcelain,61,sheep,Australia,-24.7761086,134.755
+184,The Arctic Ox (or Goat),46,sheep,Australia,-24.7761086,134.755
+185,Then the Ermine:,31,darker,Australia,-24.7761086,134.755
+186,Dock Rats,16,mountain,Austria,47.59397,14.12456
+187,An Octopus,74,mountain,Austria,47.59397,14.12456
+188,An Octopus,80,mountain,Austria,47.59397,14.12456
+189,An Octopus,84,mountain,Austria,47.59397,14.12456
+190,An Octopus,111,mountain,Austria,47.59397,14.12456
+191,An Octopus,120,mountain,Austria,47.59397,14.12456
+192,An Octopus,153,mountain,Austria,47.59397,14.12456
+193,An Octopus,154,mountain,Austria,47.59397,14.12456
+194,An Octopus,231,mountain,Austria,47.59397,14.12456
+195,Spenser’s Ireland,70,mountain,Austria,47.59397,14.12456
+196,His Shield,16,mountain,Austria,47.59397,14.12456
+197,The Arctic Ox (or Goat),55,mountain,Austria,47.59397,14.12456
+198,Sea Unicorns and Land Unicorns,33,pomegranate,Azerbaijan,40.3936294,47.7872508
+199,The Jerboa,32,pomegranate,Azerbaijan,40.3936294,47.7872508
+200,The Old Dominion,91,pomegranate,Azerbaijan,40.3936294,47.7872508
+201,The Old Dominion,249,pomegranate,Azerbaijan,40.3936294,47.7872508
+202,The Plumet Basilisk,1,costa,Bahamas,24.7736546,-78.0000547
+203,The Plumet Basilisk,5,costa,Bahamas,24.7736546,-78.0000547
+204,The Plumet Basilisk,78,costa,Bahamas,24.7736546,-78.0000547
+205,The Frigate Pelican,104,caribbean,Bahamas,24.7736546,-78.0000547
+206,A Carriage from Sweden,12,archipelago,Bahamas,24.7736546,-78.0000547
+207,The Monkey Puzzler,21,porcupine,Botswana,-23.1681782,24.5928742
+208,Peter,9,porcupine,Botswana,-23.1681782,24.5928742
+209,An Octopus,46,porcupine,Botswana,-23.1681782,24.5928742
+210,The Plumet Basilisk,135,porcupine,Botswana,-23.1681782,24.5928742
+211,His Shield,3,porcupine,Botswana,-23.1681782,24.5928742
+212,Apparition of Splendor,6,porcupine,Botswana,-23.1681782,24.5928742
+213,Apparition of Splendor,16,porcupine,Botswana,-23.1681782,24.5928742
+214,The Monkey Puzzler,0,monkey,Brazil,-10.3333333,-53.2
+215,The Monkey Puzzler,1,monkey,Brazil,-10.3333333,-53.2
+216,The Monkey Puzzler,2,monkey,Brazil,-10.3333333,-53.2
+217,Dock Rats,18,monkey,Brazil,-10.3333333,-53.2
+218,The Jerboa,55,monkey,Brazil,-10.3333333,-53.2
+219,The Plumet Basilisk,103,monkey,Brazil,-10.3333333,-53.2
+220,Nine Nectarines and Other Porcelain,66,monkey,Brazil,-10.3333333,-53.2
+221,Tom Fool at Jamaica,40,monkey,Brazil,-10.3333333,-53.2
+222,The Plumet Basilisk,152,jaguar,Brazil,-10.3333333,-53.2
+223,The Frigate Pelican,65,jaguar,Brazil,-10.3333333,-53.2
+224,Marriage,78,waterfall,Cambodia,12.5433216,104.8144914
+225,An Octopus,61,waterfall,Cambodia,12.5433216,104.8144914
+226,An Octopus,238,waterfall,Cambodia,12.5433216,104.8144914
+227,In the Public Garden,35,waterfall,Cambodia,12.5433216,104.8144914
+228,In Lieu of the Lyre,20,waterfall,Cambodia,12.5433216,104.8144914
+229,In Lieu of the Lyre,23,waterfall,Cambodia,12.5433216,104.8144914
+230,Poetry,14,bat,Canada,61.0666922,-107.991707
+231,Like a Bulrush,11,bat,Canada,61.0666922,-107.991707
+232,People’s Surroundings,35,bat,Canada,61.0666922,-107.991707
+233,"Part of a Novel, Part of a Poem, Part of a Play",131,bat,Canada,61.0666922,-107.991707
+234,The Plumet Basilisk,56,bat,Canada,61.0666922,-107.991707
+235,The Plumet Basilisk,103,bat,Canada,61.0666922,-107.991707
+236,The Plumet Basilisk,152,bat,Canada,61.0666922,-107.991707
+237,The Frigate Pelican,60,bat,Canada,61.0666922,-107.991707
+238,Nine Nectarines and Other Porcelain,41,bat,Canada,61.0666922,-107.991707
+239,Then the Ermine:,3,bat,Canada,61.0666922,-107.991707
+240,Hometown Piece for Messrs. Alston and Reese,19,bat,Canada,61.0666922,-107.991707
+241,Hometown Piece for Messrs. Alston and Reese,50,bat,Canada,61.0666922,-107.991707
+242,Baseball and Writing,19,bat,Canada,61.0666922,-107.991707
+243,Baseball and Writing,22,bat,Canada,61.0666922,-107.991707
+244,Baseball and Writing,44,bat,Canada,61.0666922,-107.991707
+245,Baseball and Writing,66,bat,Canada,61.0666922,-107.991707
+246,Old Amusement Park,5,bat,Canada,61.0666922,-107.991707
+247,Old Tiger,11,bat,Canada,61.0666922,-107.991707
+248,Dock Rats,14,apple,Canada,61.0666922,-107.991707
+249,Marriage,117,apple,Canada,61.0666922,-107.991707
+250,Marriage,148,apple,Canada,61.0666922,-107.991707
+251,"Part of a Novel, Part of a Poem, Part of a Play",92,apple,Canada,61.0666922,-107.991707
+252,Nevertheless,6,apple,Canada,61.0666922,-107.991707
+253,Quoting An Also Private Thought,3,apple,Canada,61.0666922,-107.991707
+254,A Grave,7,fir,Canada,61.0666922,-107.991707
+255,People’s Surroundings,19,fir,Canada,61.0666922,-107.991707
+256,An Octopus,15,fir,Canada,61.0666922,-107.991707
+257,An Octopus,41,fir,Canada,61.0666922,-107.991707
+258,The Jerboa,5,fir,Canada,61.0666922,-107.991707
+259,Propriety,18,fir,Canada,61.0666922,-107.991707
+260,By Disposition of Angels,9,fir,Canada,61.0666922,-107.991707
+261,A Grave,28,lighthouse,Canada,61.0666922,-107.991707
+262,"Part of a Novel, Part of a Poem, Part of a Play",11,lighthouse,Canada,61.0666922,-107.991707
+263,Light is Speech,8,lighthouse,Canada,61.0666922,-107.991707
+264,Light is Speech,10,lighthouse,Canada,61.0666922,-107.991707
+265,People’s Surroundings,72,fiddler,Canada,61.0666922,-107.991707
+266,An Octopus,87,chipmunk,Canada,61.0666922,-107.991707
+267,The Jerboa,128,chipmunk,Canada,61.0666922,-107.991707
+268,The Wood-Weasel,2,chipmunk,Canada,61.0666922,-107.991707
+269,Tom Fool at Jamaica,6,jockey,Canada,61.0666922,-107.991707
+270,The Jerboa,0,jerboa,China,35.000074,104.999927
+271,The Jerboa,84,jerboa,China,35.000074,104.999927
+272,The Jerboa,141,jerboa,China,35.000074,104.999927
+273,Fear is Hope,9,sun,China,35.000074,104.999927
+274,Fear is Hope,11,sun,China,35.000074,104.999927
+275,Fear is Hope,19,sun,China,35.000074,104.999927
+276,An Egyptian Pulled Glass Bottle in the Shape of a Fish,8,sun,China,35.000074,104.999927
+277,The Fish,13,sun,China,35.000074,104.999927
+278,Black Earth,5,sun,China,35.000074,104.999927
+279,Radical,11,sun,China,35.000074,104.999927
+280,Peter,12,sun,China,35.000074,104.999927
+281,An Octopus,71,sun,China,35.000074,104.999927
+282,Nine Nectarines and Other Porcelain,13,sun,China,35.000074,104.999927
+283,See in the Midst of Fair Leaves,6,sun,China,35.000074,104.999927
+284,Walking-Sticks and Paperweights and Watermarks,5,sun,China,35.000074,104.999927
+285,The Old Dominion,56,sun,China,35.000074,104.999927
+286,The Old Dominion,251,sun,China,35.000074,104.999927
+287,The Pangolin,38,sun,China,35.000074,104.999927
+288,The Pangolin,93,sun,China,35.000074,104.999927
+289,The Pangolin,131,sun,China,35.000074,104.999927
+290,Elephants,13,sun,China,35.000074,104.999927
+291,A Carriage from Sweden,37,sun,China,35.000074,104.999927
+292,The Mind is an Enchanting Thing,4,sun,China,35.000074,104.999927
+293,The Mind is an Enchanting Thing,22,sun,China,35.000074,104.999927
+294,“Keeping Their World Large”,46,sun,China,35.000074,104.999927
+295,Efforts of Affection,17,sun,China,35.000074,104.999927
+296,Enough,32,sun,China,35.000074,104.999927
+297,"Saint Nicholas,",7,sun,China,35.000074,104.999927
+298,Leonardo da Vinci’s,38,sun,China,35.000074,104.999927
+299,"Tell Me, Tell Me",22,sun,China,35.000074,104.999927
+300,Blake,6,sun,China,35.000074,104.999927
+301,Is Your Town Nineveh?,8,east,China,35.000074,104.999927
+302,Critics and Connoisseurs,23,east,China,35.000074,104.999927
+303,Dock Rats,13,east,China,35.000074,104.999927
+304,UK,12,east,China,35.000074,104.999927
+305,The Plumet Basilisk,38,east,China,35.000074,104.999927
+306,The Plumet Basilisk,56,east,China,35.000074,104.999927
+307,A Carriage from Sweden,37,east,China,35.000074,104.999927
+308,To Military Progress,0,military,China,35.000074,104.999927
+309,"Part of a Novel, Part of a Poem, Part of a Play",106,military,China,35.000074,104.999927
+310,The Plumet Basilisk,102,military,China,35.000074,104.999927
+311,The Monkey Puzzler,5,bamboo,China,35.000074,104.999927
+312,Style,14,bamboo,China,35.000074,104.999927
+313,The Labors of Hercules,36,oriental,China,35.000074,104.999927
+314,"Part of a Novel, Part of a Poem, Part of a Play",93,oriental,China,35.000074,104.999927
+315,People’s Surroundings,43,vermilion,China,35.000074,104.999927
+316,An Octopus,20,vermilion,China,35.000074,104.999927
+317,People’s Surroundings,53,orchid,China,35.000074,104.999927
+318,An Octopus,156,orchid,China,35.000074,104.999927
+319,The Plumet Basilisk,38,orchid,China,35.000074,104.999927
+320,The Plumet Basilisk,52,orchid,China,35.000074,104.999927
+321,The Plumet Basilisk,85,orchid,China,35.000074,104.999927
+322,The Frigate Pelican,63,orchid,China,35.000074,104.999927
+323,People’s Surroundings,75,duke,China,35.000074,104.999927
+324,Hometown Piece for Messrs. Alston and Reese,19,duke,China,35.000074,104.999927
+325,Marriage,141,fern,China,35.000074,104.999927
+326,An Octopus,125,fern,China,35.000074,104.999927
+327,"Part of a Novel, Part of a Poem, Part of a Play",36,fern,China,35.000074,104.999927
+328,The Jerboa,151,fern,China,35.000074,104.999927
+329,The Plumet Basilisk,83,fern,China,35.000074,104.999927
+330,Spenser’s Ireland,17,fern,China,35.000074,104.999927
+331,Spenser’s Ireland,19,fern,China,35.000074,104.999927
+332,Efforts of Affection,13,fern,China,35.000074,104.999927
+333,Apparition of Splendor,6,fern,China,35.000074,104.999927
+334,An Octopus,20,manganese,China,35.000074,104.999927
+335,An Octopus,53,gem,China,35.000074,104.999927
+336,An Octopus,71,acetylene,China,35.000074,104.999927
+337,Camellia Sabina,1,plum,China,35.000074,104.999927
+338,Nine Nectarines and Other Porcelain,20,plum,China,35.000074,104.999927
+339,The Old Dominion,110,plum,China,35.000074,104.999927
+340,Camellia Sabina,12,cucumber,China,35.000074,104.999927
+341,In the Public Garden,13,gilded,China,35.000074,104.999927
+342,Nine Nectarines and Other Porcelain,0,porcelain,China,35.000074,104.999927
+343,Nine Nectarines and Other Porcelain,83,porcelain,China,35.000074,104.999927
+344,Nine Nectarines and Other Porcelain,0,nectarine,China,35.000074,104.999927
+345,Nine Nectarines and Other Porcelain,8,nectarine,China,35.000074,104.999927
+346,Nine Nectarines and Other Porcelain,21,nectarine,China,35.000074,104.999927
+347,Nine Nectarines and Other Porcelain,34,nectarine,China,35.000074,104.999927
+348,Nine Nectarines and Other Porcelain,78,nectarine,China,35.000074,104.999927
+349,The Old Dominion,118,republic,China,35.000074,104.999927
+350,The Pangolin,88,manis,China,35.000074,104.999927
+351,Enough,13,communism,China,35.000074,104.999927
+352,For February 14th,11,armillary,China,35.000074,104.999927
+353,An Octopus,129,cavalcade,Colombia,4.099917,-72.9088133
+354,An Octopus,131,cavalcade,Colombia,4.099917,-72.9088133
+355,The Old Dominion,75,cavalcade,Colombia,4.099917,-72.9088133
+356,People’s Surroundings,20,velvet,Congo,-2.9814344,16.1837
+357,The Old Dominion,70,velvet,Congo,-2.9814344,16.1837
+358,Pretiolae,3,velvet,Congo,-2.9814344,16.1837
+359,"Saint Nicholas,",31,velvet,Congo,-2.9814344,16.1837
+360,Tippoo’s Tiger,9,velvet,Congo,-2.9814344,16.1837
+361,The Old Dominion,101,pigmy,Congo,-2.9814344,16.1837
+362,Rescue with Yul Brynner,10,pigmy,Congo,-2.9814344,16.1837
+363,Appellate Jurisdiction,5,castaway,Cook Islands,-19.9196729,-157.9753369
+364,"A Fool, a Foul Thing, a Distressful Lunatic",6,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+365,People’s Surroundings,21,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+366,Bowls,2,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+367,Marriage,69,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+368,Marriage,248,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+369,The Jerboa,94,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+370,The Buffalo,44,ivory,Côte d'Ivoire,7.9897371,-5.5679458
+371,The Labors of Hercules,30,goose,Denmark,55.670249,10.3333283
+372,The Jerboa,29,goose,Denmark,55.670249,10.3333283
+373,The Jerboa,45,goose,Denmark,55.670249,10.3333283
+374,Critics and Connoisseurs,10,willow,Ecuador,-1.3397668,-79.3666965
+375,"Part of a Novel, Part of a Poem, Part of a Play",195,willow,Ecuador,-1.3397668,-79.3666965
+376,Nine Nectarines and Other Porcelain,38,willow,Ecuador,-1.3397668,-79.3666965
+377,The Old Dominion,175,willow,Ecuador,-1.3397668,-79.3666965
+378,The Old Dominion,194,willow,Ecuador,-1.3397668,-79.3666965
+379,The Arctic Ox (or Goat),60,willow,Ecuador,-1.3397668,-79.3666965
+380,A Talisman,8,scarab,Egypt,26.2540493,29.2675469
+381,"A Fool, a Foul Thing, a Distressful Lunatic",5,egyptian,Egypt,26.2540493,29.2675469
+382,An Egyptian Pulled Glass Bottle in the Shape of a Fish,0,egyptian,Egypt,26.2540493,29.2675469
+383,To Statecraft Embalmed,5,egyptian,Egypt,26.2540493,29.2675469
+384,UK,38,egyptian,Egypt,26.2540493,29.2675469
+385,The Old Dominion,131,egyptian,Egypt,26.2540493,29.2675469
+386,The Icosasphere,19,egyptian,Egypt,26.2540493,29.2675469
+387,To Military Progress,11,god,Egypt,26.2540493,29.2675469
+388,"In this Age of Hard Trying, Nonchalance is Good and",2,god,Egypt,26.2540493,29.2675469
+389,The Plumet Basilisk,54,god,Egypt,26.2540493,29.2675469
+390,The Pangolin,91,god,Egypt,26.2540493,29.2675469
+391,Four Quartz Crystal Clocks,42,god,Egypt,26.2540493,29.2675469
+392,Melchior Vulpius,7,god,Egypt,26.2540493,29.2675469
+393,W. S. Landor,8,god,Egypt,26.2540493,29.2675469
+394,Tippoo’s Tiger,16,god,Egypt,26.2540493,29.2675469
+395,To the Soul of “Progress”,11,god,Egypt,26.2540493,29.2675469
+396,Appellate Jurisdiction,5,god,Egypt,26.2540493,29.2675469
+397,"Feed Me, Also, River God",0,god,Egypt,26.2540493,29.2675469
+398,"Feed Me, Also, River God",13,god,Egypt,26.2540493,29.2675469
+399,To Statecraft Embalmed,11,sarcophagus,Egypt,26.2540493,29.2675469
+400,When I Buy Pictures,15,hieroglyphic,Egypt,26.2540493,29.2675469
+401,People’s Surroundings,50,onyx,Egypt,26.2540493,29.2675469
+402,An Octopus,20,onyx,Egypt,26.2540493,29.2675469
+403,An Octopus,135,onyx,Egypt,26.2540493,29.2675469
+404,Marriage,57,snakeskin,Egypt,26.2540493,29.2675469
+405,Marriage,96,heaven,Egypt,26.2540493,29.2675469
+406,O to Be a Dragon,4,heaven,Egypt,26.2540493,29.2675469
+407,An Octopus,10,python,Egypt,26.2540493,29.2675469
+408,The Frigate Pelican,89,python,Egypt,26.2540493,29.2675469
+409,An Octopus,35,pea,Egypt,26.2540493,29.2675469
+410,An Octopus,136,pea,Egypt,26.2540493,29.2675469
+411,"Part of a Novel, Part of a Poem, Part of a Play",37,pea,Egypt,26.2540493,29.2675469
+412,The Jerboa,17,crocodile,Egypt,26.2540493,29.2675469
+413,The Frigate Pelican,66,crocodile,Egypt,26.2540493,29.2675469
+414,"Feed Me, Also, River God",2,crocodile,Egypt,26.2540493,29.2675469
+415,The Jerboa,22,ibex,Egypt,26.2540493,29.2675469
+416,Spenser’s Ireland,35,fury,Egypt,26.2540493,29.2675469
+417,The Camperdown Elm,21,crowning,Egypt,26.2540493,29.2675469
+418,Critics and Connoisseurs,9,meat,Estonia,58.7523778,25.3319078
+419,New York,21,meat,Estonia,58.7523778,25.3319078
+420,"Part of a Novel, Part of a Poem, Part of a Play",198,meat,Estonia,58.7523778,25.3319078
+421,The Old Dominion,108,meat,Estonia,58.7523778,25.3319078
+422,Old Tiger,17,meat,Estonia,58.7523778,25.3319078
+423,An Octopus,47,swamp,Finland,63.2467777,25.9209164
+424,The Plumet Basilisk,134,swamp,Finland,63.2467777,25.9209164
+425,The Frigate Pelican,85,swamp,Finland,63.2467777,25.9209164
+426,The Old Dominion,130,swamp,Finland,63.2467777,25.9209164
+427,Picking And Choosing,20,alp,France,46.603354,1.8883335
+428,"Snakes, Mongooses, Snake-Charmers, and the Like",19,alp,France,46.603354,1.8883335
+429,A Talisman,0,talisman,France,46.603354,1.8883335
+430,A Talisman,1,mast,France,46.603354,1.8883335
+431,Bulwarked against Fate,10,mast,France,46.603354,1.8883335
+432,"A Fool, a Foul Thing, a Distressful Lunatic",7,nature,France,46.603354,1.8883335
+433,Peter,27,nature,France,46.603354,1.8883335
+434,A Grave,4,nature,France,46.603354,1.8883335
+435,An Octopus,218,nature,France,46.603354,1.8883335
+436,Sea Unicorns and Land Unicorns,23,nature,France,46.603354,1.8883335
+437,Camellia Sabina,32,nature,France,46.603354,1.8883335
+438,An Expedient—Leonardo da Vinci’s—and a Query,21,nature,France,46.603354,1.8883335
+439,George Moore,4,french,France,46.603354,1.8883335
+440,Picking And Choosing,15,french,France,46.603354,1.8883335
+441,Those Various Scalpels,11,french,France,46.603354,1.8883335
+442,Marriage,27,french,France,46.603354,1.8883335
+443,"Part of a Novel, Part of a Poem, Part of a Play",82,french,France,46.603354,1.8883335
+444,"Part of a Novel, Part of a Poem, Part of a Play",83,french,France,46.603354,1.8883335
+445,Camellia Sabina,11,french,France,46.603354,1.8883335
+446,The Old Dominion,109,french,France,46.603354,1.8883335
+447,Light is Speech,4,french,France,46.603354,1.8883335
+448,Enough,35,french,France,46.603354,1.8883335
+449,No better than “a withered daffodil”,4,french,France,46.603354,1.8883335
+450,Granite and Steel,28,french,France,46.603354,1.8883335
+451,In Lieu of the Lyre,10,french,France,46.603354,1.8883335
+452,Charity Overcoming Envy,1,french,France,46.603354,1.8883335
+453,To the Peacock of France,9,molière,France,46.603354,1.8883335
+454,Black Earth,30,spear,France,46.603354,1.8883335
+455,Marriage,85,spear,France,46.603354,1.8883335
+456,He “Digesteth Harde Yron”,64,spear,France,46.603354,1.8883335
+457,Apparition of Splendor,19,spear,France,46.603354,1.8883335
+458,New York,10,queen,France,46.603354,1.8883335
+459,People’s Surroundings,74,queen,France,46.603354,1.8883335
+460,Sea Unicorns and Land Unicorns,12,queen,France,46.603354,1.8883335
+461,The Jerboa,71,queen,France,46.603354,1.8883335
+462,The Jerboa,73,queen,France,46.603354,1.8883335
+463,Rigorists,14,queen,France,46.603354,1.8883335
+464,New York,12,perfume,France,46.603354,1.8883335
+465,Efforts of Affection,14,perfume,France,46.603354,1.8883335
+466,People’s Surroundings,6,fashionable,France,46.603354,1.8883335
+467,We Call Them the Brave,5,fashionable,France,46.603354,1.8883335
+468,Marriage,142,lotus,France,46.603354,1.8883335
+469,Camellia Sabina,62,depuis,France,46.603354,1.8883335
+470,Camellia Sabina,63,abbé,France,46.603354,1.8883335
+471,The Plumet Basilisk,74,bourse,France,46.603354,1.8883335
+472,Nine Nectarines and Other Porcelain,60,bosquet,France,46.603354,1.8883335
+473,The Old Dominion,110,longue,France,46.603354,1.8883335
+474,The Old Dominion,110,chaise,France,46.603354,1.8883335
+475,Light is Speech,20,ardent,France,46.603354,1.8883335
+476,Enough,52,ardent,France,46.603354,1.8883335
+477,He “Digesteth Harde Yron”,80,gargantuan,France,46.603354,1.8883335
+478,The Wood-Weasel,3,regalia,France,46.603354,1.8883335
+479,Efforts of Affection,6,fontaine,France,46.603354,1.8883335
+480,Tom Fool at Jamaica,9,avec,France,46.603354,1.8883335
+481,In Lieu of the Lyre,4,avec,France,46.603354,1.8883335
+482,Blessed is the Man,11,citadel,France,46.603354,1.8883335
+483,Camellia Sabina,61,bibliothèque,France,46.603354,1.8883335
+484,Reticence and Volubility,16,merlin,Germany,51.1638175,10.4478313
+485,The Past is the Present,8,hebrew,Germany,51.1638175,10.4478313
+486,UK,40,hebrew,Germany,51.1638175,10.4478313
+487,Novices,44,hebrew,Germany,51.1638175,10.4478313
+488,Novices,52,hebrew,Germany,51.1638175,10.4478313
+489,The Labors of Hercules,37,german,Germany,51.1638175,10.4478313
+490,Marriage,27,german,Germany,51.1638175,10.4478313
+491,The Frigate Pelican,43,german,Germany,51.1638175,10.4478313
+492,Granite and Steel,7,german,Germany,51.1638175,10.4478313
+493,Granite and Steel,30,german,Germany,51.1638175,10.4478313
+494,People’s Surroundings,38,tower,Germany,51.1638175,10.4478313
+495,The Plumet Basilisk,136,tower,Germany,51.1638175,10.4478313
+496,The Old Dominion,14,tower,Germany,51.1638175,10.4478313
+497,Blessed is the Man,33,tower,Germany,51.1638175,10.4478313
+498,Enough,50,tower,Germany,51.1638175,10.4478313
+499,Granite and Steel,8,tower,Germany,51.1638175,10.4478313
+500,In Lieu of the Lyre,2,tower,Germany,51.1638175,10.4478313
+501,People’s Surroundings,70,captain,Germany,51.1638175,10.4478313
+502,The Old Dominion,29,captain,Germany,51.1638175,10.4478313
+503,Enough,16,captain,Germany,51.1638175,10.4478313
+504,Enough,20,captain,Germany,51.1638175,10.4478313
+505,People’s Surroundings,74,countess,Germany,51.1638175,10.4478313
+506,"Part of a Novel, Part of a Poem, Part of a Play",3,dürer,Germany,51.1638175,10.4478313
+507,"Part of a Novel, Part of a Poem, Part of a Play",16,dürer,Germany,51.1638175,10.4478313
+508,Apparition of Splendor,3,dürer,Germany,51.1638175,10.4478313
+509,Then the Ermine:,30,dürer,Germany,51.1638175,10.4478313
+510,"Part of a Novel, Part of a Poem, Part of a Play",102,einstein,Germany,51.1638175,10.4478313
+511,"Part of a Novel, Part of a Poem, Part of a Play",103,einstein,Germany,51.1638175,10.4478313
+512,Walking-Sticks and Paperweights and Watermarks,116,javelin,Germany,51.1638175,10.4478313
+513,His Shield,25,javelin,Germany,51.1638175,10.4478313
+514,The Old Dominion,130,tablet,Germany,51.1638175,10.4478313
+515,The Old Dominion,201,accordion,Germany,51.1638175,10.4478313
+516,The Old Dominion,244,elm,Germany,51.1638175,10.4478313
+517,The Camperdown Elm,0,elm,Germany,51.1638175,10.4478313
+518,The Camperdown Elm,3,elm,Germany,51.1638175,10.4478313
+519,The Camperdown Elm,9,elm,Germany,51.1638175,10.4478313
+520,The Camperdown Elm,13,elm,Germany,51.1638175,10.4478313
+521,Armor’s Undermining Modesty,27,grail,Germany,51.1638175,10.4478313
+522,Dream,16,cantata,Germany,51.1638175,10.4478313
+523,Fear is Hope,14,moorish,Greece,38.9953683,21.9877132
+524,Reinforcements,5,greek,Greece,38.9953683,21.9877132
+525,UK,23,greek,Greece,38.9953683,21.9877132
+526,"Snakes, Mongooses, Snake-Charmers, and the Like",17,greek,Greece,38.9953683,21.9877132
+527,An Octopus,164,greek,Greece,38.9953683,21.9877132
+528,An Octopus,183,greek,Greece,38.9953683,21.9877132
+529,Pigeons,1,greek,Greece,38.9953683,21.9877132
+530,He “Digesteth Harde Yron”,55,greek,Greece,38.9953683,21.9877132
+531,Four Quartz Crystal Clocks,22,greek,Greece,38.9953683,21.9877132
+532,I’ve been Thinking . . .,43,greek,Greece,38.9953683,21.9877132
+533,Marriage,105,nightingale,Greece,38.9953683,21.9877132
+534,Marriage,116,nightingale,Greece,38.9953683,21.9877132
+535,The Plumet Basilisk,134,nightingale,Greece,38.9953683,21.9877132
+536,The Old Dominion,321,nightingale,Greece,38.9953683,21.9877132
+537,An Octopus,135,verdure,Greece,38.9953683,21.9877132
+538,The Plumet Basilisk,22,verdure,Greece,38.9953683,21.9877132
+539,An Expedient—Leonardo da Vinci’s—and a Query,15,verdure,Greece,38.9953683,21.9877132
+540,An Octopus,136,larkspur,Greece,38.9953683,21.9877132
+541,An Octopus,148,aster,Greece,38.9953683,21.9877132
+542,"Part of a Novel, Part of a Poem, Part of a Play",33,aster,Greece,38.9953683,21.9877132
+543,Camellia Sabina,13,gloria,Greece,38.9953683,21.9877132
+544,The Plumet Basilisk,0,basilisk,Greece,38.9953683,21.9877132
+545,The Plumet Basilisk,23,basilisk,Greece,38.9953683,21.9877132
+546,The Plumet Basilisk,82,basilisk,Greece,38.9953683,21.9877132
+547,The Plumet Basilisk,99,basilisk,Greece,38.9953683,21.9877132
+548,The Plumet Basilisk,156,basilisk,Greece,38.9953683,21.9877132
+549,Walking-Sticks and Paperweights and Watermarks,84,titan,Greece,38.9953683,21.9877132
+550,The Old Dominion,266,nymph,Greece,38.9953683,21.9877132
+551,The Paper Nautilus,26,chiton,Greece,38.9953683,21.9877132
+552,The Paper Nautilus,28,parthenon,Greece,38.9953683,21.9877132
+553,Armor’s Undermining Modesty,20,diatribe,Greece,38.9953683,21.9877132
+554,Armor’s Undermining Modesty,22,ale,Greece,38.9953683,21.9877132
+555,Tom Fool at Jamaica,28,centaur,Greece,38.9953683,21.9877132
+556,Hometown Piece for Messrs. Alston and Reese,44,homer,Greece,38.9953683,21.9877132
+557,To a Giraffe,17,homer,Greece,38.9953683,21.9877132
+558,That Harp You Play So Well,5,homer,Greece,38.9953683,21.9877132
+559,"The mind, intractable thing",20,zeus,Greece,38.9953683,21.9877132
+560,Dream,8,northwestern,Greece,38.9953683,21.9877132
+561,I’ve been Thinking . . .,21,atlas,Greece,38.9953683,21.9877132
+562,Enough,8,mason,Greece,38.9953683,21.9877132
+563,An Octopus,92,ptarmigan,Greenland,77.6192349,-42.8125967
+564,An Octopus,117,pony,Greenland,77.6192349,-42.8125967
+565,Nine Nectarines and Other Porcelain,79,pony,Greenland,77.6192349,-42.8125967
+566,Pigeons,86,pony,Greenland,77.6192349,-42.8125967
+567,Blue Bug,1,pony,Greenland,77.6192349,-42.8125967
+568,Blue Bug,6,pony,Greenland,77.6192349,-42.8125967
+569,Old Amusement Park,15,pony,Greenland,77.6192349,-42.8125967
+570,Old Amusement Park,20,pony,Greenland,77.6192349,-42.8125967
+571,Old Amusement Park,21,pony,Greenland,77.6192349,-42.8125967
+572,Baseball and Writing,86,orion,Greenland,77.6192349,-42.8125967
+573,Nine Nectarines and Other Porcelain,82,antelope,India,22.3511148,78.6677428
+574,Tippoo’s Tiger,10,antelope,India,22.3511148,78.6677428
+575,Diligence is to Magic as Progress is to Flight,1,elephant,India,22.3511148,78.6677428
+576,Diligence is to Magic as Progress is to Flight,5,elephant,India,22.3511148,78.6677428
+577,Poetry,16,elephant,India,22.3511148,78.6677428
+578,My Apish Cousins,2,elephant,India,22.3511148,78.6677428
+579,Black Earth,18,elephant,India,22.3511148,78.6677428
+580,Black Earth,54,elephant,India,22.3511148,78.6677428
+581,"Part of a Novel, Part of a Poem, Part of a Play",131,elephant,India,22.3511148,78.6677428
+582,The Buffalo,24,elephant,India,22.3511148,78.6677428
+583,The Old Dominion,334,elephant,India,22.3511148,78.6677428
+584,The Pangolin,60,elephant,India,22.3511148,78.6677428
+585,Elephants,0,elephant,India,22.3511148,78.6677428
+586,Elephants,18,elephant,India,22.3511148,78.6677428
+587,Elephants,26,elephant,India,22.3511148,78.6677428
+588,Elephants,34,elephant,India,22.3511148,78.6677428
+589,Elephants,42,elephant,India,22.3511148,78.6677428
+590,Elephants,47,elephant,India,22.3511148,78.6677428
+591,Elephants,70,elephant,India,22.3511148,78.6677428
+592,Voracities and Verities Sometimes are Interacting,7,elephant,India,22.3511148,78.6677428
+593,Efforts of Affection,15,elephant,India,22.3511148,78.6677428
+594,Rescue with Yul Brynner,31,elephant,India,22.3511148,78.6677428
+595,Old Amusement Park,11,elephant,India,22.3511148,78.6677428
+596,Charity Overcoming Envy,6,elephant,India,22.3511148,78.6677428
+597,Charity Overcoming Envy,17,elephant,India,22.3511148,78.6677428
+598,Charity Overcoming Envy,26,elephant,India,22.3511148,78.6677428
+599,To the Peacock of France,0,peacock,India,22.3511148,78.6677428
+600,To the Peacock of France,12,peacock,India,22.3511148,78.6677428
+601,People’s Surroundings,20,peacock,India,22.3511148,78.6677428
+602,"Part of a Novel, Part of a Poem, Part of a Play",15,peacock,India,22.3511148,78.6677428
+603,"Part of a Novel, Part of a Poem, Part of a Play",17,peacock,India,22.3511148,78.6677428
+604,The Jerboa,10,peacock,India,22.3511148,78.6677428
+605,The Frigate Pelican,67,peacock,India,22.3511148,78.6677428
+606,Nine Nectarines and Other Porcelain,61,peacock,India,22.3511148,78.6677428
+607,Spenser’s Ireland,48,peacock,India,22.3511148,78.6677428
+608,Arthur Mitchell,9,peacock,India,22.3511148,78.6677428
+609,The Monkey Puzzler,1,lemur,India,22.3511148,78.6677428
+610,Four Quartz Crystal Clocks,27,lemur,India,22.3511148,78.6677428
+611,The Monkey Puzzler,5,tiger,India,22.3511148,78.6677428
+612,The Monkey Puzzler,10,tiger,India,22.3511148,78.6677428
+613,"Part of a Novel, Part of a Poem, Part of a Play",37,tiger,India,22.3511148,78.6677428
+614,"Part of a Novel, Part of a Poem, Part of a Play",122,tiger,India,22.3511148,78.6677428
+615,The Buffalo,45,tiger,India,22.3511148,78.6677428
+616,The Old Dominion,236,tiger,India,22.3511148,78.6677428
+617,The Old Dominion,296,tiger,India,22.3511148,78.6677428
+618,Elephants,69,tiger,India,22.3511148,78.6677428
+619,Voracities and Verities Sometimes are Interacting,8,tiger,India,22.3511148,78.6677428
+620,Tom Fool at Jamaica,38,tiger,India,22.3511148,78.6677428
+621,"Saint Nicholas,",5,tiger,India,22.3511148,78.6677428
+622,Baseball and Writing,73,tiger,India,22.3511148,78.6677428
+623,Tippoo’s Tiger,0,tiger,India,22.3511148,78.6677428
+624,Tippoo’s Tiger,1,tiger,India,22.3511148,78.6677428
+625,Tippoo’s Tiger,2,tiger,India,22.3511148,78.6677428
+626,Tippoo’s Tiger,15,tiger,India,22.3511148,78.6677428
+627,Tippoo’s Tiger,19,tiger,India,22.3511148,78.6677428
+628,Tippoo’s Tiger,21,tiger,India,22.3511148,78.6677428
+629,Tippoo’s Tiger,22,tiger,India,22.3511148,78.6677428
+630,Old Tiger,0,tiger,India,22.3511148,78.6677428
+631,People’s Surroundings,48,hibiscus,India,22.3511148,78.6677428
+632,The Old Dominion,89,hibiscus,India,22.3511148,78.6677428
+633,People’s Surroundings,83,hall,India,22.3511148,78.6677428
+634,In the Public Garden,11,hall,India,22.3511148,78.6677428
+635,Carnegie Hall: Rescued,0,hall,India,22.3511148,78.6677428
+636,Carnegie Hall: Rescued,8,hall,India,22.3511148,78.6677428
+637,Carnegie Hall: Rescued,25,hall,India,22.3511148,78.6677428
+638,Marriage,56,serpent,India,22.3511148,78.6677428
+639,"Part of a Novel, Part of a Poem, Part of a Play",40,serpent,India,22.3511148,78.6677428
+640,The Jerboa,19,serpent,India,22.3511148,78.6677428
+641,The Jerboa,28,serpent,India,22.3511148,78.6677428
+642,The Jerboa,77,serpent,India,22.3511148,78.6677428
+643,Camellia Sabina,55,serpent,India,22.3511148,78.6677428
+644,The Plumet Basilisk,55,serpent,India,22.3511148,78.6677428
+645,The Plumet Basilisk,132,serpent,India,22.3511148,78.6677428
+646,Nine Nectarines and Other Porcelain,70,serpent,India,22.3511148,78.6677428
+647,An Octopus,37,lake,India,22.3511148,78.6677428
+648,The Plumet Basilisk,12,lake,India,22.3511148,78.6677428
+649,The Plumet Basilisk,14,lake,India,22.3511148,78.6677428
+650,The Buffalo,33,lake,India,22.3511148,78.6677428
+651,See in the Midst of Fair Leaves,4,lake,India,22.3511148,78.6677428
+652,He “Digesteth Harde Yron”,42,lake,India,22.3511148,78.6677428
+653,Style,15,lake,India,22.3511148,78.6677428
+654,An Octopus,127,indian,India,22.3511148,78.6677428
+655,The Buffalo,32,indian,India,22.3511148,78.6677428
+656,The Buffalo,49,indian,India,22.3511148,78.6677428
+657,Pigeons,86,indian,India,22.3511148,78.6677428
+658,The Old Dominion,34,indian,India,22.3511148,78.6677428
+659,The Old Dominion,44,indian,India,22.3511148,78.6677428
+660,The Old Dominion,107,indian,India,22.3511148,78.6677428
+661,An Octopus,206,date,India,22.3511148,78.6677428
+662,The Jerboa,31,date,India,22.3511148,78.6677428
+663,Sea Unicorns and Land Unicorns,30,garland,India,22.3511148,78.6677428
+664,Rosemary,5,garland,India,22.3511148,78.6677428
+665,"Part of a Novel, Part of a Poem, Part of a Play",39,banyan,India,22.3511148,78.6677428
+666,Pigeons,4,banyan,India,22.3511148,78.6677428
+667,The Jerboa,57,jasmine,India,22.3511148,78.6677428
+668,The Plumet Basilisk,26,fairy,India,22.3511148,78.6677428
+669,The Frigate Pelican,24,fairy,India,22.3511148,78.6677428
+670,Spenser’s Ireland,35,fairy,India,22.3511148,78.6677428
+671,Apparition of Splendor,17,fairy,India,22.3511148,78.6677428
+672,Apparition of Splendor,25,fairy,India,22.3511148,78.6677428
+673,In the Public Garden,20,fairy,India,22.3511148,78.6677428
+674,Rescue with Yul Brynner,48,fairy,India,22.3511148,78.6677428
+675,The Plumet Basilisk,53,myristica,India,22.3511148,78.6677428
+676,The Buffalo,7,curry,India,22.3511148,78.6677428
+677,The Buffalo,35,buddha,India,22.3511148,78.6677428
+678,Elephants,32,buddha,India,22.3511148,78.6677428
+679,Elephants,60,buddha,India,22.3511148,78.6677428
+680,The Old Dominion,65,settee,India,22.3511148,78.6677428
+681,Then the Ermine:,20,settee,India,22.3511148,78.6677428
+682,The Old Dominion,89,mimosa,India,22.3511148,78.6677428
+683,The Old Dominion,248,mimosa,India,22.3511148,78.6677428
+684,For February 14th,10,mimosa,India,22.3511148,78.6677428
+685,The Old Dominion,300,india,India,22.3511148,78.6677428
+686,The Old Dominion,319,sanskrit,India,22.3511148,78.6677428
+687,Elephants,17,mahout,India,22.3511148,78.6677428
+688,The Arctic Ox (or Goat),28,cashmere,India,22.3511148,78.6677428
+689,Baseball and Writing,39,yogi,India,22.3511148,78.6677428
+690,Nevertheless,10,kok,Indonesia,-2.4833826,117.8902853
+691,People’s Surroundings,20,persian,Iran,32.6475314,54.5643516
+692,Marriage,68,persian,Iran,32.6475314,54.5643516
+693,An Octopus,141,persian,Iran,32.6475314,54.5643516
+694,Camellia Sabina,46,persian,Iran,32.6475314,54.5643516
+695,Nine Nectarines and Other Porcelain,20,persian,Iran,32.6475314,54.5643516
+696,The Old Dominion,124,persian,Iran,32.6475314,54.5643516
+697,Armor’s Undermining Modesty,8,persian,Iran,32.6475314,54.5643516
+698,The Sycamore,18,persian,Iran,32.6475314,54.5643516
+699,Diogenes,9,persian,Iran,32.6475314,54.5643516
+700,Diogenes,10,persian,Iran,32.6475314,54.5643516
+701,The Pangolin,107,griffon,Iran,32.6475314,54.5643516
+702,Armor’s Undermining Modesty,5,backgammon,Iran,32.6475314,54.5643516
+703,Leonardo da Vinci’s,35,astronomy,Iran,32.6475314,54.5643516
+704,Blessed is the Man,33,sultan,Iran,32.6475314,54.5643516
+705,UK,7,goat,Iraq,33.0955793,44.1749775
+706,People’s Surroundings,50,goat,Iraq,33.0955793,44.1749775
+707,An Octopus,31,goat,Iraq,33.0955793,44.1749775
+708,An Octopus,44,goat,Iraq,33.0955793,44.1749775
+709,An Octopus,60,goat,Iraq,33.0955793,44.1749775
+710,An Octopus,155,goat,Iraq,33.0955793,44.1749775
+711,The Wood-Weasel,5,goat,Iraq,33.0955793,44.1749775
+712,Hometown Piece for Messrs. Alston and Reese,53,goat,Iraq,33.0955793,44.1749775
+713,The Arctic Ox (or Goat),0,goat,Iraq,33.0955793,44.1749775
+714,The Arctic Ox (or Goat),15,goat,Iraq,33.0955793,44.1749775
+715,Those Various Scalpels,6,scimitar,Iraq,33.0955793,44.1749775
+716,The Plumet Basilisk,119,harp,Iraq,33.0955793,44.1749775
+717,Spenser’s Ireland,15,harp,Iraq,33.0955793,44.1749775
+718,Efforts of Affection,2,harp,Iraq,33.0955793,44.1749775
+719,Armor’s Undermining Modesty,18,harp,Iraq,33.0955793,44.1749775
+720,Logic and “The Magic Flute”,9,harp,Iraq,33.0955793,44.1749775
+721,Combat Cultural,10,harp,Iraq,33.0955793,44.1749775
+722,That Harp You Play So Well,0,harp,Iraq,33.0955793,44.1749775
+723,That Harp You Play So Well,16,harp,Iraq,33.0955793,44.1749775
+724,The Staff of Aesculapius,26,sumerian,Iraq,33.0955793,44.1749775
+725,Melchior Vulpius,19,crescendo,Iraq,33.0955793,44.1749775
+726,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",10,famine,Ireland,52.865196,-7.9794599
+727,Leonardo da Vinci’s,31,famine,Ireland,52.865196,-7.9794599
+728,To Statecraft Embalmed,9,sovereignty,Ireland,52.865196,-7.9794599
+729,Leonardo da Vinci’s,40,sovereignty,Ireland,52.865196,-7.9794599
+730,To be Liked by You Would be a Calamity,7,steel,Ireland,52.865196,-7.9794599
+731,People’s Surroundings,13,steel,Ireland,52.865196,-7.9794599
+732,Marriage,11,steel,Ireland,52.865196,-7.9794599
+733,Sea Unicorns and Land Unicorns,6,steel,Ireland,52.865196,-7.9794599
+734,The Jerboa,139,steel,Ireland,52.865196,-7.9794599
+735,The Plumet Basilisk,127,steel,Ireland,52.865196,-7.9794599
+736,What are Years?,21,steel,Ireland,52.865196,-7.9794599
+737,His Shield,25,steel,Ireland,52.865196,-7.9794599
+738,The Icosasphere,13,steel,Ireland,52.865196,-7.9794599
+739,Armor’s Undermining Modesty,42,steel,Ireland,52.865196,-7.9794599
+740,Granite and Steel,0,steel,Ireland,52.865196,-7.9794599
+741,Granite and Steel,6,steel,Ireland,52.865196,-7.9794599
+742,Granite and Steel,26,steel,Ireland,52.865196,-7.9794599
+743,Charity Overcoming Envy,24,steel,Ireland,52.865196,-7.9794599
+744,Sojourn in the Whale,4,ireland,Ireland,52.865196,-7.9794599
+745,Spenser’s Ireland,0,ireland,Ireland,52.865196,-7.9794599
+746,Spenser’s Ireland,14,ireland,Ireland,52.865196,-7.9794599
+747,People’s Surroundings,23,waterford,Ireland,52.865196,-7.9794599
+748,Walking-Sticks and Paperweights and Watermarks,54,waterford,Ireland,52.865196,-7.9794599
+749,Camellia Sabina,27,cork,Ireland,52.865196,-7.9794599
+750,Armor’s Undermining Modesty,21,cork,Ireland,52.865196,-7.9794599
+751,Spenser’s Ireland,24,irish,Ireland,52.865196,-7.9794599
+752,Spenser’s Ireland,26,irish,Ireland,52.865196,-7.9794599
+753,Spenser’s Ireland,34,irish,Ireland,52.865196,-7.9794599
+754,Spenser’s Ireland,54,irish,Ireland,52.865196,-7.9794599
+755,Spenser’s Ireland,72,irish,Ireland,52.865196,-7.9794599
+756,Spenser’s Ireland,76,irish,Ireland,52.865196,-7.9794599
+757,Then the Ermine:,21,ebony,Ireland,52.865196,-7.9794599
+758,To a Strategist,1,jew,Israel,30.8124247,34.8594762
+759,The Labors of Hercules,35,jew,Israel,30.8124247,34.8594762
+760,A Carriage from Sweden,30,jew,Israel,30.8124247,34.8594762
+761,In Distrust of Merits,41,jew,Israel,30.8124247,34.8594762
+762,"In the Days of Prismatic Color,",1,adam,Israel,30.8124247,34.8594762
+763,When I Buy Pictures,17,adam,Israel,30.8124247,34.8594762
+764,Marriage,9,adam,Israel,30.8124247,34.8594762
+765,Marriage,60,adam,Israel,30.8124247,34.8594762
+766,Marriage,64,adam,Israel,30.8124247,34.8594762
+767,Marriage,137,adam,Israel,30.8124247,34.8594762
+768,An Octopus,194,adam,Israel,30.8124247,34.8594762
+769,Marriage,49,paradise,Israel,30.8124247,34.8594762
+770,Enough,4,paradise,Israel,30.8124247,34.8594762
+771,For February 14th,14,paradise,Israel,30.8124247,34.8594762
+772,The Buffalo,7,john,Israel,30.8124247,34.8594762
+773,His Shield,7,john,Israel,30.8124247,34.8594762
+774,Enough,20,john,Israel,30.8124247,34.8594762
+775,Enough,24,john,Israel,30.8124247,34.8594762
+776,The Arctic Ox (or Goat),1,john,Israel,30.8124247,34.8594762
+777,Granite and Steel,29,john,Israel,30.8124247,34.8594762
+778,In Lieu of the Lyre,29,john,Israel,30.8124247,34.8594762
+779,Sea Unicorns and Land Unicorns,33,malachite,Israel,30.8124247,34.8594762
+780,See in the Midst of Fair Leaves,5,angel,Israel,30.8124247,34.8594762
+781,“Keeping Their World Large”,12,angel,Israel,30.8124247,34.8594762
+782,By Disposition of Angels,0,angel,Israel,30.8124247,34.8594762
+783,The Frigate Pelican,59,knight,Israel,30.8124247,34.8594762
+784,Armor’s Undermining Modesty,25,knight,Israel,30.8124247,34.8594762
+785,Armor’s Undermining Modesty,27,knight,Israel,30.8124247,34.8594762
+786,Nevertheless,16,mandrake,Israel,30.8124247,34.8594762
+787,“Keeping Their World Large”,19,apostle,Israel,30.8124247,34.8594762
+788,“Keeping Their World Large”,19,christ,Israel,30.8124247,34.8594762
+789,Rosemary,15,christ,Israel,30.8124247,34.8594762
+790,Then the Ermine:,27,prophet,Israel,30.8124247,34.8594762
+791,Melchior Vulpius,15,hallelujah,Israel,30.8124247,34.8594762
+792,In the Public Garden,7,scriptural,Israel,30.8124247,34.8594762
+793,For February 14th,19,noah,Israel,30.8124247,34.8594762
+794,To Victor Hugo of My Crow Pluto,64,seraph,Israel,30.8124247,34.8594762
+795,Fear is Hope,13,day,Italy,42.6384261,12.674297
+797,Poetry,25,poet,Italy,42.6384261,12.674297
+799,Poetry,27,poet,Italy,42.6384261,12.674297
+801,Picking And Choosing,10,poet,Italy,42.6384261,12.674297
+803,Bowls,22,poet,Italy,42.6384261,12.674297
+805,"Part of a Novel, Part of a Poem, Part of a Play",141,poet,Italy,42.6384261,12.674297
+807,Voracities and Verities Sometimes are Interacting,6,poet,Italy,42.6384261,12.674297
+809,In the Public Garden,53,poet,Italy,42.6384261,12.674297
+811,"The mind, intractable thing",4,poet,Italy,42.6384261,12.674297
+813,"Mercifully,",2,poet,Italy,42.6384261,12.674297
+815,UK,1,abbey,Italy,42.6384261,12.674297
+817,The Pangolin,28,abbey,Italy,42.6384261,12.674297
+819,The Labors of Hercules,26,saint,Italy,42.6384261,12.674297
+821,Sea Unicorns and Land Unicorns,49,saint,Italy,42.6384261,12.674297
+823,Efforts of Affection,12,saint,Italy,42.6384261,12.674297
+825,"Saint Nicholas,",0,saint,Italy,42.6384261,12.674297
+827,"Saint Nicholas,",35,saint,Italy,42.6384261,12.674297
+829,"Saint Nicholas,",38,saint,Italy,42.6384261,12.674297
+831,For February 14th,1,saint,Italy,42.6384261,12.674297
+833,Leonardo da Vinci’s,1,saint,Italy,42.6384261,12.674297
+835,Leonardo da Vinci’s,21,saint,Italy,42.6384261,12.674297
+837,Leonardo da Vinci’s,22,saint,Italy,42.6384261,12.674297
+839,Leonardo da Vinci’s,39,saint,Italy,42.6384261,12.674297
+841,Carnegie Hall: Rescued,3,saint,Italy,42.6384261,12.674297
+843,Carnegie Hall: Rescued,50,saint,Italy,42.6384261,12.674297
+845,"Saint Valentine,",0,saint,Italy,42.6384261,12.674297
+847,"Snakes, Mongooses, Snake-Charmers, and the Like",13,twig,Italy,42.6384261,12.674297
+849,An Octopus,28,twig,Italy,42.6384261,12.674297
+851,An Octopus,224,twig,Italy,42.6384261,12.674297
+853,Marriage,291,roman,Italy,42.6384261,12.674297
+855,The Jerboa,2,roman,Italy,42.6384261,12.674297
+857,The Old Dominion,133,roman,Italy,42.6384261,12.674297
+859,Armor’s Undermining Modesty,28,roman,Italy,42.6384261,12.674297
+861,An Octopus,93,buckwheat,Italy,42.6384261,12.674297
+863,An Octopus,147,paw,Italy,42.6384261,12.674297
+865,Camellia Sabina,0,camellia,Italy,42.6384261,12.674297
+867,Camellia Sabina,10,camellia,Italy,42.6384261,12.674297
+869,Camellia Sabina,15,camellia,Italy,42.6384261,12.674297
+871,Camellia Sabina,21,camellia,Italy,42.6384261,12.674297
+873,The Old Dominion,93,camellia,Italy,42.6384261,12.674297
+875,Walking-Sticks and Paperweights and Watermarks,86,umbrian,Italy,42.6384261,12.674297
+877,The Old Dominion,141,mandolin,Italy,42.6384261,12.674297
+879,The Pangolin,126,serge,Italy,42.6384261,12.674297
+881,Rigorists,4,reino,Italy,42.6384261,12.674297
+883,Spenser’s Ireland,58,lunula,Italy,42.6384261,12.674297
+885,The Wood-Weasel,2,sylvan,Italy,42.6384261,12.674297
+887,Armor’s Undermining Modesty,18,tribute,Italy,42.6384261,12.674297
+889,Tom Fool at Jamaica,18,signor,Italy,42.6384261,12.674297
+891,Tom Fool at Jamaica,18,cupola,Italy,42.6384261,12.674297
+893,In the Public Garden,3,cupola,Italy,42.6384261,12.674297
+895,Rosemary,11,robe,Italy,42.6384261,12.674297
+897,Style,20,bull,Italy,42.6384261,12.674297
+899,Hometown Piece for Messrs. Alston and Reese,35,roe,Italy,42.6384261,12.674297
+901,A Talisman,7,lapis,Italy,42.6384261,12.674297
+903,Sea Unicorns and Land Unicorns,33,lapis,Italy,42.6384261,12.674297
+905,The Monkey Puzzler,1,pine,Japan,36.5748441,139.2394179
+906,The Monkey Puzzler,10,pine,Japan,36.5748441,139.2394179
+907,"Part of a Novel, Part of a Poem, Part of a Play",17,pine,Japan,36.5748441,139.2394179
+908,The Jerboa,4,pine,Japan,36.5748441,139.2394179
+909,The Old Dominion,159,pine,Japan,36.5748441,139.2394179
+910,A Carriage from Sweden,23,pine,Japan,36.5748441,139.2394179
+911,A Carriage from Sweden,24,pine,Japan,36.5748441,139.2394179
+912,A Carriage from Sweden,47,pine,Japan,36.5748441,139.2394179
+913,The Monkey Puzzler,19,chrysanthemum,Japan,36.5748441,139.2394179
+914,The Labors of Hercules,5,piano,Japan,36.5748441,139.2394179
+915,The Plumet Basilisk,96,piano,Japan,36.5748441,139.2394179
+916,The Old Dominion,294,piano,Japan,36.5748441,139.2394179
+917,“Keeping Their World Large”,14,piano,Japan,36.5748441,139.2394179
+918,Nine Nectarines and Other Porcelain,1,peach,Japan,36.5748441,139.2394179
+919,Nine Nectarines and Other Porcelain,8,peach,Japan,36.5748441,139.2394179
+920,Nine Nectarines and Other Porcelain,18,peach,Japan,36.5748441,139.2394179
+921,Nine Nectarines and Other Porcelain,48,peach,Japan,36.5748441,139.2394179
+922,The Web One Weaves of Italy,6,peach,Japan,36.5748441,139.2394179
+923,The Old Dominion,104,crape,Japan,36.5748441,139.2394179
+924,The Old Dominion,303,crape,Japan,36.5748441,139.2394179
+925,The Old Dominion,347,japanese,Japan,36.5748441,139.2394179
+926,When I Buy Pictures,15,artichoke,Kyrgyzstan,41.5089324,74.724091
+927,The Pangolin,4,artichoke,Kyrgyzstan,41.5089324,74.724091
+928,The Pangolin,46,artichoke,Kyrgyzstan,41.5089324,74.724091
+929,The Pangolin,63,artichoke,Kyrgyzstan,41.5089324,74.724091
+930,Novices,15,cypress,Lebanon,33.8750629,35.843409
+931,An Octopus,29,cypress,Lebanon,33.8750629,35.843409
+932,The Old Dominion,161,cypress,Lebanon,33.8750629,35.843409
+933,To a Chameleon,7,emerald,Madagascar,-18.9249604,46.4416422
+934,A Grave,7,emerald,Madagascar,-18.9249604,46.4416422
+935,Those Various Scalpels,15,emerald,Madagascar,-18.9249604,46.4416422
+936,Marriage,68,emerald,Madagascar,-18.9249604,46.4416422
+937,The Plumet Basilisk,129,emerald,Madagascar,-18.9249604,46.4416422
+938,The Plumet Basilisk,130,emerald,Madagascar,-18.9249604,46.4416422
+939,The Old Dominion,4,emerald,Madagascar,-18.9249604,46.4416422
+940,Voracities and Verities Sometimes are Interacting,2,emerald,Madagascar,-18.9249604,46.4416422
+941,Tippoo’s Tiger,7,emerald,Madagascar,-18.9249604,46.4416422
+942,"Snakes, Mongooses, Snake-Charmers, and the Like",0,mongoose,Madagascar,-18.9249604,46.4416422
+943,"Snakes, Mongooses, Snake-Charmers, and the Like",3,mongoose,Madagascar,-18.9249604,46.4416422
+944,The Jerboa,29,mongoose,Madagascar,-18.9249604,46.4416422
+945,The Jerboa,80,mongoose,Madagascar,-18.9249604,46.4416422
+946,An Octopus,54,topaz,Madagascar,-18.9249604,46.4416422
+947,An Octopus,54,tourmaline,Madagascar,-18.9249604,46.4416422
+948,The Jerboa,18,baboon,Madagascar,-18.9249604,46.4416422
+949,Old Tiger,2,baboon,Madagascar,-18.9249604,46.4416422
+950,The Old Dominion,290,tropical,Madagascar,-18.9249604,46.4416422
+951,He “Digesteth Harde Yron”,2,madagascar,Madagascar,-18.9249604,46.4416422
+952,The Plumet Basilisk,41,malay,Malaysia,4.5693754,102.2656823
+953,The Plumet Basilisk,52,malay,Malaysia,4.5693754,102.2656823
+954,New York,21,berry,Mali,16.3700359,-2.2900239
+955,An Octopus,52,berry,Mali,16.3700359,-2.2900239
+956,The Plumet Basilisk,82,berry,Mali,16.3700359,-2.2900239
+957,Counseil to a Bacheler,1,library,Mali,16.3700359,-2.2900239
+958,The Sycamore,21,maltese,Malta,35.8885993,14.4476911
+959,When I Buy Pictures,17,silver,Mexico,23.6585116,-102.0077097
+960,Those Various Scalpels,20,silver,Mexico,23.6585116,-102.0077097
+961,People’s Surroundings,51,silver,Mexico,23.6585116,-102.0077097
+962,An Octopus,31,silver,Mexico,23.6585116,-102.0077097
+963,Sea Unicorns and Land Unicorns,81,silver,Mexico,23.6585116,-102.0077097
+964,The Jerboa,90,silver,Mexico,23.6585116,-102.0077097
+965,The Plumet Basilisk,152,silver,Mexico,23.6585116,-102.0077097
+966,Armor’s Undermining Modesty,30,silver,Mexico,23.6585116,-102.0077097
+967,Rosemary,8,silver,Mexico,23.6585116,-102.0077097
+968,Rescue with Yul Brynner,31,silver,Mexico,23.6585116,-102.0077097
+969,Tippoo’s Tiger,3,silver,Mexico,23.6585116,-102.0077097
+970,He Made This Screen,1,silver,Mexico,23.6585116,-102.0077097
+971,People’s Surroundings,13,oak,Mexico,23.6585116,-102.0077097
+972,The Old Dominion,157,oak,Mexico,23.6585116,-102.0077097
+973,Armor’s Undermining Modesty,21,oak,Mexico,23.6585116,-102.0077097
+974,The Camperdown Elm,11,oak,Mexico,23.6585116,-102.0077097
+975,To a Friend in the Making,9,oak,Mexico,23.6585116,-102.0077097
+976,UK,14,crystal,Namibia,-23.2335499,17.3231107
+977,Novices,38,crystal,Namibia,-23.2335499,17.3231107
+978,Marriage,45,crystal,Namibia,-23.2335499,17.3231107
+979,An Octopus,54,crystal,Namibia,-23.2335499,17.3231107
+980,An Octopus,70,crystal,Namibia,-23.2335499,17.3231107
+981,"Part of a Novel, Part of a Poem, Part of a Play",201,crystal,Namibia,-23.2335499,17.3231107
+982,The Plumet Basilisk,38,crystal,Namibia,-23.2335499,17.3231107
+983,Four Quartz Crystal Clocks,0,crystal,Namibia,-23.2335499,17.3231107
+984,Four Quartz Crystal Clocks,22,crystal,Namibia,-23.2335499,17.3231107
+985,Hometown Piece for Messrs. Alston and Reese,2,mocking,Netherlands,52.2434979,5.6343227
+986,"Snakes, Mongooses, Snake-Charmers, and the Like",20,amber,Netherlands,52.2434979,5.6343227
+987,A Jellyfish,3,amber,Netherlands,52.2434979,5.6343227
+988,Pigeons,26,dutch,Netherlands,52.2434979,5.6343227
+989,The Old Dominion,132,dutch,Netherlands,52.2434979,5.6343227
+990,The Old Dominion,331,hyacinth,Netherlands,52.2434979,5.6343227
+991,His Shield,3,echidna,Netherlands,52.2434979,5.6343227
+992,Pigeons,59,papuan,New Guinea,-5.52259305,142.0870905
+993,To a Snail,0,snail,New Zealand,-41.5000831,172.8344077
+994,UK,12,snail,New Zealand,-41.5000831,172.8344077
+995,An Octopus,107,snail,New Zealand,-41.5000831,172.8344077
+996,Tom Fool at Jamaica,7,snail,New Zealand,-41.5000831,172.8344077
+997,Poetry,16,wild,Niger,17.7356214,9.3238432
+998,UK,21,wild,Niger,17.7356214,9.3238432
+999,The Labors of Hercules,30,wild,Niger,17.7356214,9.3238432
+1000,"Snakes, Mongooses, Snake-Charmers, and the Like",7,wild,Niger,17.7356214,9.3238432
+1001,Bowls,3,wild,Niger,17.7356214,9.3238432
+1002,An Octopus,111,wild,Niger,17.7356214,9.3238432
+1003,Sea Unicorns and Land Unicorns,71,wild,Niger,17.7356214,9.3238432
+1004,Sea Unicorns and Land Unicorns,87,wild,Niger,17.7356214,9.3238432
+1005,The Jerboa,25,wild,Niger,17.7356214,9.3238432
+1006,Camellia Sabina,33,wild,Niger,17.7356214,9.3238432
+1007,Camellia Sabina,34,wild,Niger,17.7356214,9.3238432
+1008,The Buffalo,16,wild,Niger,17.7356214,9.3238432
+1009,Nine Nectarines and Other Porcelain,22,wild,Niger,17.7356214,9.3238432
+1010,Nine Nectarines and Other Porcelain,23,wild,Niger,17.7356214,9.3238432
+1011,The Old Dominion,9,wild,Niger,17.7356214,9.3238432
+1012,He “Digesteth Harde Yron”,51,wild,Niger,17.7356214,9.3238432
+1013,He “Digesteth Harde Yron”,55,wild,Niger,17.7356214,9.3238432
+1014,Old Amusement Park,29,wild,Niger,17.7356214,9.3238432
+1015,To a Friend in the Making,1,wild,Niger,17.7356214,9.3238432
+1016,The Buffalo,2,niger,Niger,17.7356214,9.3238432
+1017,"Part of a Novel, Part of a Poem, Part of a Play",123,horned,Norway,60.5000209,9.0999715
+1018,The Plumet Basilisk,70,horned,Norway,60.5000209,9.0999715
+1019,His Shield,4,horned,Norway,60.5000209,9.0999715
+1020,A Talisman,10,coral,Pacific,10.783194,-174.5085
+1021,Black Earth,49,coral,Pacific,10.783194,-174.5085
+1022,People’s Surroundings,38,coral,Pacific,10.783194,-174.5085
+1023,Spenser’s Ireland,60,coral,Pacific,10.783194,-174.5085
+1024,Quoting An Also Private Thought,3,coral,Pacific,10.783194,-174.5085
+1025,Charity Overcoming Envy,15,coral,Pacific,10.783194,-174.5085
+1026,He Made This Screen,1,coral,Pacific,10.783194,-174.5085
+1027,An Octopus,0,octopus,Pacific,10.783194,-174.5085
+1028,An Octopus,218,octopus,Pacific,10.783194,-174.5085
+1029,An Octopus,235,octopus,Pacific,10.783194,-174.5085
+1030,Sea Unicorns and Land Unicorns,36,pacific,Pacific,10.783194,-174.5085
+1031,Leonardo da Vinci’s,25,pacific,Pacific,10.783194,-174.5085
+1032,Nine Nectarines and Other Porcelain,66,dolphin,Pacific,10.783194,-174.5085
+1033,Walking-Sticks and Paperweights and Watermarks,88,dolphin,Pacific,10.783194,-174.5085
+1034,A Carriage from Sweden,44,dolphin,Pacific,10.783194,-174.5085
+1035,Rosemary,5,braid,Pakistan,30.3308401,71.247499
+1036,An Octopus,31,ore,Peru,-6.8699697,-75.0458515
+1037,Walking-Sticks and Paperweights and Watermarks,57,ore,Peru,-6.8699697,-75.0458515
+1038,Peter,23,mouse,Philippines,12.7503486,122.7312101
+1039,Silence,7,mouse,Philippines,12.7503486,122.7312101
+1040,"Part of a Novel, Part of a Poem, Part of a Play",129,mouse,Philippines,12.7503486,122.7312101
+1041,The Jerboa,89,mouse,Philippines,12.7503486,122.7312101
+1042,Camellia Sabina,34,mouse,Philippines,12.7503486,122.7312101
+1043,Camellia Sabina,38,mouse,Philippines,12.7503486,122.7312101
+1044,Camellia Sabina,52,mouse,Philippines,12.7503486,122.7312101
+1045,Elephants,3,mouse,Philippines,12.7503486,122.7312101
+1046,The Sycamore,24,mouse,Philippines,12.7503486,122.7312101
+1047,Melchior Vulpius,13,mouse,Philippines,12.7503486,122.7312101
+1048,"Tell Me, Tell Me",19,mouse,Philippines,12.7503486,122.7312101
+1049,"Tell Me, Tell Me",38,mouse,Philippines,12.7503486,122.7312101
+1050,Apropos of Mice,0,mouse,Philippines,12.7503486,122.7312101
+1051,To Victor Hugo of My Crow Pluto,26,esperanto,Philippines,12.7503486,122.7312101
+1052,To Victor Hugo of My Crow Pluto,53,esperanto,Philippines,12.7503486,122.7312101
+1053,The Paper Nautilus,0,nautilus,Poland,52.215933,19.134422
+1054,The Paper Nautilus,6,nautilus,Poland,52.215933,19.134422
+1055,Pedantic Literalist,18,palm,Qatar,25.3336984,51.2295295
+1056,The Jerboa,94,palm,Qatar,25.3336984,51.2295295
+1057,The Plumet Basilisk,83,palm,Qatar,25.3336984,51.2295295
+1058,The Plumet Basilisk,135,palm,Qatar,25.3336984,51.2295295
+1059,The Old Dominion,258,palm,Qatar,25.3336984,51.2295295
+1060,Radical,17,slavery,Russia,64.6863136,97.7453061
+1062,Enough,40,slavery,Russia,64.6863136,97.7453061
+1064,Those Various Scalpels,15,lance,Russia,64.6863136,97.7453061
+1066,Novices,61,lance,Russia,64.6863136,97.7453061
+1068,The Frigate Pelican,64,lance,Russia,64.6863136,97.7453061
+1070,Marriage,69,silk,Russia,64.6863136,97.7453061
+1072,The Plumet Basilisk,93,silk,Russia,64.6863136,97.7453061
+1074,The Old Dominion,103,silk,Russia,64.6863136,97.7453061
+1076,The Old Dominion,236,silk,Russia,64.6863136,97.7453061
+1078,He “Digesteth Harde Yron”,58,silk,Russia,64.6863136,97.7453061
+1080,Tom Fool at Jamaica,24,silk,Russia,64.6863136,97.7453061
+1082,Blue Bug,28,silk,Russia,64.6863136,97.7453061
+1084,Marriage,208,monopolist,Russia,64.6863136,97.7453061
+1086,An Octopus,31,mirror,Russia,64.6863136,97.7453061
+1088,The Old Dominion,288,mirror,Russia,64.6863136,97.7453061
+1090,Armor’s Undermining Modesty,42,mirror,Russia,64.6863136,97.7453061
+1092,Blake,2,mirror,Russia,64.6863136,97.7453061
+1094,Camellia Sabina,34,parsnip,Russia,64.6863136,97.7453061
+1096,Fear is Hope,6,arab,Saudi Arabia,25.6242618,42.3528328
+1097,Four Quartz Crystal Clocks,15,arab,Saudi Arabia,25.6242618,42.3528328
+1098,"Part of a Novel, Part of a Poem, Part of a Play",178,pilgrim,Saudi Arabia,25.6242618,42.3528328
+1099,Elephants,28,pilgrim,Saudi Arabia,25.6242618,42.3528328
+1100,In Lieu of the Lyre,18,pilgrim,Saudi Arabia,25.6242618,42.3528328
+1101,In Lieu of the Lyre,23,pilgrim,Saudi Arabia,25.6242618,42.3528328
+1102,The Jerboa,91,sand,Saudi Arabia,25.6242618,42.3528328
+1103,The Jerboa,92,sand,Saudi Arabia,25.6242618,42.3528328
+1104,The Jerboa,93,sand,Saudi Arabia,25.6242618,42.3528328
+1105,The Jerboa,102,sand,Saudi Arabia,25.6242618,42.3528328
+1106,The Jerboa,144,sand,Saudi Arabia,25.6242618,42.3528328
+1107,The Old Dominion,2,sand,Saudi Arabia,25.6242618,42.3528328
+1108,He “Digesteth Harde Yron”,48,sand,Saudi Arabia,25.6242618,42.3528328
+1109,"The mind, intractable thing",10,sand,Saudi Arabia,25.6242618,42.3528328
+1110,The Jerboa,108,angel,Saudi Arabia,25.6242618,42.3528328
+1111,Poetry,16,wolf,Slovakia,48.7411522,19.4528646
+1112,An Octopus,44,wolf,Slovakia,48.7411522,19.4528646
+1113,The Old Dominion,125,wolf,Slovakia,48.7411522,19.4528646
+1114,In Distrust of Merits,27,wolf,Slovakia,48.7411522,19.4528646
+1115,Walking-Sticks and Paperweights and Watermarks,84,esparto,Spain,39.3260685,-4.8379791
+1116,Marriage,214,mummy,Spain,39.3260685,-4.8379791
+1117,Camellia Sabina,47,gem,Spain,39.3260685,-4.8379791
+1118,The Web One Weaves of Italy,11,gem,Spain,39.3260685,-4.8379791
+1119,Arthur Mitchell,4,gem,Spain,39.3260685,-4.8379791
+1120,"Tell Me, Tell Me",9,gem,Spain,39.3260685,-4.8379791
+1121,To William Butler Yeats on Tagore,4,gem,Spain,39.3260685,-4.8379791
+1122,"Part of a Novel, Part of a Poem, Part of a Play",170,basso,Spain,39.3260685,-4.8379791
+1123,Propriety,16,basso,Spain,39.3260685,-4.8379791
+1124,The Plumet Basilisk,137,spaniard,Spain,39.3260685,-4.8379791
+1125,The Old Dominion,71,andalusian,Spain,39.3260685,-4.8379791
+1126,He “Digesteth Harde Yron”,31,leaden,Spain,39.3260685,-4.8379791
+1127,Style,25,guitar,Spain,39.3260685,-4.8379791
+1128,Rescue with Yul Brynner,17,guitar,Spain,39.3260685,-4.8379791
+1129,Rescue with Yul Brynner,34,guitar,Spain,39.3260685,-4.8379791
+1130,Rescue with Yul Brynner,38,guitar,Spain,39.3260685,-4.8379791
+1131,Leonardo da Vinci’s,30,leo,Spain,39.3260685,-4.8379791
+1132,To Victor Hugo of My Crow Pluto,61,gypsy,Spain,39.3260685,-4.8379791
+1133,The Jerboa,52,drought,Sudan,14.5844444,29.4917691
+1134,The Fish,28,lily,Suriname,4.1413025,-56.0771187
+1135,People’s Surroundings,48,lily,Suriname,4.1413025,-56.0771187
+1136,An Octopus,125,lily,Suriname,4.1413025,-56.0771187
+1137,An Octopus,127,lily,Suriname,4.1413025,-56.0771187
+1138,"Part of a Novel, Part of a Poem, Part of a Play",36,lily,Suriname,4.1413025,-56.0771187
+1139,To Military Progress,23,evening,Sweden,59.6749712,14.5208584
+1140,To the Soul of “Progress”,23,evening,Sweden,59.6749712,14.5208584
+1141,An Octopus,116,moraine,Sweden,59.6749712,14.5208584
+1142,The Icosasphere,17,icosahedron,Sweden,59.6749712,14.5208584
+1143,An Octopus,127,avalanche,Switzerland,46.7985624,8.2319736
+1144,An Octopus,236,avalanche,Switzerland,46.7985624,8.2319736
+1145,The Buffalo,18,swiss,Switzerland,46.7985624,8.2319736
+1146,Peter,22,eel,Syria,34.6401861,39.0494106
+1147,Peter,44,eel,Syria,34.6401861,39.0494106
+1148,Camellia Sabina,55,eel,Syria,34.6401861,39.0494106
+1149,The Jerboa,24,onager,Syria,34.6401861,39.0494106
+1150,To Military Progress,8,crow,Tonga,-19.9160819,-175.202642
+1151,The Fish,3,crow,Tonga,-19.9160819,-175.202642
+1152,People’s Surroundings,32,crow,Tonga,-19.9160819,-175.202642
+1153,Then the Ermine:,24,crow,Tonga,-19.9160819,-175.202642
+1154,To Victor Hugo of My Crow Pluto,0,crow,Tonga,-19.9160819,-175.202642
+1155,To Victor Hugo of My Crow Pluto,5,crow,Tonga,-19.9160819,-175.202642
+1156,To Victor Hugo of My Crow Pluto,15,crow,Tonga,-19.9160819,-175.202642
+1157,To Victor Hugo of My Crow Pluto,38,crow,Tonga,-19.9160819,-175.202642
+1158,To the Soul of “Progress”,8,crow,Tonga,-19.9160819,-175.202642
+1159,Pigeons,63,samoan,Tonga,-19.9160819,-175.202642
+1160,Camellia Sabina,16,amanita,Turkey,38.9597594,34.9249653
+1161,Hometown Piece for Messrs. Alston and Reese,51,inning,Turkey,38.9597594,34.9249653
+1162,The Jerboa,29,stork,UK,54.7023545,-3.2765753
+1164,Nine Nectarines and Other Porcelain,51,stork,UK,54.7023545,-3.2765753
+1166,The Jerboa,72,calla,UK,54.7023545,-3.2765753
+1168,To a Prize Bird,2,chaff,UK,54.7023545,-3.2765753
+1170,To Military Progress,3,chaff,UK,54.7023545,-3.2765753
+1172,“He Wrote The History Book”,5,chaff,UK,54.7023545,-3.2765753
+1174,To the Soul of “Progress”,3,chaff,UK,54.7023545,-3.2765753
+1176,To Statecraft Embalmed,12,snow,UK,54.7023545,-3.2765753
+1178,Those Various Scalpels,8,snow,UK,54.7023545,-3.2765753
+1180,New York,9,snow,UK,54.7023545,-3.2765753
+1182,Marriage,69,snow,UK,54.7023545,-3.2765753
+1184,An Octopus,3,snow,UK,54.7023545,-3.2765753
+1186,An Octopus,80,snow,UK,54.7023545,-3.2765753
+1188,An Octopus,108,snow,UK,54.7023545,-3.2765753
+1190,An Octopus,156,snow,UK,54.7023545,-3.2765753
+1192,An Octopus,222,snow,UK,54.7023545,-3.2765753
+1194,An Octopus,234,snow,UK,54.7023545,-3.2765753
+1196,An Octopus,238,snow,UK,54.7023545,-3.2765753
+1198,The Buffalo,30,snow,UK,54.7023545,-3.2765753
+1200,Pigeons,100,snow,UK,54.7023545,-3.2765753
+1202,Rigorists,7,snow,UK,54.7023545,-3.2765753
+1204,Rigorists,8,snow,UK,54.7023545,-3.2765753
+1206,In Distrust of Merits,50,snow,UK,54.7023545,-3.2765753
+1208,We Call Them the Brave,3,snow,UK,54.7023545,-3.2765753
+1210,No better than “a withered daffodil”,2,snow,UK,54.7023545,-3.2765753
+1212,In the Public Garden,23,snow,UK,54.7023545,-3.2765753
+1214,"Saint Valentine,",12,snow,UK,54.7023545,-3.2765753
+1216,Poetry,16,horse,UK,54.7023545,-3.2765753
+1218,Poetry,18,horse,UK,54.7023545,-3.2765753
+1220,My Apish Cousins,23,horse,UK,54.7023545,-3.2765753
+1222,Dock Rats,21,horse,UK,54.7023545,-3.2765753
+1224,New York,18,horse,UK,54.7023545,-3.2765753
+1226,An Octopus,124,horse,UK,54.7023545,-3.2765753
+1228,Nine Nectarines and Other Porcelain,32,horse,UK,54.7023545,-3.2765753
+1230,Pigeons,95,horse,UK,54.7023545,-3.2765753
+1232,The Old Dominion,24,horse,UK,54.7023545,-3.2765753
+1234,The Old Dominion,260,horse,UK,54.7023545,-3.2765753
+1236,The Old Dominion,296,horse,UK,54.7023545,-3.2765753
+1238,He “Digesteth Harde Yron”,14,horse,UK,54.7023545,-3.2765753
+1240,The Paper Nautilus,28,horse,UK,54.7023545,-3.2765753
+1242,Tom Fool at Jamaica,25,horse,UK,54.7023545,-3.2765753
+1244,"Saint Nicholas,",32,horse,UK,54.7023545,-3.2765753
+1246,The Camperdown Elm,12,horse,UK,54.7023545,-3.2765753
+1248,Critics and Connoisseurs,10,oxford,UK,54.7023545,-3.2765753
+1250,Dock Rats,3,home,UK,54.7023545,-3.2765753
+1252,The Labors of Hercules,3,home,UK,54.7023545,-3.2765753
+1254,An Octopus,78,home,UK,54.7023545,-3.2765753
+1256,An Octopus,80,home,UK,54.7023545,-3.2765753
+1258,"Part of a Novel, Part of a Poem, Part of a Play",74,home,UK,54.7023545,-3.2765753
+1260,The Jerboa,88,home,UK,54.7023545,-3.2765753
+1262,The Frigate Pelican,36,home,UK,54.7023545,-3.2765753
+1264,Pigeons,33,home,UK,54.7023545,-3.2765753
+1266,Pigeons,37,home,UK,54.7023545,-3.2765753
+1268,The Old Dominion,272,home,UK,54.7023545,-3.2765753
+1270,A Carriage from Sweden,5,home,UK,54.7023545,-3.2765753
+1272,In Distrust of Merits,60,home,UK,54.7023545,-3.2765753
+1274,Hometown Piece for Messrs. Alston and Reese,20,home,UK,54.7023545,-3.2765753
+1276,Hometown Piece for Messrs. Alston and Reese,45,home,UK,54.7023545,-3.2765753
+1278,In the Public Garden,29,home,UK,54.7023545,-3.2765753
+1280,In the Public Garden,58,home,UK,54.7023545,-3.2765753
+1282,Rescue with Yul Brynner,35,home,UK,54.7023545,-3.2765753
+1284,Rescue with Yul Brynner,40,home,UK,54.7023545,-3.2765753
+1286,Carnegie Hall: Rescued,42,home,UK,54.7023545,-3.2765753
+1288,Dream,9,home,UK,54.7023545,-3.2765753
+1290,To a Friend in the Making,2,home,UK,54.7023545,-3.2765753
+1292,Holes Bored in a Workbag by the Scissors,7,home,UK,54.7023545,-3.2765753
+1294,Dock Rats,14,hay,UK,54.7023545,-3.2765753
+1296,The Frigate Pelican,36,hay,UK,54.7023545,-3.2765753
+1298,The Buffalo,50,hay,UK,54.7023545,-3.2765753
+1300,Efforts of Affection,4,hay,UK,54.7023545,-3.2765753
+1302,The Arctic Ox (or Goat),59,hay,UK,54.7023545,-3.2765753
+1304,"Tell Me, Tell Me",29,hay,UK,54.7023545,-3.2765753
+1306,Picking And Choosing,6,cloud,UK,54.7023545,-3.2765753
+1308,An Octopus,68,cloud,UK,54.7023545,-3.2765753
+1310,Sea Unicorns and Land Unicorns,79,cloud,UK,54.7023545,-3.2765753
+1312,The Plumet Basilisk,15,cloud,UK,54.7023545,-3.2765753
+1314,The Plumet Basilisk,38,cloud,UK,54.7023545,-3.2765753
+1316,The Old Dominion,165,cloud,UK,54.7023545,-3.2765753
+1318,Hometown Piece for Messrs. Alston and Reese,21,cloud,UK,54.7023545,-3.2765753
+1320,In the Public Garden,18,cloud,UK,54.7023545,-3.2765753
+1322,UK,2,cathedral,UK,54.7023545,-3.2765753
+1324,Those Various Scalpels,22,cathedral,UK,54.7023545,-3.2765753
+1326,UK,24,american,UK,54.7023545,-3.2765753
+1328,UK,28,continent,UK,54.7023545,-3.2765753
+1330,When I Buy Pictures,9,hound,UK,54.7023545,-3.2765753
+1332,The Old Dominion,125,hound,UK,54.7023545,-3.2765753
+1334,People’s Surroundings,31,sir,UK,54.7023545,-3.2765753
+1336,Sea Unicorns and Land Unicorns,19,sir,UK,54.7023545,-3.2765753
+1338,The Old Dominion,10,sir,UK,54.7023545,-3.2765753
+1340,Hometown Piece for Messrs. Alston and Reese,18,sir,UK,54.7023545,-3.2765753
+1342,“Like a Wave at the Curl”,9,sir,UK,54.7023545,-3.2765753
+1344,Bowls,2,vitae,UK,54.7023545,-3.2765753
+1346,"Part of a Novel, Part of a Poem, Part of a Play",93,vitae,UK,54.7023545,-3.2765753
+1348,The Old Dominion,291,vitae,UK,54.7023545,-3.2765753
+1350,Bowls,15,english,UK,54.7023545,-3.2765753
+1352,Marriage,27,english,UK,54.7023545,-3.2765753
+1354,Sea Unicorns and Land Unicorns,35,english,UK,54.7023545,-3.2765753
+1356,The Old Dominion,38,english,UK,54.7023545,-3.2765753
+1358,The Old Dominion,107,english,UK,54.7023545,-3.2765753
+1360,The Old Dominion,114,english,UK,54.7023545,-3.2765753
+1362,Novices,6,artist,UK,54.7023545,-3.2765753
+1364,Marriage,237,artist,UK,54.7023545,-3.2765753
+1366,Marriage,239,artist,UK,54.7023545,-3.2765753
+1368,The Jerboa,3,artist,UK,54.7023545,-3.2765753
+1370,Rigorists,9,artist,UK,54.7023545,-3.2765753
+1372,Dream,2,artist,UK,54.7023545,-3.2765753
+1374,Dream,6,artist,UK,54.7023545,-3.2765753
+1376,Novices,10,cockatrice,UK,54.7023545,-3.2765753
+1378,Marriage,71,leopard,UK,54.7023545,-3.2765753
+1380,The Frigate Pelican,75,leopard,UK,54.7023545,-3.2765753
+1382,He “Digesteth Harde Yron”,16,leopard,UK,54.7023545,-3.2765753
+1384,"Saint Valentine,",12,leopard,UK,54.7023545,-3.2765753
+1386,Old Tiger,7,leopard,UK,54.7023545,-3.2765753
+1388,Marriage,173,doth,UK,54.7023545,-3.2765753
+1390,Sea Unicorns and Land Unicorns,87,doth,UK,54.7023545,-3.2765753
+1392,Voracities and Verities Sometimes are Interacting,7,doth,UK,54.7023545,-3.2765753
+1394,Granite and Steel,20,doth,UK,54.7023545,-3.2765753
+1396,Marriage,235,shakespeare,UK,54.7023545,-3.2765753
+1398,Efforts of Affection,3,shakespeare,UK,54.7023545,-3.2765753
+1400,An Octopus,53,alabaster,UK,54.7023545,-3.2765753
+1402,Walking-Sticks and Paperweights and Watermarks,82,alabaster,UK,54.7023545,-3.2765753
+1404,An Octopus,148,thistle,UK,54.7023545,-3.2765753
+1406,Apparition of Splendor,10,thistle,UK,54.7023545,-3.2765753
+1408,For February 14th,7,thistle,UK,54.7023545,-3.2765753
+1410,Sea Unicorns and Land Unicorns,0,unicorn,UK,54.7023545,-3.2765753
+1412,Sea Unicorns and Land Unicorns,11,unicorn,UK,54.7023545,-3.2765753
+1414,Sea Unicorns and Land Unicorns,20,unicorn,UK,54.7023545,-3.2765753
+1416,Sea Unicorns and Land Unicorns,34,unicorn,UK,54.7023545,-3.2765753
+1418,Sea Unicorns and Land Unicorns,41,unicorn,UK,54.7023545,-3.2765753
+1420,Sea Unicorns and Land Unicorns,46,unicorn,UK,54.7023545,-3.2765753
+1422,Sea Unicorns and Land Unicorns,58,unicorn,UK,54.7023545,-3.2765753
+1424,Sea Unicorns and Land Unicorns,84,unicorn,UK,54.7023545,-3.2765753
+1426,Nine Nectarines and Other Porcelain,81,unicorn,UK,54.7023545,-3.2765753
+1428,Sea Unicorns and Land Unicorns,34,britannia,UK,54.7023545,-3.2765753
+1430,The Old Dominion,1,britannia,UK,54.7023545,-3.2765753
+1432,Sea Unicorns and Land Unicorns,47,beast,UK,54.7023545,-3.2765753
+1434,Sea Unicorns and Land Unicorns,73,beast,UK,54.7023545,-3.2765753
+1436,The Buffalo,16,beast,UK,54.7023545,-3.2765753
+1438,Nine Nectarines and Other Porcelain,53,beast,UK,54.7023545,-3.2765753
+1440,The Pangolin,38,beast,UK,54.7023545,-3.2765753
+1442,Elephants,32,beast,UK,54.7023545,-3.2765753
+1444,Efforts of Affection,19,beast,UK,54.7023545,-3.2765753
+1446,Leonardo da Vinci’s,9,beast,UK,54.7023545,-3.2765753
+1448,Leonardo da Vinci’s,21,beast,UK,54.7023545,-3.2765753
+1450,Leonardo da Vinci’s,39,beast,UK,54.7023545,-3.2765753
+1452,To a Giraffe,6,beast,UK,54.7023545,-3.2765753
+1454,Sea Unicorns and Land Unicorns,78,equine,UK,54.7023545,-3.2765753
+1456,A Carriage from Sweden,15,equine,UK,54.7023545,-3.2765753
+1458,"Part of a Novel, Part of a Poem, Part of a Play",55,slat,UK,54.7023545,-3.2765753
+1460,The Old Dominion,111,slat,UK,54.7023545,-3.2765753
+1462,"Part of a Novel, Part of a Poem, Part of a Play",71,schooner,UK,54.7023545,-3.2765753
+1464,The Jerboa,38,yachtsman,UK,54.7023545,-3.2765753
+1466,The Jerboa,45,lord,UK,54.7023545,-3.2765753
+1468,The Old Dominion,114,lord,UK,54.7023545,-3.2765753
+1470,In Distrust of Merits,14,lord,UK,54.7023545,-3.2765753
+1472,"Tell Me, Tell Me",8,lord,UK,54.7023545,-3.2765753
+1474,"Tell Me, Tell Me",40,lord,UK,54.7023545,-3.2765753
+1476,Camellia Sabina,27,wine,UK,54.7023545,-3.2765753
+1478,Camellia Sabina,57,wine,UK,54.7023545,-3.2765753
+1480,The Old Dominion,307,wine,UK,54.7023545,-3.2765753
+1482,For February 14th,19,wine,UK,54.7023545,-3.2765753
+1484,That Harp You Play So Well,6,wine,UK,54.7023545,-3.2765753
+1486,Camellia Sabina,46,gilded,UK,54.7023545,-3.2765753
+1488,Camellia Sabina,51,cavalry,UK,54.7023545,-3.2765753
+1490,Camellia Sabina,51,cadet,UK,54.7023545,-3.2765753
+1492,Camellia Sabina,60,du,UK,54.7023545,-3.2765753
+1494,The Plumet Basilisk,136,london,UK,54.7023545,-3.2765753
+1496,The Old Dominion,327,london,UK,54.7023545,-3.2765753
+1498,The Buffalo,36,serf,UK,54.7023545,-3.2765753
+1500,We Call Them the Brave,8,serf,UK,54.7023545,-3.2765753
+1502,The Buffalo,41,sage,UK,54.7023545,-3.2765753
+1504,The Old Dominion,168,sage,UK,54.7023545,-3.2765753
+1506,Leonardo da Vinci’s,4,sage,UK,54.7023545,-3.2765753
+1508,Nine Nectarines and Other Porcelain,61,pheasant,UK,54.7023545,-3.2765753
+1510,Pigeons,50,UK,UK,54.7023545,-3.2765753
+1512,The Old Dominion,7,cavalier,UK,54.7023545,-3.2765753
+1514,The Old Dominion,8,parson,UK,54.7023545,-3.2765753
+1516,The Old Dominion,63,pansy,UK,54.7023545,-3.2765753
+1518,The Old Dominion,67,pansy,UK,54.7023545,-3.2765753
+1520,Propriety,36,pansy,UK,54.7023545,-3.2765753
+1522,The Old Dominion,114,county,UK,54.7023545,-3.2765753
+1524,The Pangolin,9,armor,UK,54.7023545,-3.2765753
+1526,In Distrust of Merits,59,armor,UK,54.7023545,-3.2765753
+1528,Armor’s Undermining Modesty,0,armor,UK,54.7023545,-3.2765753
+1530,Armor’s Undermining Modesty,30,armor,UK,54.7023545,-3.2765753
+1532,Armor’s Undermining Modesty,40,armor,UK,54.7023545,-3.2765753
+1534,Blessed is the Man,12,armor,UK,54.7023545,-3.2765753
+1536,Charity Overcoming Envy,24,armor,UK,54.7023545,-3.2765753
+1538,The Pangolin,59,broom,UK,54.7023545,-3.2765753
+1540,Appellate Jurisdiction,2,broom,UK,54.7023545,-3.2765753
+1542,The Pangolin,63,simpleton,UK,54.7023545,-3.2765753
+1544,The Pangolin,78,monk,UK,54.7023545,-3.2765753
+1546,Leonardo da Vinci’s,10,monk,UK,54.7023545,-3.2765753
+1548,The Pangolin,86,mullion,UK,54.7023545,-3.2765753
+1550,The Pangolin,126,shod,UK,54.7023545,-3.2765753
+1552,He “Digesteth Harde Yron”,61,sail,UK,54.7023545,-3.2765753
+1554,Dream,21,sail,UK,54.7023545,-3.2765753
+1556,Four Quartz Crystal Clocks,29,potto,UK,54.7023545,-3.2765753
+1558,Propriety,30,millet,UK,54.7023545,-3.2765753
+1560,The Icosasphere,1,hedgerow,UK,54.7023545,-3.2765753
+1562,Quoting An Also Private Thought,11,escutcheon,UK,54.7023545,-3.2765753
+1564,Tom Fool at Jamaica,35,ennoble,UK,54.7023545,-3.2765753
+1566,Tom Fool at Jamaica,41,greyhound,UK,54.7023545,-3.2765753
+1568,Old Tiger,11,greyhound,UK,54.7023545,-3.2765753
+1570,Hometown Piece for Messrs. Alston and Reese,11,inning,UK,54.7023545,-3.2765753
+1572,Leonardo da Vinci’s,2,hermitage,UK,54.7023545,-3.2765753
+1574,Counseil to a Bacheler,1,trencher,UK,54.7023545,-3.2765753
+1576,Combat Cultural,7,cossack,Ukraine,49.4871968,31.2718321
+1577,"“The Bricks are Fallen Down, We Will Build with Hewn Stones. The Sycamores are Cut Down, We Will Change to Cedars.”",0,cedar,US,39.7837304,-100.445882
+1578,People’s Surroundings,22,cedar,US,39.7837304,-100.445882
+1579,The Old Dominion,4,cedar,US,39.7837304,-100.445882
+1580,The Old Dominion,160,cedar,US,39.7837304,-100.445882
+1581,"Feed Me, Also, River God",9,cedar,US,39.7837304,-100.445882
+1582,The Old Dominion,175,pussy,US,39.7837304,-100.445882
+1583,The Old Dominion,194,pussy,US,39.7837304,-100.445882
+1584,The Jerboa,28,crane,US,39.7837304,-100.445882
+1585,Nine Nectarines and Other Porcelain,51,crane,US,39.7837304,-100.445882
+1586,Walking-Sticks and Paperweights and Watermarks,88,crane,US,39.7837304,-100.445882
+1587,An Octopus,100,pumice,US,39.7837304,-100.445882
+1588,An Octopus,206,hardtack,US,39.7837304,-100.445882
+1589,Sea Unicorns and Land Unicorns,8,weed,US,39.7837304,-100.445882
+1590,"Part of a Novel, Part of a Poem, Part of a Play",153,weed,US,39.7837304,-100.445882
+1591,The Plumet Basilisk,108,weed,US,39.7837304,-100.445882
+1592,Walking-Sticks and Paperweights and Watermarks,2,weed,US,39.7837304,-100.445882
+1593,Enough,43,weed,US,39.7837304,-100.445882
+1594,Charity Overcoming Envy,12,weed,US,39.7837304,-100.445882
+1595,Injudicious Gardening,3,bear,US,39.7837304,-100.445882
+1596,Marriage,80,bear,US,39.7837304,-100.445882
+1597,Marriage,173,bear,US,39.7837304,-100.445882
+1598,An Octopus,44,bear,US,39.7837304,-100.445882
+1599,An Octopus,51,bear,US,39.7837304,-100.445882
+1600,An Octopus,128,bear,US,39.7837304,-100.445882
+1601,Sea Unicorns and Land Unicorns,17,bear,US,39.7837304,-100.445882
+1602,Sea Unicorns and Land Unicorns,43,bear,US,39.7837304,-100.445882
+1603,The Frigate Pelican,14,bear,US,39.7837304,-100.445882
+1604,The Old Dominion,106,bear,US,39.7837304,-100.445882
+1605,The Pangolin,22,bear,US,39.7837304,-100.445882
+1606,Baseball and Writing,78,bear,US,39.7837304,-100.445882
+1607,W. S. Landor,2,bear,US,39.7837304,-100.445882
+1608,The Monkey Puzzler,5,cat,US,39.7837304,-100.445882
+1609,My Apish Cousins,4,cat,US,39.7837304,-100.445882
+1610,My Apish Cousins,12,cat,US,39.7837304,-100.445882
+1611,Peter,2,cat,US,39.7837304,-100.445882
+1612,Peter,27,cat,US,39.7837304,-100.445882
+1613,Dock Rats,23,cat,US,39.7837304,-100.445882
+1614,UK,24,cat,US,39.7837304,-100.445882
+1615,Silence,5,cat,US,39.7837304,-100.445882
+1616,An Octopus,147,cat,US,39.7837304,-100.445882
+1617,"Part of a Novel, Part of a Poem, Part of a Play",32,cat,US,39.7837304,-100.445882
+1618,"Part of a Novel, Part of a Poem, Part of a Play",42,cat,US,39.7837304,-100.445882
+1619,"Part of a Novel, Part of a Poem, Part of a Play",157,cat,US,39.7837304,-100.445882
+1620,"Part of a Novel, Part of a Poem, Part of a Play",185,cat,US,39.7837304,-100.445882
+1621,The Frigate Pelican,68,cat,US,39.7837304,-100.445882
+1622,Pigeons,63,cat,US,39.7837304,-100.445882
+1623,The Old Dominion,211,cat,US,39.7837304,-100.445882
+1624,The Old Dominion,270,cat,US,39.7837304,-100.445882
+1625,Spenser’s Ireland,69,cat,US,39.7837304,-100.445882
+1626,The Wood-Weasel,11,cat,US,39.7837304,-100.445882
+1627,Tom Fool at Jamaica,39,cat,US,39.7837304,-100.445882
+1628,"Tell Me, Tell Me",38,cat,US,39.7837304,-100.445882
+1629,Tippoo’s Tiger,10,cat,US,39.7837304,-100.445882
+1630,“Like a Wave at the Curl”,3,cat,US,39.7837304,-100.445882
+1631,The Magician’s Retreat,7,cat,US,39.7837304,-100.445882
+1632,Critics and Connoisseurs,11,flamingo,US,39.7837304,-100.445882
+1633,Critics and Connoisseurs,23,north,US,39.7837304,-100.445882
+1634,UK,19,north,US,39.7837304,-100.445882
+1635,A Carriage from Sweden,11,north,US,39.7837304,-100.445882
+1636,Combat Cultural,29,north,US,39.7837304,-100.445882
+1637,The Fish,39,hatchet,US,39.7837304,-100.445882
+1638,The Old Dominion,310,hatchet,US,39.7837304,-100.445882
+1639,Black Earth,3,alligator,US,39.7837304,-100.445882
+1640,Peter,20,alligator,US,39.7837304,-100.445882
+1641,"Part of a Novel, Part of a Poem, Part of a Play",117,alligator,US,39.7837304,-100.445882
+1642,The Plumet Basilisk,63,alligator,US,39.7837304,-100.445882
+1643,The Plumet Basilisk,145,alligator,US,39.7837304,-100.445882
+1644,Radical,5,corn,US,39.7837304,-100.445882
+1645,Radical,12,hat,US,39.7837304,-100.445882
+1646,When I Buy Pictures,8,hat,US,39.7837304,-100.445882
+1647,"Part of a Novel, Part of a Poem, Part of a Play",49,hat,US,39.7837304,-100.445882
+1648,The Frigate Pelican,78,hat,US,39.7837304,-100.445882
+1649,The Pangolin,51,hat,US,39.7837304,-100.445882
+1650,Style,4,hat,US,39.7837304,-100.445882
+1651,Rescue with Yul Brynner,41,hat,US,39.7837304,-100.445882
+1652,In Lieu of the Lyre,19,hat,US,39.7837304,-100.445882
+1653,In Lieu of the Lyre,23,hat,US,39.7837304,-100.445882
+1654,Picking And Choosing,23,linen,US,39.7837304,-100.445882
+1655,The Jerboa,37,linen,US,39.7837304,-100.445882
+1656,His Shield,20,linen,US,39.7837304,-100.445882
+1657,UK,7,gourd,US,39.7837304,-100.445882
+1658,"Part of a Novel, Part of a Poem, Part of a Play",29,gourd,US,39.7837304,-100.445882
+1659,The Plumet Basilisk,105,gourd,US,39.7837304,-100.445882
+1660,An Expedient—Leonardo da Vinci’s—and a Query,8,gourd,US,39.7837304,-100.445882
+1661,People’s Surroundings,37,american,US,39.7837304,-100.445882
+1662,An Octopus,17,american,US,39.7837304,-100.445882
+1663,An Octopus,132,american,US,39.7837304,-100.445882
+1664,Nine Nectarines and Other Porcelain,14,american,US,39.7837304,-100.445882
+1665,The Old Dominion,131,american,US,39.7837304,-100.445882
+1666,Style,8,american,US,39.7837304,-100.445882
+1667,Old Tiger,9,american,US,39.7837304,-100.445882
+1668,New York,0,york,US,39.7837304,-100.445882
+1669,The Old Dominion,326,york,US,39.7837304,-100.445882
+1670,“Keeping Their World Large”,3,york,US,39.7837304,-100.445882
+1671,New York,4,ermine,US,39.7837304,-100.445882
+1672,An Octopus,70,ermine,US,39.7837304,-100.445882
+1673,Then the Ermine:,0,ermine,US,39.7837304,-100.445882
+1674,New York,4,tepee,US,39.7837304,-100.445882
+1675,New York,6,spot,US,39.7837304,-100.445882
+1676,An Octopus,43,spot,US,39.7837304,-100.445882
+1677,An Octopus,145,spot,US,39.7837304,-100.445882
+1678,"Part of a Novel, Part of a Poem, Part of a Play",29,spot,US,39.7837304,-100.445882
+1679,The Old Dominion,121,spot,US,39.7837304,-100.445882
+1680,The Arctic Ox (or Goat),30,spot,US,39.7837304,-100.445882
+1681,Old Amusement Park,7,spot,US,39.7837304,-100.445882
+1682,Old Tiger,44,spot,US,39.7837304,-100.445882
+1683,People’s Surroundings,6,palace,US,39.7837304,-100.445882
+1684,People’s Surroundings,83,palace,US,39.7837304,-100.445882
+1685,Rescue with Yul Brynner,43,palace,US,39.7837304,-100.445882
+1686,Tippoo’s Tiger,5,palace,US,39.7837304,-100.445882
+1687,People’s Surroundings,35,mosquito,US,39.7837304,-100.445882
+1688,People’s Surroundings,40,surf,US,39.7837304,-100.445882
+1689,Novices,39,surf,US,39.7837304,-100.445882
+1690,People’s Surroundings,79,desert,US,39.7837304,-100.445882
+1691,The Jerboa,85,desert,US,39.7837304,-100.445882
+1692,The Jerboa,110,desert,US,39.7837304,-100.445882
+1693,The Jerboa,140,desert,US,39.7837304,-100.445882
+1694,He “Digesteth Harde Yron”,64,desert,US,39.7837304,-100.445882
+1695,In Distrust of Merits,22,desert,US,39.7837304,-100.445882
+1696,Leonardo da Vinci’s,12,desert,US,39.7837304,-100.445882
+1697,Bowls,6,lacquer,US,39.7837304,-100.445882
+1698,Marriage,50,stately,US,39.7837304,-100.445882
+1699,Marriage,70,oyster,US,39.7837304,-100.445882
+1700,An Octopus,58,stag,US,39.7837304,-100.445882
+1701,Spenser’s Ireland,68,stag,US,39.7837304,-100.445882
+1702,"Saint Nicholas,",36,stag,US,39.7837304,-100.445882
+1703,An Octopus,147,sunflower,US,39.7837304,-100.445882
+1704,"Part of a Novel, Part of a Poem, Part of a Play",33,sunflower,US,39.7837304,-100.445882
+1705,Camellia Sabina,34,sunflower,US,39.7837304,-100.445882
+1706,The Old Dominion,88,sunflower,US,39.7837304,-100.445882
+1707,Charity Overcoming Envy,14,sunflower,US,39.7837304,-100.445882
+1708,Sea Unicorns and Land Unicorns,19,florida,US,39.7837304,-100.445882
+1709,"Part of a Novel, Part of a Poem, Part of a Play",2,steeple,US,39.7837304,-100.445882
+1710,"Part of a Novel, Part of a Poem, Part of a Play",23,steeple,US,39.7837304,-100.445882
+1711,"Part of a Novel, Part of a Poem, Part of a Play",60,steeple,US,39.7837304,-100.445882
+1712,"Part of a Novel, Part of a Poem, Part of a Play",73,steeple,US,39.7837304,-100.445882
+1713,"Part of a Novel, Part of a Poem, Part of a Play",77,steeple,US,39.7837304,-100.445882
+1714,"Part of a Novel, Part of a Poem, Part of a Play",78,steeple,US,39.7837304,-100.445882
+1715,"Part of a Novel, Part of a Poem, Part of a Play",93,arbor,US,39.7837304,-100.445882
+1716,The Old Dominion,63,arbor,US,39.7837304,-100.445882
+1717,The Plumet Basilisk,11,chieftain,US,39.7837304,-100.445882
+1718,The Wood-Weasel,8,chieftain,US,39.7837304,-100.445882
+1719,The Plumet Basilisk,55,dove,US,39.7837304,-100.445882
+1720,Nine Nectarines and Other Porcelain,51,dove,US,39.7837304,-100.445882
+1721,Pigeons,46,dove,US,39.7837304,-100.445882
+1722,Pigeons,58,dove,US,39.7837304,-100.445882
+1723,The Mind is an Enchanting Thing,29,dove,US,39.7837304,-100.445882
+1724,The Frigate Pelican,61,armadillo,US,39.7837304,-100.445882
+1725,The Frigate Pelican,84,mangrove,US,39.7837304,-100.445882
+1726,The Buffalo,0,buffalo,US,39.7837304,-100.445882
+1727,The Buffalo,22,buffalo,US,39.7837304,-100.445882
+1728,The Buffalo,32,buffalo,US,39.7837304,-100.445882
+1729,The Buffalo,37,buffalo,US,39.7837304,-100.445882
+1730,The Buffalo,49,buffalo,US,39.7837304,-100.445882
+1731,The Arctic Ox (or Goat),47,buffalo,US,39.7837304,-100.445882
+1732,Walking-Sticks and Paperweights and Watermarks,98,juniper,US,39.7837304,-100.445882
+1733,Walking-Sticks and Paperweights and Watermarks,107,juniper,US,39.7837304,-100.445882
+1734,Walking-Sticks and Paperweights and Watermarks,115,juniper,US,39.7837304,-100.445882
+1735,The Old Dominion,154,juniper,US,39.7837304,-100.445882
+1736,The Old Dominion,12,hackberry,US,39.7837304,-100.445882
+1737,The Old Dominion,159,hackberry,US,39.7837304,-100.445882
+1738,The Old Dominion,13,ivy,US,39.7837304,-100.445882
+1739,The Old Dominion,63,ivy,US,39.7837304,-100.445882
+1740,The Old Dominion,47,virginian,US,39.7837304,-100.445882
+1741,The Old Dominion,113,virginian,US,39.7837304,-100.445882
+1742,The Old Dominion,66,tidewater,US,39.7837304,-100.445882
+1743,The Old Dominion,76,buckeye,US,39.7837304,-100.445882
+1744,The Old Dominion,95,magnolia,US,39.7837304,-100.445882
+1745,The Old Dominion,234,elf,US,39.7837304,-100.445882
+1746,Spenser’s Ireland,2,kindest,US,39.7837304,-100.445882
+1747,Elephants,65,soldier,US,39.7837304,-100.445882
+1748,In Distrust of Merits,58,soldier,US,39.7837304,-100.445882
+1749,W. S. Landor,4,soldier,US,39.7837304,-100.445882
+1750,The Mind is an Enchanting Thing,9,kiwi,US,39.7837304,-100.445882
+1751,His Shield,9,asbestos,US,39.7837304,-100.445882
+1752,Armor’s Undermining Modesty,23,beer,US,39.7837304,-100.445882
+1753,For February 14th,6,beer,US,39.7837304,-100.445882
+1754,We Call Them the Brave,16,congressionally,US,39.7837304,-100.445882
+1755,Tom Fool at Jamaica,2,statesman,US,39.7837304,-100.445882
+1756,Tom Fool at Jamaica,38,ted,US,39.7837304,-100.445882
+1757,Hometown Piece for Messrs. Alston and Reese,9,yankee,US,39.7837304,-100.445882
+1758,Baseball and Writing,59,yankee,US,39.7837304,-100.445882
+1759,Hometown Piece for Messrs. Alston and Reese,48,jake,US,39.7837304,-100.445882
+1760,Hometown Piece for Messrs. Alston and Reese,49,jake,US,39.7837304,-100.445882
+1761,To Victor Hugo of My Crow Pluto,36,peso,US,39.7837304,-100.445882
+1762,To Victor Hugo of My Crow Pluto,70,peso,US,39.7837304,-100.445882
+1763,The Past is the Present,4,morrow,US,39.7837304,-100.445882
+1764,The Arctic Ox (or Goat),25,chinchilla,Venezuela,8.0018709,-66.1109318

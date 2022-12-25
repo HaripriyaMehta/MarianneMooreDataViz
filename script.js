@@ -139,8 +139,8 @@ $.get('./data.csv', function(csvString) {
   // Create cards with compiled data
   cardfolder = document.createElement("div");
   cardfolder.setAttribute("id", "cardfolder");
-  for (var i = 0; i < countries["Africa"].length; i++) { // loop through all the poems Africa maps to
-    poem = countries["Africa"][i];
+  for (var i = 0; i < countries["Andorra"].length; i++) { // loop through all the poems Andorra maps to
+    poem = countries["Andorra"][i];
 
     card = document.createElement("div");
 
@@ -148,7 +148,7 @@ $.get('./data.csv', function(csvString) {
     h1 = document.createElement("h1");
     h1.appendChild(document.createTextNode("Poem: " + poem));
     h1.appendChild(document.createElement("br"));
-    h1.appendChild(document.createTextNode("Location:  Africa"));
+    h1.appendChild(document.createTextNode("Location:  Andorra"));
     h1.className = "h1";
     card.appendChild(h1);
 
@@ -163,7 +163,7 @@ $.get('./data.csv', function(csvString) {
       var country = line_info["country"];
 
       // Add line info to card
-      if (country == "Africa"){
+      if (country == "Andorra"){
         p.appendChild(document.createTextNode("Line #: " + linenumber + ", "  + "\"" + word + "\""));
         p.appendChild(document.createElement("br"));
       }
@@ -176,7 +176,7 @@ $.get('./data.csv', function(csvString) {
   }
   
   document.body.appendChild(cardfolder);  
-  for (var i = 0; i < Math.ceil(countries["Africa"].length/3)+1; i++) { 
+  for (var i = 0; i < Math.ceil(countries["Andorra"].length/3)+1; i++) { 
     $('#cardfolder').append('<br><br><br><br><br><br><br><br><br>');
   }
 });
