@@ -4,6 +4,39 @@ map.setMinZoom(2);
 var osmLayer = new L.TileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
  noWrap: true
 }).addTo(map);
+
+
+var map2 = L.map('map2').setView([0, 0], 2);
+map.setMaxBounds([[80, -190], [-80, 190]]);
+map.setMinZoom(2);
+var osmLayer = new L.TileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+ noWrap: true
+}).addTo(map2);
+
+
+
+var actualcountry = 'Andorra';
+
+      function getColor(d) {
+    return d == actualcountry ? '#BD0026' : '#FFEDA0';
+}
+
+      function style(feature) {
+    return {
+        fillColor: getColor(feature.properties.ADMIN),
+        weight: 2,
+        opacity: 1,
+        color: 'white',
+        dashArray: '3',
+        fillOpacity: 0.7
+    };
+}
+      
+new L.GeoJSON.AJAX("countries.geojson", {style: style}).addTo(map2);
+
+
+
+
 var data;
 var poem_dict = {}
 var marker_dict = {}
@@ -193,7 +226,17 @@ function changePoem(value) {
 }
 
 
+var map2layer;
 function changeCountry(value) {
+
+  actualcountry = value;
+  
+  map2layer = new L.GeoJSON.AJAX("countries.geojson", {style: style})
+    
+  map2layer.addTo(map2);
+
+
+  
     cf = document.getElementById("cardfolder");
   if (cf != null) {
     document.body.removeChild(cf);
